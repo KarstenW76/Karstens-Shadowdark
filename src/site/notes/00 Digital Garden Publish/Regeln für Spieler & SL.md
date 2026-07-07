@@ -252,7 +252,7 @@ Sobald du "aktuelles Level x10" EP gesammelt hast, steigst du in das nächste Le
 - **Erfolg**: Zauber ist erfolgreich und bleibt vorbereitet; wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis
 - **Misserfolg**: Zauber scheitert und ist bis nach erfolgreicher Rast verloren
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: Zauber verloren bis nach getätigter *Buße* (siehe [[00 Digital Garden Publish/Regeln/Buße\|Buße]])
+- **NAT-1**: Zauber verloren bis nach getätigter [[00 Digital Garden Publish/Regeln/Buße\|Buße]]
 
 ### Zauberschaden
 

@@ -29,9 +29,9 @@
 
 Wähle deine Abstammung.
 
-Wähle unter den verbreiteten Abstammungen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet\|Abstammungen - verbreitet]]
+Wähle unter den [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet\|verbreiteten Abstammungen]] (diese sind ohne SL-Genehmigung erlaubt).
 
-Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - selten\|Abstammungen - selten]]
+Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - selten\|seltene Abstammungen]] wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt).
 
 ---
 
@@ -39,19 +39,17 @@ Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deine
 
 Wähle deine Klasse.
 
-Wähle unter den verbreiteten Klassen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Klassen - verbreitet\|Klassen - verbreitet]]
+Wähle unter den [[00 Digital Garden Publish/Charaktererschaffung/Klassen - verbreitet\|verbreiteten Klassen]] (diese sind ohne SL-Genehmigung erlaubt).
 
-Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Klassen - selten\|Klassen - selten]]
+Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Klassen - selten\|seltene Klassen]] wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt).
 
 ---
 
 ## Schritt 4 - Dein Hintergrund
 
-Würfle oder wähle deine Vergangenheit, deinen bisherigen Beruf. 
+Dein bisheriges Leben, deine Vergangenheit, dein Beruf. Würfle oder wähle auf der Tabelle [[00 Digital Garden Publish/Charaktererschaffung/Hintergründe\|Hintergründe]], oder schlag dem SL deine eigene Idee vor.
 
-Eine ausführliche Liste zum Würfeln oder aussuchen findest du hier: [[00 Digital Garden Publish/Charaktererschaffung/Hintergründe\|Hintergründe]].
-
- Erkläre dem SL im Spiel, warum dein Hintergrund dir in einer bestimmten Situation helfen könnte. Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre, oder du erhältst **ein mal je Sitzung** *Vorteil* auf eine passende Probe.
+**Nutzen im Spiel:** Erkläre dem SL, warum dein Hintergrund dir in bestimmter Situation helfen könnte. Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre. Möglicherweise erhältst du **ein mal je Sitzung** *Vorteil* auf einen passenden Wurf.
 
 ---
 
