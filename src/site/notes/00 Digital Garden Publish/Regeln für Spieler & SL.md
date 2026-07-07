@@ -244,7 +244,7 @@ Sobald du "aktuelles Level x10" EP gesammelt hast, steigst du in das nächste Le
 - **Erfolg**: Zauber ist erfolgreich und bleibt vorbereitet
 - **Misserfolg**: Zauber scheitert und ist bis nach erfolgreicher Rast verloren
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Tabellen/Magische Missgeschicke\|Magische Missgeschicke]]
+- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
 ### Zauberwirken Priester
 
@@ -252,7 +252,7 @@ Sobald du "aktuelles Level x10" EP gesammelt hast, steigst du in das nächste Le
 - **Erfolg**: Zauber ist erfolgreich und bleibt vorbereitet; wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis
 - **Misserfolg**: Zauber scheitert und ist bis nach erfolgreicher Rast verloren
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: Zauber verloren bis nach getätigter *Buße* (siehe [[20 Shadowdark GRW/4 Magie#Buße\|4 Magie#Buße]])
+- **NAT-1**: Zauber verloren bis nach getätigter *Buße* (siehe [[00 Digital Garden Publish/Regeln/Buße\|Buße]])
 
 ### Zauberschaden
 
@@ -273,7 +273,7 @@ Anstatt den normalen Wirk-Zeitaufwand von einer Aktion zu verwenden, kannst du e
 - **Erfolg**: Schriftrolle verbrennt, Zauber ist erfolgreich
 - **Misserfolg**: Schriftrolle verbrennt, Zauber scheitert
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Tabellen/Magische Missgeschicke\|Magische Missgeschicke]]
+- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
 **Zauberwirken Priesterzauber von Schriftrolle**: Nur Priester; **WEI-Probe SG "10 + Zaubergrad"**
 - **Erfolg**: Schriftrolle verbrennt, Zauber ist erfolgreich
@@ -292,7 +292,7 @@ Zauberwirken von Zauberstab: Nur Zauberwirker; **INT-Probe SG "10 + Zaubergrad"*
 - **Erfolg**: Zauber ist erfolgreich, Zauberstab bleibt nutzbar
 - **Misserfolg**: Zauber scheitert, Zauberstab bis nach erfolgreicher Rast nicht nutzbar
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Tabellen/Magische Missgeschicke\|Magische Missgeschicke]]
+- **NAT-1**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
 ---
 
