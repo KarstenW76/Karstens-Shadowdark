@@ -6,7 +6,7 @@
 > [!info] Verbreitete Klassen
 > Folgende Klassen sind weithin verbreitet und ohne vorherige Abstimmung mit dem SL auswählbar.
 
-# BARDE
+# Barde
 
 *Barden sind willkommene Wanderer und weise Berater; es ist ihre Aufgabe, das über die Zeitalter überlieferte Wissen zu schützen und zu teilen.*
 
@@ -71,7 +71,7 @@ Der Grad des gefundenen Zauberstabs richtet sich nach dem aktuellen Level des Ba
 
 <br>
 
-# DIEB
+# Dieb
 
 *Meuchelmörder, grinsende Trickbetrüger oder verhüllte Fassadenkletterer, die einem schlafenden Dämon einen Edelstein aus den Klauen stehlen, um ihn für das Doppelte seines Wertes zu verkaufen.*
 
@@ -124,7 +124,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 
 <br>
 
-# KÄMPFER
+# Kämpfer
 
 *Blutüberströmte Gladiatoren in verbeulten Rüstungen, akrobatische Duellanten mit schnellen Klingen oder weitsichtige elfische Bogenschützen.*
 
@@ -173,7 +173,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 
 <br>
 
-# MAGIER
+# Magier
 
 *Runentätowierte Adepten, bebrillte Magi und flammenbeschwörende Hexen, die es wagen, die gefürchteten Mächte der Magie zu manipulieren.*
 
@@ -254,7 +254,7 @@ Für das Lernen hast du 3 Optionen:
 
 <br>
 
-# PRIESTER
+# Priester
 
 *Templer, prophetische Schamanen oder wahnsinnige Eiferer, welche die Macht ihrer Götter leiten, um das Unheilige zu reinigen.*
 
@@ -344,7 +344,7 @@ Für das Lernen hast du 3 Optionen:
 
 <br>
 
-# WALDLÄUFER
+# Waldläufer
 
 *Geschickte Fährtenleser, stille Wanderer und unübertroffene Krieger, die die Wildnis ihre Heimat nennen.*
 
