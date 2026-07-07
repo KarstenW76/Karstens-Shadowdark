@@ -45,8 +45,12 @@
 * Gericht (Judgment): [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Priester#Heiliges Gericht - P5\|#Heiliges Gericht - P5]]
 * Prophezeiung (Prophecy): [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Priester#Prophezeiung - P5\|#Prophezeiung - P5]]
 
+<br>
+
 ---
 ---
+
+<br>
 
 # Zauber
 

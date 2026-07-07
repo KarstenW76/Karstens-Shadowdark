@@ -75,8 +75,12 @@
 - Wort der Macht: Tod (Power Word Kill): [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Magier#Wort der Macht Tod - M5\|#Wort der Macht Tod - M5]]
 - Wunsch (Wish): [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Magier#Wunsch - M5\|#Wunsch - M5]]
 
+<br>
+
 ---
 ---
+
+<br>
 
 # Zauber
 
