@@ -64,7 +64,7 @@
 ---
 ---
 
-## Selbst erstellte Klassen
+## Neue eigene Klassen
 
 ---
 

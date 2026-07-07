@@ -281,7 +281,7 @@
 
 ---
 
-# Zwerg, Tiefen-
+# Zwerg (Tiefen-Zwerg)
 
 *Tiefen-Zwerge leben tief unter der Erde und interagieren selten mit Oberflächenwesen. Sie sind an lange Reisen durch weitläufige Höhlenkomplexe gewöhnt.*
 
