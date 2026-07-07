@@ -6,7 +6,7 @@
 > [!info] Verbreitete Klassen
 > Folgende Klassen sind weithin verbreitet und ohne vorherige Abstimmung mit dem SL auswählbar.
 
-### Barde
+## BARDE
 
 *Barden sind willkommene Wanderer und weise Berater; es ist ihre Aufgabe, das über die Zeitalter überlieferte Wissen zu schützen und zu teilen.*
 
@@ -65,9 +65,13 @@ Der Grad des gefundenen Zauberstabs richtet sich nach dem aktuellen Level des Ba
 | 7-8 | Poet | Silberzunge | Stimme |
 | 9-10 | Meisterpoet | Unheilsverkünder | Wahrheitsträger |
 
+<br>
+
 ---
 
-### Dieb
+<br>
+
+## DIEB
 
 *Meuchelmörder, grinsende Trickbetrüger oder verhüllte Fassadenkletterer, die einem schlafenden Dämon einen Edelstein aus den Klauen stehlen, um ihn für das Doppelte seines Wertes zu verkaufen.*
 
@@ -114,9 +118,13 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 | 7-8 | Unterboss | Meuchelmörder | Abtrünniger |
 | 9-10 | Boss | Phantom | Banditenkönig/-königin |
 
+<br>
+
 ---
 
-### Kämpfer
+<br>
+
+## KÄMPFER
 
 *Blutüberströmte Gladiatoren in verbeulten Rüstungen, akrobatische Duellanten mit schnellen Klingen oder weitsichtige elfische Bogenschützen.*
 
@@ -159,9 +167,13 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 | 7-8 | Than | Verwüster | Kriegsherr |
 | 9-10 | Lord/Lady | Kriegsherr | Clanführer |
 
+<br>
+
 ---
 
-### Magier
+<br>
+
+## MAGIER
 
 *Runentätowierte Adepten, bebrillte Magi und flammenbeschwörende Hexen, die es wagen, die gefürchteten Mächte der Magie zu manipulieren.*
 
@@ -236,9 +248,13 @@ Für das Lernen hast du 3 Optionen:
 | 7-8 | Magier | Diabolist | Weiser |
 | 9-10 | Erzmagier | Zauberer | Druide |
 
+<br>
+
 ---
 
-### Priester
+<br>
+
+## PRIESTER
 
 *Templer, prophetische Schamanen oder wahnsinnige Eiferer, welche die Macht ihrer Götter leiten, um das Unheilige zu reinigen.*
 
@@ -322,9 +338,13 @@ Für das Lernen hast du 3 Optionen:
 | 7-8 | Champion | Geißel | Mystiker |
 | 9-10 | Paladin | Chaosritter | Orakel |
 
+<br>
+
 ---
 
-### Waldläufer
+<br>
+
+## WALDLÄUFER
 
 *Geschickte Fährtenleser, stille Wanderer und unübertroffene Krieger, die die Wildnis ihre Heimat nennen.*
 
