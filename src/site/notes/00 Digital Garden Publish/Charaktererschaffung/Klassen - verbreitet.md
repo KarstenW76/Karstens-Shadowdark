@@ -5,6 +5,8 @@
 
 > [!info] Verbreitete Klassen
 > Folgende Klassen sind weithin verbreitet und ohne vorherige Abstimmung mit dem SL auswählbar.
+> 
+> Seltene Klassen, die nur nach vorheriger Genehmigung deines SL zulässig, findest du hier: [[00 Digital Garden Publish/Charaktererschaffung/Klassen - selten\|Klassen - selten]]
 
 ---
 

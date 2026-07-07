@@ -5,6 +5,8 @@
 
 > [!info] Verbreitete Abstammungen
 > Folgende Abstammungen sind weithin verbreitet und ohne vorherige Abstimmung mit dem SL auswählbar.
+> 
+> Seltene Abstammungen, die nur nach vorheriger Genehmigung deines SL zulässig, findest du hier: [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - selten\|Abstammungen - selten]]
 
 ---
 
