@@ -7,9 +7,9 @@
 > Folgende Klassen sind nur nach vorheriger Genehmigung deines SL wählbar, bitte bei Bedarf vorher besprechen.
 > In den meisten Szenarien werden [[00 Digital Garden Publish/Charaktererschaffung/Klassen - verbreitet\|Klassen - verbreitet]] verwendet.
 
+---
 
-## Klassen aus Cursed Scrolls 1
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 1
 
 ---
 
@@ -18,8 +18,7 @@
 ---
 ---
 
-## Klassen aus Cursed Scrolls 2
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 2
 
 ---
 
@@ -28,8 +27,7 @@
 ---
 ---
 
-## Klassen aus Cursed Scrolls 3
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 3
 
 ---
 
@@ -38,8 +36,7 @@
 ---
 ---
 
-## Klassen aus Cursed Scrolls 4
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 4
 
 ---
 
@@ -48,8 +45,7 @@
 ---
 ---
 
-## Klassen aus Cursed Scrolls 5
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 5
 
 ---
 
@@ -58,8 +54,7 @@
 ---
 ---
 
-## Klassen aus Cursed Scrolls 6
-> (nur mit SL-Genehmigung)
+## Cursed Scrolls 6
 
 ---
 
@@ -68,8 +63,7 @@
 ---
 ---
 
-## Karstens eigene Klassen
-> (nur mit SL-Genehmigung)
+## Selbst erstellte Klassen
 
 ---
 

@@ -6,6 +6,8 @@
 > [!info] Verbreitete Klassen
 > Folgende Klassen sind weithin verbreitet und ohne vorherige Abstimmung mit dem SL auswählbar.
 
+---
+
 # Barde
 
 *Barden sind willkommene Wanderer und weise Berater; es ist ihre Aufgabe, das über die Zeitalter überlieferte Wissen zu schützen und zu teilen.*
