@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/00-digital-garden-publish/willkommen/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00 Digital Garden Publish/Willkommen/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowToc":true,"dg-note-properties":{}}
 ---
+
 
 # Karstens Shadowdark Wiki ⚔️
 
