@@ -73,11 +73,11 @@ Ein Crawling-Set kostet 7 GM. Es belegt 7 Ausrüstungsslots und enthält die fol
 
 **Kreide**: Praktisch zum Markieren von Wänden, Böden usw. Wird bei Verwendung verbraucht.
 
-**Laterne**: Wirft Licht bis zur Distanz *Doppelt-Nah*. Benötigt Öl. Besitzt eine Blende, um das Licht zu verbergen. Siehe [[00 Digital Garden Publish/Regeln/Regeln für Spieler & SL#Laternen\|Regeln für Spieler & SL#Laternen]] für Werfen/Fallenlassen.
+**Laterne**: Wirft Licht bis zur Distanz *Doppelt-Nah*. Benötigt Öl. Besitzt eine Blende, um das Licht zu verbergen. Siehe [[00 Digital Garden Publish/Regeln für Spieler & SL#Laternen\|Regeln für Spieler & SL#Laternen]] für Werfen/Fallenlassen.
 
 **Münze**: Eine Goldmünze (GM) ist 10 Silbermünzen (SM) oder 100 Kupfermünzen (KM) wert.
 
-**Ölflasche**: Betreibt eine Laterne für eine Stunde Echtzeit. Siehe [[00 Digital Garden Publish/Regeln/Regeln für Spieler & SL#Ölflaschen\|Regeln für Spieler & SL#Ölflaschen]] für Werfen und Effekte.
+**Ölflasche**: Betreibt eine Laterne für eine Stunde Echtzeit. Siehe [[00 Digital Garden Publish/Regeln für Spieler & SL#Ölflaschen\|Regeln für Spieler & SL#Ölflaschen]] für Werfen und Effekte.
 
 **Rationen**: Vorrat an Nahrung und Wasser für einen Tag für eine Person.
 

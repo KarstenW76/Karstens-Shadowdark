@@ -191,7 +191,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 **Zauberwirken**: Du kannst Magierzauber wirken, die du kennst.
 - Du kennst drei Zauber des 1. Grades deiner Wahl aus der Magierzauberliste (siehe [[20 Shadowdark GRW/4 Magie#Magierzauber-Liste\|4 Magie#Magierzauber-Liste]]). 
 - Jedes Mal, wenn du ein Level aufsteigst, wählst du neue Magierzauber gemäß der Tabelle "Bekannte Magierzauber" aus. 
-- Für Details zum Wirken von Magierzaubern siehe [[00 Digital Garden Publish/Regeln/Regeln für Spieler & SL#Magie / Zaubern\|Regeln für Spieler & SL#Magie / Zaubern]] und [[20 Shadowdark GRW/4 Magie#Zauberwirken\|4 Magie#Zauberwirken]].
+- Für Details zum Wirken von Magierzaubern siehe [[00 Digital Garden Publish/Regeln für Spieler & SL#Magie / Zaubern\|Regeln für Spieler & SL#Magie / Zaubern]] und [[20 Shadowdark GRW/4 Magie#Zauberwirken\|4 Magie#Zauberwirken]].
 
 **Blutmagie:** Ein Magier kann die Mächte des Blutes auf zwei Arten anrufen, um seine Magie zu erzwingen:
 1. **Vor dem Wurf**: Er entscheidet sich *vor* einer Zauberprobe, einen aktiv zauberbaren Spruch automatisch erfolgreich zu wirken (ohne Verlust und ohne Probe, damit auch ohne Krit oder Patzer).
@@ -283,7 +283,7 @@ Für das Lernen hast du 3 Optionen:
 **Zauberwirken**: Du kannst Priesterzauber wirken, die du kennst. 
 - Du kennst zwei Zauber des 1. Grades deiner Wahl aus der Magierzauberliste (siehe [[20 Shadowdark GRW/4 Magie#Priesterzauber-Liste\|4 Magie#Priesterzauber-Liste]]). 
 - Jedes Mal, wenn du ein Level aufsteigst, wählst du neue Priesterzauber gemäß der Tabelle "Bekannte Priesterzauber" aus. 
-- Für Details zum Wirken von Priesterzaubern siehe [[00 Digital Garden Publish/Regeln/Regeln für Spieler & SL#Magie / Zaubern\|Regeln für Spieler & SL#Magie / Zaubern]] und [[20 Shadowdark GRW/4 Magie#Zauberwirken\|4 Magie#Zauberwirken]].
+- Für Details zum Wirken von Priesterzaubern siehe [[00 Digital Garden Publish/Regeln für Spieler & SL#Magie / Zaubern\|Regeln für Spieler & SL#Magie / Zaubern]] und [[20 Shadowdark GRW/4 Magie#Zauberwirken\|4 Magie#Zauberwirken]].
 
 **Göttliche Intervention**: Einmal pro Level (wird beim Level-Up aufgefrischt; nicht stapelbar) kannst du eine *Göttliche Intervention* erflehen, um ein Wunder deiner Gottheit zu bewirken.
 - **Ablauf:** Beschreibe das gewünschte Wunder. SL legt SG fest (i.d.R. **SG 15** für kleinere Wunder oder **SG 18** für spielverändernde Effekte; erhalte Nachteil wenn du etwas in gegensätzlicher Gesinnung deiner Gottheit erflehst). Würfle 1d20 + WEI-Mod.
