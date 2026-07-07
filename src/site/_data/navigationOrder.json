@@ -2,15 +2,26 @@
   "/": [
     "Willkommen",
     "Charaktererschaffung Level 1",
-    "Charaktererschaffung"
+    "Charaktererschaffung",
+    "Ausrüstung",
+    "Regeln"
   ],
   "/Charaktererschaffung": [
     "Abstammungen",
-    "Klassen",
+    "Verbreitete Klassen",
+    "Seltene Klassen",
     "Hintergründe",
     "Gottheiten",
     "Sprachen",
     "Zauberliste Magier",
     "Zauberliste Priester"
+  ],
+  "/Ausrüstung": [
+    "Ausrüstung",
+    "Waffen",
+    "Rüstungen"
+  ],
+  "/Regeln": [
+    "Regeln für Spieler & SL"
   ]
 }
