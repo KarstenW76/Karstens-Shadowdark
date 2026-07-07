@@ -9,7 +9,7 @@ Willkommen in den Tiefen des Shadowdark!
 
 Dies ist die Wiki-Website für das Shadowdark Rollenspiel mit allen Informationen für meine Spieler. 
 
-### Starte direkt hier
+<br>
 
 Hier findest du die Schritt-für-Schritt Anleitung zur Erschaffung deines Abenteurers: [[00 Digital Garden Publish/Charaktererschaffung Level 1\|Charaktererschaffung Level 1]]
 
