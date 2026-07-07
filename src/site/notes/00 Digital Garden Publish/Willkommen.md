@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00 Digital Garden Publish/Willkommen/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowToc":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Willkommen.md","permalink":"/Willkommen/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowToc":true,"dg-note-properties":{}}
 ---
 
 
