@@ -3,10 +3,12 @@
 ---
 
 
-# Karstens Shadowdark Wiki ⚔️
+# Karstens Shadowdark Wiki
 
-Willkommen in der Dunkelheit! Das hier ist die allererste, lebendige Notiz aus meinem Obsidian-Tresor. 
+Willkommen in den Tiefen des Shadowdark! 
 
-### Meine nächsten Abenteuer:
+Dies ist die Wiki-Website meiner Obsidian Vault für das Shadowdark Rollenspiel mit allen Informationen für meine Spieler. 
+
+### Startet direkt hier
 - [ ] Der Tempel des schreienden Gottes
 - [ ] Die Katakomben unter Grauwasser
