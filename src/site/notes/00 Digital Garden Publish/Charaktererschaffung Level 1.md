@@ -2,8 +2,7 @@
 {"dg-publish":true,"dg-path":"Charaktererschaffung Level 1.md","permalink":"/Charaktererschaffung Level 1/","dg-note-properties":{}}
 ---
 
-Vorbereitung: Hier findest du einen Charakterbogen (ausfüllbar / druckbar): [Hier kannst du den deutschen Charakterbogen herunterladen](/ShadowDark ChaSheet DE.pdf)
-[Hier kannst du den deutschen Charakterbogen herunterladen](/ShadowDark_%20_CharSheet_%20_DE.pdf)
+Vorbereitung: Hier findest du einen Charakterbogen (ausfüllbar / druckbar): [Download](/ShadowDark_%20_CharSheet_%20_DE.pdf)
 
 # Schritt 1 - Deine Attribute
 
