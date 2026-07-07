@@ -3,7 +3,7 @@
 ---
 
 
-## Verbreitete Sprachen
+# Verbreitete Sprachen
 
 | Sprache | Spricht wer |
 | :--- | :--- |
@@ -19,7 +19,7 @@
 | Thanisch | Tiervolk (Minotauren, Tiermenschen, Mantikore)|
 | Zwergisch | Zwerge |
 
-## Seltene Sprachen
+# Seltene Sprachen
 
 | Sprache | Spricht wer |
 | :--- | :--- |
@@ -33,7 +33,7 @@
 | Schattenelfisch (S) | Schattenelfen |
 | Urzeitlich (S) | Ältere Wesen, Elementare |
 
-## Geheimsprachen
+# Geheimsprachen
 
 | Sprache | Spricht wer |
 | :--- | :--- |
