@@ -15,6 +15,8 @@
 
 **Schwimmen**: Halbe Geschwindigkeit (STR-Probe in rauer See); Halte KON-Mod Runden die Luft an; danach lege eine KON-Probe SG 12 jede Runde ab zum weiter Atem anhalten (Misslingen: 1d4 Schaden/Rd. bis Atmen wieder möglich)
 
+<br>
+
 ### Reisen (Überland/Wildnis)
 
 **Hex-Felder** Maße in der Wildnis: je 6 km
