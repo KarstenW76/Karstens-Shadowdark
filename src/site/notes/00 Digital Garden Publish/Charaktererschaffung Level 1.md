@@ -5,7 +5,7 @@
 
 # Erschaffung Level-1 Charakter
 
-## Deine Attribute
+## Schritt 1 - Deine Attribute
 
 1. Würfle in Reihenfolge für STR, GES, KON, INT, WEI, CHA jeweils 2d6 + 4; wiederhole wenn nicht mind. eine 12 enthalten ist
 2. Steigere ein Attribut um +2
@@ -25,7 +25,7 @@
 
 ---
 
-## Deine Abstammung
+## Schritt 2 - Deine Abstammung
 
 Wähle deine Abstammung.
 
@@ -35,7 +35,7 @@ Seltene Abstammungen (nur mit SL-Genehmigung): [[00 Digital Garden Publish/Chara
 
 ---
 
-## Deine Klasse
+## Schritt 3 - Deine Klasse
 
 Wähle deine Klasse.
 
@@ -45,7 +45,7 @@ Seltene Klassen (nur nach vorheriger SL-Genehmigung): [[00 Digital Garden Publis
 
 ---
 
-## Dein Hintergrund
+## Schritt 4 - Dein Hintergrund
 
 Würfle oder wähle deine Vergangenheit, deinen bisherigen Beruf. 
 
@@ -55,7 +55,7 @@ Eine ausführliche Liste zum Würfeln oder aussuchen findest du hier: [[00 Digit
 
 ---
 
-## Deine persönliche Vervollständigung
+## Schritt 5 - Vervollständigung
 
 ### Dein Starttalent
 
@@ -99,7 +99,7 @@ Notiere deinen Titel basierend auf deiner Klasse und deiner Gesinnung.
 
 ---
 
-## Deine Startausrüstung
+## Schritt 6 - Deine Startausrüstung
 
 ### Startausrüstung
 
