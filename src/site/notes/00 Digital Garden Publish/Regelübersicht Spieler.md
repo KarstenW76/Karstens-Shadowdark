@@ -30,3 +30,7 @@
 [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsproben]]
 
 [[00 Digital Garden Publish/Regeln/Zeit vergeht\|Zeit vergeht]]
+
+---
+
+Für SL: [[00 Digital Garden Publish/Regeln/Regeln für SL/Regelübersicht für SL\|Regelübersicht für SL]]
