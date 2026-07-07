@@ -3,8 +3,6 @@
 ---
 
 
-# Seltene Klassen
-
 > [!attention] Seltene Klassen:
 > Folgende Klassen sind nur nach vorheriger Genehmigung deines SL wählbar, bitte bei Bedarf vorher besprechen.
 > In den meisten Szenarien werden [[00 Digital Garden Publish/Charaktererschaffung/Verbreitete Klassen\|Verbreitete Klassen]] verwendet.
