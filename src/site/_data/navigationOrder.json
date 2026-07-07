@@ -2,13 +2,12 @@
   "/": [
     "Willkommen",
     "Charaktererschaffung Level 1",
+    "Regeln für Spieler & SL",
     "Charaktererschaffung",
-    "Ausrüstung",
-    "Regeln"
+    "Ausrüstung"
   ],
   "/Charaktererschaffung": [
     "Abstammungen - verbreitet",
-    "Abstammungen - selten",
     "Klassen - verbreitet",
     "Klassen - selten",
     "Hintergründe",
@@ -21,8 +20,5 @@
     "Ausrüstung",
     "Waffen",
     "Rüstungen"
-  ],
-  "/Regeln": [
-    "Regeln für Spieler & SL"
   ]
 }
