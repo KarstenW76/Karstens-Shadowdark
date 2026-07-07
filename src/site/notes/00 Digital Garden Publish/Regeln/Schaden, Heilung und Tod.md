@@ -3,25 +3,27 @@
 ---
 
 
-## Schaden, Heilung und Tod
+# Schaden erleiden
 
-### Schaden erleiden
+**Angriff**: Erfolgreicher Treffer verursacht Waffenschaden (siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]])
 
-**Angriff**: Erfolgreicher Treffer verursacht Waffenschaden (siehe [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Kampf\|#Kampf]])
-
-**Brennen**: 1d4 Schaden/Rd. bis Feuer mit Aktion und GES SG 12 gelöscht; siehe auch [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Ölflaschen\|#Ölflaschen]] und [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Laternen\|#Laternen]]
+**Brennen**: 1d4 Schaden/Rd. bis Feuer mit Aktion und GES SG 12 gelöscht; siehe auch [[00 Digital Garden Publish/Regeln/Licht und Feuer#Ölflaschen\|Licht und Feuer#Ölflaschen]] und [[00 Digital Garden Publish/Regeln/Licht und Feuer#Laternen\|Licht und Feuer#Laternen]]
 
 **Ertrinken**: Bei Misserfolg der *Atem anhalten* Probe (KON SG 12 je Runde) erleidest du 1d6 Schaden/Rd. bis Atmen wieder möglich
 
 **Stürzen**: 1d6 Schaden pro 3m (2 Grid-Felder)
 
-### Heilung
+---
 
-**Rast**: Erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Unsichere Rast in Wildnis/Dungeon\|#Unsichere Rast in Wildnis/Dungeon]]
+# Heilung
+
+**Rast**: Erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Unsichere Rast in Wildnis und Dungeon\|Unsichere Rast in Wildnis und Dungeon]]
 
 **Stabilisieren**: Berührung, INT-Probe SG 15; bei Erfolg Ziel nicht mehr *Sterbend* und wacht mit 1 TP auf, ist aber *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
-### Sterben (Todestimer)
+---
+
+# Sterben (Todestimer)
 
 **Wenn TP = 0**: Held wird *bewusstlos* und ist *Sterbend*; Start *Todes-Timer*.
 
@@ -31,11 +33,13 @@
 
 **Nahtoderfahrung**: Kehrst du von *Sterbend* zurück (durch Nat. 20 oder weil stabilisiert/geheilt), bist du *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
-### Vom Tod gezeichnet
+---
+
+# Optional: Vom Tod gezeichnet
 
 Zusatzwert im Char-Bogen: "Dem Tod entkommen:" mit 2x Checkbox. Wenn Du auf 0 TP landest, wähle:
 1. Werde *bewusstlos*, sei *Sterbend* und starte den Todestimer (siehe [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Sterben (Todestimer)\|#Sterben (Todestimer)]]).
-2. Nur wenn durch Angriffshandlung: Springe dem Tod von der Schippe und markiere eine Checkbox (du kannst dies zwei mal im Leben tun), regeneriere Trefferwürfel deiner Klasse in Höhe deines halben Levels (abgerundet) zurück und bleibe aktiv im Kampf. Wirf auf der Tabelle *Heldenfähigkeiten* (du hast innewohnende Kräfte geweckt), aber auch auf der Tabelle *Verstümmelung* (alles hat seinen Preis).
+2. Nur wenn 0 TP durch Angriffshandlung: Springe dem Tod von der Schippe und markiere eine Checkbox (du kannst dies zwei mal im Leben tun), regeneriere Trefferwürfel deiner Klasse in Höhe deines halben Levels (abgerundet) zurück und bleibe aktiv im Kampf. Wirf auf der Tabelle *Heldenfähigkeiten* (du hast innewohnende Kräfte geweckt), aber auch auf der Tabelle *Verstümmelung* (alles hat seinen Preis).
 3. Führe eine letzte heldenhafte Aktion mit automatisch kritischem Erfolg aus und stirb als Held.
 
 | **d6** | **Heldenfähigkeit** |

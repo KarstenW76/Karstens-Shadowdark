@@ -3,8 +3,6 @@
 ---
 
 
-## Bewegung
-
 **Im Kampf**: siehe [[00 Digital Garden Publish/Regeln/Bewegung#Kampf\|#Kampf]] 
 
 **Außerhalb vom Kampf**: siehe [[00 Digital Garden Publish/Regeln/Bewegung#Zeit vergeht\|#Zeit vergeht]]

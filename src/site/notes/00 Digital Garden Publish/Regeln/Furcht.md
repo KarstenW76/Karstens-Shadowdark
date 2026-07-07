@@ -3,8 +3,6 @@
 ---
 
 
-## Furcht
-
 Jeder Held legt eine WEI-Probe ab. Der SG entspricht der Monsterfähigkeit, dem Zaubereffekt oder der Tiefe in der Dunkelheit, in der man sich gerade befindet (z.B. SG 9 nahe der Oberfläche oder SG 18 tief jenseits der Reichweite der Sonne).
 
 **Fehlschlag**: Wirf 1W10 auf der folgenden Tabelle.

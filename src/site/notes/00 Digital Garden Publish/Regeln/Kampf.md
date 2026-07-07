@@ -3,9 +3,7 @@
 ---
 
 
-## Kampf
-
-### Überraschung & Initiative
+# Überraschung & Initiative
 
 **Überraschung**: SL-Entscheid; Freie Angriffsaktion (Angriff mit *Vorteil*) durch Überrascher-Seite vor *INI*
 
@@ -14,28 +12,30 @@
 - **Phase 2**: Alle Monster agieren
 - **Phase 3**: Alle Helden, die die Ini-Probe nicht geschafft haben, agieren in beliebiger Reihenfolge (NAT-1 hat in erster Runde auf alle Würfe *Nachteil*)
 
-### Kampfrunde
+---
+
+# Kampfrunde
 
 > Helden konzentrieren sich entweder nur auf das Ausweichen oder können 1 Bewegung + 1 Aktion + freie Aktionen ausführen. Zusätzlich können sie Reaktionen im SL-Zug ausführen.
 
-#### Ausweichen
+## Ausweichen
 
 Wenn du deinen vollständigen Zug zum Ausweichen verwendest (keine Aktion oder Bewegung), erhalten alle Angreifer, die für den Abenteurer sichtbar sind, *Nachteil* auf ihre Angriffe
 
-#### Bewegung
+## Bewegung
 
 Bis zu Distanz **Nah (9m / 6 Grid-Felder)** bewegen oder Aufstehen oder etwas aufheben
 - Du kannst dich frei durch Verbündete bewegen. Um dich durch Feinde zu bewegen, musst du eine STR- oder GES-Vergleichsprobe bestehen und brauchst das höhere Ergebnis.
 - Beim Entfernen aus *Direkt*-Entfernung zu Gegner: GES-Probe SG 12; bei Misserfolg darf Gegner einen Nahkampfangriff ausführen
 - Schwieriges Gelände: Halbe Geschwindigkeit (und ggf. GES-Probe)
 
-#### Eine Aktion
+## Eine Aktion
 
-##### Bewegen
+### Aktion: Bewegen
 
 Erneut bewegen
 
-##### Angreifen
+### Aktion: Angreifen
 
 Angriff im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*); siehe [[00 Digital Garden Publish/Regeln/Kampf#Distanz / Entfernung\|#Distanz / Entfernung]]
 
@@ -46,24 +46,28 @@ Angriff im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*); siehe [[00 Di
 	- **NAT-20**: Schadenswürfel x2
 - **Gnadenstoß**: Trifft automatisch als wäre es eine **NAT-20**
 
-##### Kampfmanöver (Kreative Aktionen)
+### Aktion: Kampfmanöver (Kreative Aktionen)
 
 Jeder Held kann im Kampf anstelle eines Schadensangriffs ein taktisches Manöver ansagen.
 1. **Angriff**: Der Spieler beschreibt die geplante Handlung. Der SL bestimmt das passende Attribut *(z.B. GES für ein Entwaffnen / Bein stellen / Sand werfen oder STR für Wegstoßen)*. Der Spieler würfelt "1d20 + Attr-Mod"  gegen die RK des Ziels. Bei einem Fehlschlag passiert nichts, bei einem Patzer stolpert der Held und das Monster erhält *Vorteil* auf den Gegenangriff in dessen Folgerunde.
 2. **Gegenwehr**: Trifft der Angriff, erleidet das Monster *keinen* Schaden. Stattdessen muss das Monster sofort einen passenden **Rettungswurf** ablegen. Der SG entspricht exakt dem Wurf-Endergebnis des Helden.
 3. **Ergebnis**: Misslingt dem Monster der Rettungswurf, gelingt das Manöver vollumfänglich. Bei einer *NAT-20* des Helden gelingt das Manöver automatisch und es erleidet zusätzlichen Schaden gem. SL-Entscheid.
 
-##### Zauber wirken
+### Aktion: Zauber wirken
 
 siehe [[00 Digital Garden Publish/Regeln/Kampf#Magie / Zaubern\|#Magie / Zaubern]]
 
-#### Multitasking (Freie Aktionen)
+---
+
+## Multitasking (Freie Aktionen)
 
 - Etwas fallen lassen (aus der Hand)
 - Etwas Rufen
 - Einen Trank trinken (griffbereit am Gürtel)
 
-#### Optional: Reaktionen (im SL-Zug)
+---
+
+## Optional: Reaktionen (im SL-Zug)
 
 **Verteidigung gegen Angriff**: 
 - Kämpfende Monster greifen automatisch an, betroffene Helden würfeln für Verteidigung (statt SL für Angriff)
