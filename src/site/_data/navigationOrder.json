@@ -2,6 +2,7 @@
   "/": [
     "Willkommen",
     "Charaktererschaffung Level 1",
+    "Regelübersicht Spieler",
     "Charaktererschaffung",
     "Ausrüstung",
     "Regeln"
@@ -24,22 +25,22 @@
   ],
   "/Regeln": [
     "Buße",
-    "Magische Missgeschicke",
     "Bewegung",
-    "Distanz & Entfernung",
+    "Distanz und Entfernung",
     "Furcht",
-    "Glück & Schicksal",
+    "Glück und Schicksal",
     "Kampf",
     "Level-Up",
     "Licht und Feuer",
     "Magie und Zaubern",
+    "Magische Missgeschicke",
     "Schaden, Heilung und Tod",
-    "Unsichere Rast in Wildnis & Dungeon",
+    "Unsichere Rast in Wildnis und Dungeon",
     "Vergleichsproben",
     "Zeit vergeht",
     "Regeln für SL"
   ],
   "/Regeln/Regeln für SL": [
-    "Regeln für Spieler & SL"
+    "Regelübersicht für SL"
   ]
 }
