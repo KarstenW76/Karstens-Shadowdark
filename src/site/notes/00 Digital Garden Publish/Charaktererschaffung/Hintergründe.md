@@ -3,9 +3,13 @@
 ---
 
 
-Würfle oder wähle deine Vergangenheit, deinen bisherigen Beruf. Die folgende Tabelle enthält Beispiele, mach dem SL deinen gewünschten Vorschlag.
+> [!info] Würfle oder wähle deinen Hintergrund:
+> Deine Vergangenheit, dein bisheriger Beruf. 
+> Die folgende Tabelle enthält Beispiele, mach dem SL deinen gewünschten Vorschlag.
 
-Erkläre dem SL, warum dein Hintergrund dir in bestimmter Situation helfen könnte. Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre. Möglicherweise erhältst du **ein mal je Sitzung** *Vorteil* auf einen passenden Wurf.
+> [!todo] Nutzen im Spiel:
+> Erkläre dem SL, warum dein Hintergrund dir in bestimmter Situation helfen könnte. 
+> Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre. Möglicherweise erhältst du **ein mal je Sitzung** *Vorteil* auf einen passenden Wurf.
 
 | d100 | Hintergrund |
 | :--- | :--- |
