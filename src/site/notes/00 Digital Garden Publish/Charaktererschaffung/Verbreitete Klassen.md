@@ -173,7 +173,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 
 <br>
 
-## MAGIER
+# MAGIER
 
 *Runentätowierte Adepten, bebrillte Magi und flammenbeschwörende Hexen, die es wagen, die gefürchteten Mächte der Magie zu manipulieren.*
 
@@ -254,7 +254,7 @@ Für das Lernen hast du 3 Optionen:
 
 <br>
 
-## PRIESTER
+# PRIESTER
 
 *Templer, prophetische Schamanen oder wahnsinnige Eiferer, welche die Macht ihrer Götter leiten, um das Unheilige zu reinigen.*
 
@@ -344,7 +344,7 @@ Für das Lernen hast du 3 Optionen:
 
 <br>
 
-## WALDLÄUFER
+# WALDLÄUFER
 
 *Geschickte Fährtenleser, stille Wanderer und unübertroffene Krieger, die die Wildnis ihre Heimat nennen.*
 
