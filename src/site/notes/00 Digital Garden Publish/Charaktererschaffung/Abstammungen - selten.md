@@ -4,9 +4,9 @@
 
 
 > [!attention] Seltene Abstammungen:
-> Folgende Abstammungen sind nur nach vorheriger Genehmigung deines SL wählbar, bitte bei Bedarf vorher besprechen.
+> Folgende Abstammungen sind nur nach vorheriger Genehmigung deines SL wählbar, bitte bei Bedarf vorher abstimmen.
 > 
-> In den meisten Szenarien werden [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet\|Abstammungen - verbreitet]] verwendet.
+> In den meisten Szenarien werden [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet\|Verbreitete Abstammungen]] verwendet.
 
 
 ---
