@@ -29,9 +29,9 @@
 
 Wähle deine Abstammung.
 
-Verbreitete Abstammungen (ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Verbreitete Abstammungen\|Abstammungen#Verbreitete Abstammungen]]
+Wähle unter den verbreiteten Abstammungen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Verbreitete Abstammungen\|Abstammungen#Verbreitete Abstammungen]]
 
-Seltene Abstammungen (nur mit SL-Genehmigung): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Seltene Abstammungen\|Abstammungen#Seltene Abstammungen]]
+Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Seltene Abstammungen\|Abstammungen#Seltene Abstammungen]]
 
 ---
 
