@@ -37,7 +37,7 @@ Erneut bewegen
 
 ### Aktion: Angreifen
 
-Angriff im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*); siehe [[00 Digital Garden Publish/Regeln/Kampf#Distanz / Entfernung\|#Distanz / Entfernung]]
+Angriff im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*); siehe [[00 Digital Garden Publish/Regeln/Distanz und Entfernung\|Distanz und Entfernung]]
 
 - **Nahkampfangriff**: "1d20 + STR-Mod gegen RK" (*Vorteil* wenn Ziel am Boden liegt; *Nachteil* wenn selbst liegend)
 - **Fernkampfangriff**: "1d20 + GES-Mod gegen RK" (*Vorteil* wenn ungesehen & unerwartet oder Höhenvorteil; *Nachteil* wenn im Dunklen oder Ziel >50% in Deckung)
@@ -55,7 +55,7 @@ Jeder Held kann im Kampf anstelle eines Schadensangriffs ein taktisches Manöver
 
 ### Aktion: Zauber wirken
 
-siehe [[00 Digital Garden Publish/Regeln/Kampf#Magie / Zaubern\|#Magie / Zaubern]]
+siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ---
 

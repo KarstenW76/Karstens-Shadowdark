@@ -3,9 +3,9 @@
 ---
 
 
-**Im Kampf**: siehe [[00 Digital Garden Publish/Regeln/Bewegung#Kampf\|#Kampf]] 
+**Im Kampf**: siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]] 
 
-**Außerhalb vom Kampf**: siehe [[00 Digital Garden Publish/Regeln/Bewegung#Zeit vergeht\|#Zeit vergeht]]
+**Außerhalb vom Kampf**: siehe [[00 Digital Garden Publish/Regeln/Zeit vergeht#Tagesabschnitt\|Zeit vergeht#Tagesabschnitt]] bzw. [[00 Digital Garden Publish/Regeln/Zeit vergeht#Dungeon-Runde\|Zeit vergeht#Dungeon-Runde]]
 
 **Klettern**: Halbe Geschwindigkeit; STR- oder GES-Probe auf halber Höhe:
 - **Erfolg**: Ziel erreicht
@@ -19,4 +19,4 @@
 
 **Hex-Felder** Maße in der Wildnis: je 6 km
 
-**Fortbewegung**: siehe [[00 Digital Garden Publish/Regeln/Bewegung#Tagesabschnitt\|#Tagesabschnitt]]
+**Fortbewegung**: siehe [[00 Digital Garden Publish/Regeln/Zeit vergeht#Tagesabschnitt\|Zeit vergeht#Tagesabschnitt]]
