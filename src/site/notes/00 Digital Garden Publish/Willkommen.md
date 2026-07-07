@@ -7,8 +7,10 @@
 
 Willkommen in den Tiefen des Shadowdark! 
 
-Dies ist die Wiki-Website meiner Obsidian Vault für das Shadowdark Rollenspiel mit allen Informationen für meine Spieler. 
+Dies ist die Wiki-Website für das Shadowdark Rollenspiel mit allen Informationen für meine Spieler. 
 
-### Startet direkt hier
-- [ ] Der Tempel des schreienden Gottes
-- [ ] Die Katakomben unter Grauwasser
+### Starte direkt hier
+
+Hier findest du die Schritt-für-Schritt Anleitung zur Erschaffung deines Abenteurers: [[00 Digital Garden Publish/Charaktererschaffung Level 1\|Charaktererschaffung Level 1]]
+
+Hier findest du alle relevanten Regeln für unser Spiel: [[00 Digital Garden Publish/Regeln für Spieler & SL\|Regeln für Spieler & SL]]
