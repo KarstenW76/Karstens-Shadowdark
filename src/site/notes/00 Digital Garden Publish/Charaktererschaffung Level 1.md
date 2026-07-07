@@ -29,9 +29,9 @@
 
 Wähle deine Abstammung.
 
-Wähle unter den verbreiteten Abstammungen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Verbreitete Abstammungen\|Abstammungen#Verbreitete Abstammungen]]
+Wähle unter den verbreiteten Abstammungen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet#Verbreitete Abstammungen\|Abstammungen - verbreitet#Verbreitete Abstammungen]]
 
-Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen#Seltene Abstammungen\|Abstammungen#Seltene Abstammungen]]
+Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen - verbreitet#Seltene Abstammungen\|Abstammungen - verbreitet#Seltene Abstammungen]]
 
 ---
 
@@ -39,9 +39,9 @@ Wenn du eine der seltene Abstammungen wählen möchtest, sprich vorher mit deine
 
 Wähle deine Klasse.
 
-Wähle unter den verbreiteten Klassen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Verbreitete Klassen#Verbreitete Klassen\|Verbreitete Klassen#Verbreitete Klassen]]
+Wähle unter den verbreiteten Klassen (diese sind ohne SL-Genehmigung erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Klassen - verbreitet#Verbreitete Klassen\|Klassen - verbreitet#Verbreitete Klassen]]
 
-Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Verbreitete Klassen#Seltene Klassen\|Verbreitete Klassen#Seltene Klassen]]
+Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt): [[00 Digital Garden Publish/Charaktererschaffung/Klassen - verbreitet#Seltene Klassen\|Klassen - verbreitet#Seltene Klassen]]
 
 ---
 
