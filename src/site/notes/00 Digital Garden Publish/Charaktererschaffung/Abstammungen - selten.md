@@ -21,23 +21,13 @@
 
 ---
 
-# Drachengeborener
+# Drachenblütiger
 
-*Drachengeborene sind Nachkommen der Paarung zwischen Drachen und Humanoiden, die ihre eigene Kultur entwickelt haben.*
+*Drachengeborene sind Stolze Nachkommen von Drachen, deren Ehre einen höheren Stellenwert besitzt als ihr eigenes Leben.*
 
-**Sprachen**: Reptilisch
+**Sprachen**: Gemeinsprache und Drakonisch
 
-**Feueratem:** 3x pro Rast kannst du anstelle einer Kampfaktion einen Atemwaffenangriff auf ein *Direkt* angrenzendes Ziel ausführen (GES-Probe gegen RK, 1d6 Schaden).
-
----
-
-# Drow
-
-*Drow leben tief unter der Erde und interagieren selten mit Bewohnern der Oberfläche. Sie stammen aus einer gewalttätigen und barbarischen Gesellschaft.*
-
-**Sprachen**: Gemeinsprache, Elfisch und die Drow-Zeichensprache
-
-**Zauberwiderstand**: 1x pro Rast kannst du einen beliebigen Zauberwirken-Wurf, der dich treffen würde, mit *Nachteil* neu würfeln lassen, wobei das neue Ergebnis gilt.
+**Odemwaffe Feueratem:** 1x pro Rast kannst du anstelle einer Kampfaktion einen Odemwaffenangriff ausführen (Fernkampfangriff GES). Du fügst allen Zielen in einem *Nah*-großen Würfel in Reichweite *Nah*, deren RK du erreichst, 1d8 Schaden zu.
 
 ---
 
@@ -51,6 +41,16 @@
 
 ---
 
+# Elf (Dunkelelf / Drow)
+
+*Drow leben tief unter der Erde und interagieren selten mit Bewohnern der Oberfläche. Sie stammen aus einer gewalttätigen und barbarischen Gesellschaft.*
+
+**Sprachen**: Gemeinsprache, Elfisch und die Drow-Zeichensprache
+
+**Zauberwiderstand**: 1x pro Rast kannst du einen beliebigen Zauberwirken-Wurf, der dich treffen würde, mit *Nachteil* neu würfeln lassen, wobei das neue Ergebnis gilt.
+
+---
+
 # Elf (Grau-Elf)
 
 *Graue Elfen sind arrogant, hochmütig und zurückgezogen. Sie glauben, die einzig wahre Elfenabstammung zu sein, und zögern nicht, jeden das wissen zu lassen.*
@@ -58,6 +58,16 @@
 **Sprachen**: Elfisch und Sylvanisch
 
 **Konzentration:** Wirst du während der Aufrechterhaltung durch erlittenen Schaden o.ä. zu einer zusätzlichen Fokus-Probe gezwungen, kannst du diese mit *Vorteil* würfeln (gilt nicht für die regulären Aufrechterhalten-Proben).
+
+---
+
+# Elf (Schatten-Elf)
+
+*Geschmeidige, heimliche Nachkommen der Dunkelelfen/Drow, die die Oberfläche als ihre Heimat angenommen haben.*
+
+**Sprachen**: Gemeinsprache und Elfisch
+
+**Freund der Schatten**: Wenn du in Dunkelheit gehüllt bist, greifen Monster zuerst deine Verbündeten an.
 
 ---
 
@@ -75,9 +85,9 @@
 
 *Wald-Elfen sind Nachkommen von Gold-Elfen, die tief in den Wald gezogen sind. Sie sind Meister der Waldläuferei, und man kann an einer ihrer Städte vorbeigehen, ohne sie überhaupt zu bemerken.*
 
-**Sprachen**: Gemeinsprache und Elfisch
+**Sprachen**: Gemeinsprache, Elfisch und Sylvanisch
 
-**Waldjäger:** Du erhältst einen Bonus von +2 auf Angriffswürfe mit Kurzbögen.
+**Wald-Leichtfüßigkeit**: Im Wald kannst du dich in deinem Zug ein weiteres Mal um Reichweite *Nah* bewegen, ohne dafür deine Aktion aufzugeben (deine Aktion darf aber keine dritte Bewegung sein)
 
 ---
 
@@ -131,7 +141,17 @@
 
 ---
 
-# Gnom (Erd-Gnom)
+# Gnoll
+
+*Matriarchales, nomadisches Hyänenvolk, das durch offenes Land zieht und entweder kämpft oder sein dämonisches Erbe annimmt.*
+
+**Sprachen**: Gemeinsprache und Thanisch
+
+**Rudeltaktik**: Du erhältst +1 auf Angriffs- und Schadenswürfe, wenn sich ein Verbündeter in Direkter Reichweite deines Ziels befindet.
+
+---
+
+# # Gnom (Erd-Gnom)
 
 *Kleine Vettern der Zwerge, die unterirdisch in engen Erdhöhlen leben und stets nach Edelsteinen und magischen Geheimnissen graben.*
 
@@ -231,6 +251,16 @@
 
 ---
 
+# Schildkrötenvolk (Chelonian)
+
+*Beschauliche, weise Schildkrötenwesen, die mit Bedacht handeln und ihr Zuhause auf dem Rücken tragen.*
+
+**Sprachen:** Gemeinsprache und Chelonian
+
+**Panzer:** Du erhältst einen +1-Bonus auf deine Rüstungsklasse (RK).
+
+---
+
 # Tabaxi
 
 *Weitäugige, wandernde Tabaxi sind katzenartige Humanoide, die von Neugier angetrieben werden und die Wunder der Welt mit Augen und Pfoten erkunden möchten.*
@@ -238,6 +268,26 @@
 **Sprachen**: Gemeinsprache und eine weitere verbreitete Sprache
 
 **Katzenkrallen.** Du besitzt eine Klettergeschwindigkeit von Reichweite *Nah* (erfordert STR- oder GES-Probe).
+
+---
+
+# Halb-Troll
+
+*Hässliche, stämmige Bestien, die leicht zu erzürnen sind und darum kämpfen, ihren Platz in der humanoiden Gesellschaft zu finden.*
+
+**Sprachen**: Gemeinsprache und Riesisch
+
+**Regeneration:** Erhalte 1 TP pro Stunde zurück, es sei denn, der Schaden wurde durch Feuer oder Säure verursacht.
+
+---
+
+# Tiefling
+
+*Auf sich selbst gestellte Außenseiter mit diabolischen Vorfahren und dämonischen Hörnern.*
+
+**Sprachen**: Gemeinsprache und Diabolisch
+
+**Wärmesicht**: 1x pro Rast kannst du für 3 Kampfrunden (bzw. 18 Sekunden außerhalb des Kampfes) die Wärmesignaturen lebender Kreaturen sehen.
 
 ---
 
