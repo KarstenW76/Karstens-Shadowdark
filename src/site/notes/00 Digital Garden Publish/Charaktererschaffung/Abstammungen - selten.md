@@ -151,7 +151,7 @@
 
 ---
 
-# # Gnom (Erd-Gnom)
+# Gnom (Erd-Gnom)
 
 *Kleine Vettern der Zwerge, die unterirdisch in engen Erdhöhlen leben und stets nach Edelsteinen und magischen Geheimnissen graben.*
 
