@@ -14,7 +14,7 @@
 
 **Trefferpunkte:** 1d6 pro Level
 
-**Sprachen:** Du beherrschst vier zusätzliche gewöhnliche Sprachen und eine seltene Sprache.
+**Sprachen:** Vier zusätzliche gewöhnliche Sprachen und eine seltene Sprache
 
 
 ### Talente

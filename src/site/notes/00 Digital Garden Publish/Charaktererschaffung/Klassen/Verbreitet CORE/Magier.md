@@ -21,7 +21,7 @@
 
 #### Zauberwirken
 
-Du kannst Magierzauber wirken, die du kennst.
+Du kannst **Magier-Zauber** wirken, die du kennst.
 
 - Du kennst drei Zauber des 1. Grades deiner Wahl aus der Magierzauberliste (siehe [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Magier\|Zauberliste Magier]]). 
 - Jedes Mal, wenn du ein Level aufsteigst, wählst du neue Magierzauber gemäß der Tabelle "Bekannte Magierzauber" aus. 
@@ -38,7 +38,7 @@ Ein Magier kann die Mächte des Blutes auf zwei Arten anrufen, um seine Magie zu
 
 #### Zauberschriftrollen verwenden
 
-Du kannst einen Magierzauber von einer Zauberschriftrolle wirken. Würfle 1d20 + INT-Mod gegen 10 + Zaubergrad
+Du kannst einen Magierzauber von einer Zauberschriftrolle wirken. Würfle 1d20 + INT-Mod gegen 10 + Zaubergrad:
 
 - **Erfolg**: Schriftrolle verbrennt, Zauber ist erfolgreich
 - **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
@@ -69,6 +69,7 @@ Für das Lernen hast du 3 Optionen:
 
 
 ### Bekannte Zauber nach Zaubergrad
+*(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | Level\Grad | 1 | 2 | 3 | 4 | 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- |

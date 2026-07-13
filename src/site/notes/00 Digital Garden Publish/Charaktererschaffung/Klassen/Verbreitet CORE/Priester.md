@@ -14,7 +14,7 @@
 
 **Trefferpunkte**: 1d6 pro Level
 
-**Sprachen**: Du beherrschst Celestisch, Diabolisch oder Urzeitlich.
+**Sprachen**: Celestisch, Diabolisch oder Urzeitlich
 
 **Gottheit**: Wähle eine Gottheit, der du dienst und die deiner Gesinnung entspricht (siehe [[00 Digital Garden Publish/Charaktererschaffung Level 1#Deine Gottheit\|Charaktererschaffung Level 1#Deine Gottheit]]). Du besitzt ein heiliges Symbol deines Gottes (dieses verbraucht keinen Ausrüstungsslot).
 

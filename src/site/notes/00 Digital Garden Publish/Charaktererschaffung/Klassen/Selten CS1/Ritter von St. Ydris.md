@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charaktererschaffung/Klassen/Selten CS1/Ritter von St. Ydris.md","permalink":"/Charaktererschaffung/Klassen/Selten CS1/Ritter von St. Ydris/","tags":["klassen/selten/","klassen/cs1"],"dg-note-properties":{"tags":["klassen/selten/","klassen/cs1"]}}
+{"dg-publish":true,"dg-path":"Charaktererschaffung/Klassen/Selten CS1/Ritter von St. Ydris.md","permalink":"/Charaktererschaffung/Klassen/Selten CS1/Ritter von St. Ydris/","tags":["klassen/selten","klassen/cs1"],"dg-note-properties":{"tags":["klassen/selten","klassen/cs1"]}}
 ---
 
 
