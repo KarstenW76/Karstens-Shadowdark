@@ -5,11 +5,13 @@
 
 # Schaden erleiden
 
-**Angriff**: Erfolgreicher Treffer verursacht Waffenschaden (siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]])
+**Angriff**: Erfolgreicher Treffer verursachen Waffenschaden (siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]]) bzw. Zauberschaden (siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]). 
 
-**Brennen**: 1d4 Schaden/Rd. bis Feuer mit Aktion und GES SG 12 gelöscht; siehe auch [[00 Digital Garden Publish/Regeln/Licht und Feuer#Ölflaschen\|Licht und Feuer#Ölflaschen]] und [[00 Digital Garden Publish/Regeln/Licht und Feuer#Laternen\|Licht und Feuer#Laternen]]
+**Explodierender Schaden** (Angriff & Zauber): Wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis.
 
-**Ertrinken**: Bei Misserfolg der *Atem anhalten* Probe (KON SG 12 je Runde) erleidest du 1d6 Schaden/Rd. bis Atmen wieder möglich
+**Brennen**: 1d4 Schaden pro Runde, bis das Feuer mit Aktion und GES-Probe gegen SG 12 gelöscht ist; siehe auch [[00 Digital Garden Publish/Regeln/Licht und Feuer#Ölflaschen\|Licht und Feuer#Ölflaschen]] und [[00 Digital Garden Publish/Regeln/Licht und Feuer#Laternen\|Licht und Feuer#Laternen]]
+
+**Ertrinken**: Bei Misserfolg der *Atem anhalten* Probe (KON-Probe gegen SG 12 pro Runde) erleidest du 1d6 Schaden pro Runde, bis du wieder atmen kannst
 
 **Stürzen**: 1d6 Schaden pro 3m (2 Grid-Felder)
 
@@ -17,9 +19,9 @@
 
 # Heilung
 
-**Rast**: Erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Unsichere Rast in Wildnis und Dungeon\|Unsichere Rast in Wildnis und Dungeon]]
-
 **Stabilisieren**: Berührung, INT-Probe SG 15; bei Erfolg Ziel nicht mehr *Sterbend* und wacht mit 1 TP auf, ist aber *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
+
+**Rast**: Eine erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Unsichere Rast in Wildnis und Dungeon\|Unsichere Rast in Wildnis und Dungeon]]
 
 ---
 

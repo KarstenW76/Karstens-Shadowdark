@@ -5,68 +5,63 @@
 
 # Zauberwirken Magier
 
-**INT-Probe SG "10 + Zaubergrad"**
-- **Erfolg**: Zauber ist erfolgreich und bleibt vorbereitet
-- **Misserfolg**: Zauber scheitert und ist bis nach erfolgreicher Rast verloren
-- **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+**INT-Probe SG "10 + Zaubergrad"**:
+- **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
+- **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
+- **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
 ---
 
 # Zauberwirken Priester
 
-**WEI-Probe SG "10 + Zaubergrad"**
-- **Erfolg**: Zauber ist erfolgreich und bleibt vorbereitet; wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis
-- **Misserfolg**: Zauber scheitert und ist bis nach erfolgreicher Rast verloren
-- **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: Zauber verloren bis nach getätigter [[00 Digital Garden Publish/Regeln/Buße\|Buße]]
+**WEI-Probe SG "10 + Zaubergrad"**:
+- **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
+- **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
+- **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
+- **Patzer**: Wie Misserfolg, aber die Regeneration erfordert zusätzlich eine angemessene [[00 Digital Garden Publish/Regeln/Buße\|Buße]] zur Versöhnung deiner Gottheit
 
 ---
 
-# Zauberschaden
+# Explodierender Zauberschaden
 
-**Explodierender Schaden**: Wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis
+Wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis.
 
 ---
 
 # Fokus-Zauber
 
-- Immer nur ein Fokus-Zauber gleichzeitig möglich; fokussierender Held macht jeweils zu Beginn seines Zuges eine Zauberprobe, um den Fokus-Zauber aufrechtzuerhalten; bei Erfolg bleibt der Zauber eine weitere Runde aktiv; bei Fehlschlag endet der Zauber (geht aber nicht verloren)
-- **Ablenkung/Schaden**: Sofortige Zauberprobe zur Aufrechterhaltung des Fokus-Zaubers
+Du kannst immer nur einen Fokus-Zauber gleichzeitig aufrechterhalten; hierfür machst du jeweils zu Beginn deines Zuges eine Zauberprobe: Bei Erfolg bleibt der Zauber eine weitere Runde aktiv; bei Fehlschlag endet der Zauber (bleibt aber vorbereitet).
+
+Erleidest du eine **Ablenkung oder Schaden** mache eine sofortige zusätzliche Zauberprobe zur Aufrechterhaltung des Fokus-Zaubers.
 
 ---
 
 # Ritual-Magie
 
-Anstatt den normalen Wirk-Zeitaufwand von einer Aktion zu verwenden, kannst du eine Stunde aufwenden, um einen Zauber rituell zu wirken. Für den zeitlichen Aufwand gewinnst du zwei Vorteile: Du darfst für diese Probe deinen Attributsmodifikator verdoppeln und verlierst bei einem Fehlschlag nicht die Fähigkeit, den Zauber erneut zu wirken. Die Konsequenz der NAT-1 bleibt unverändert.
+Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreibe, wie du ihn rituell vorbereitest und wirkst. Für den zeitlichen Aufwand gewinnst du zwei Vorteile: Du darfst für diese Probe deinen Attributsmodifikator verdoppeln und verlierst bei einem Fehlschlag nicht die Vorbereitung des Zaubers. Die Konsequenz eines Patzers bleibt unverändert.
 
 ---
 
-# Schriftrollen
+# Zauber von Schriftrolle wirken
 
-**Zauberwirken Magierzauber von Schriftrolle**: Nur Magier; **INT-Probe SG "10 + Zaubergrad"**
-- **Erfolg**: Schriftrolle verbrennt, Zauber ist erfolgreich
-- **Misserfolg**: Schriftrolle verbrennt, Zauber scheitert
-- **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+**Zauberwirken Magierzauber von Schriftrolle** (nur Magier; INT-Probe SG "10 + Zaubergrad"):
+- **Erfolg**: Die Schriftrolle verbrennt; du wirkst den Zauber erfolgreich
+- **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
+- **Misserfolg**: Die Schriftrolle verbrennt und der Zauber scheitert
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
-**Zauberwirken Priesterzauber von Schriftrolle**: Nur Priester; **WEI-Probe SG "10 + Zaubergrad"**
-- **Erfolg**: Schriftrolle verbrennt, Zauber ist erfolgreich
-- **Misserfolg**: Schriftrolle verbrennt, Zauber scheitert
-- **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: kein weiterer Effekt
-
-**Magier will Zauber aus Schriftrolle lernen** (diese verbrennt hierbei), 3 Optionen:
-- Zum Abschluss einer erfolgreichen *Unsicheren Rast*: INT-Probe mit *Nachteil*
-- Als Zweitaktivität neben dem *Feiern*: INT-Probe *normal*
-- Als ausschließliche Auszeit-Aktivität (ohne Feiern): INT-Probe mit *Vorteil*
+**Zauberwirken Priesterzauber von Schriftrolle** (nur Priester; WEI-Probe SG "10 + Zaubergrad"):
+- **Erfolg**: Die Schriftrolle verbrennt; du wirkst den Zauber erfolgreich
+- **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
+- **Misserfolg / Patzer**: Die Schriftrolle verbrennt und der Zauber scheitert
 
 ---
 
 # Zauberstäbe
 
 Zauberwirken von Zauberstab: Nur Zauberwirker; **INT-Probe SG "10 + Zaubergrad"**
-- **Erfolg**: Zauber ist erfolgreich, Zauberstab bleibt nutzbar
+- **Erfolg**: Dein Zauber ist erfolgreich, Zauberstab bleibt nutzbar
 - **Misserfolg**: Zauber scheitert, Zauberstab bis nach erfolgreicher Rast nicht nutzbar
-- **NAT-20**: Verdopplung eines numerischen Zauber-Effekts
-- **NAT-1**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+- **Krit**: Verdopplung eines numerischen Zauber-Effekts
+- **Patzer**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
