@@ -129,6 +129,3 @@ Level-0 Charaktere beginnen mit 1d4 der folgenden Gegenstände:
 Level-1 Charaktere beginnen zusätzlich mit 2d6 x 5 GM, um Ausrüstung zu kaufen
 
 **Empfehlung**: Crawling-Set für 7 GM (siehe [[00 Digital Garden Publish/Ausrüstung/Ausrüstung#Crawling-Set\|Crawling-Set]])
-
----
-
