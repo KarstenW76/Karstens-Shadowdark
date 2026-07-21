@@ -37,7 +37,7 @@
 
 ---
 
-# Optional: Vom Tod gezeichnet
+# Optionale Regeln: Vom Tod gezeichnet
 
 Zusatzwert im Char-Bogen: "Dem Tod entkommen:" mit 2x Checkbox. Wenn Du auf 0 TP landest, wähle:
 1. Werde *bewusstlos*, sei *Sterbend* und starte den Todestimer (siehe [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Sterben (Todestimer)\|#Sterben (Todestimer)]]).
@@ -61,3 +61,10 @@ Zusatzwert im Char-Bogen: "Dem Tod entkommen:" mit 2x Checkbox. Wenn Du auf 0 TP
 |   4    | **Schwere Schädelfraktur**: Du hast einen heftigen Schlag gegen den Kopf kassiert. Du hast ein permanentes Pfeifen im Ohr und bekommst manchmal Migräne. Du hast *Nachteil* auf alle WEI-Proben, die mit *Hören* und deiner *Balance* zu tun haben und auf *Initiative*-Proben. |
 |   5    | **Grausig entstelltes Gesicht:** Du hast eine tiefe, hässliche Narbe quer durchs Gesicht, eine zertrümmerte Nase oder verbrannte Haut. Du hast *Nachteil* auf CHA-Proben bei nichtfeindlichen sozialen Interaktionen, aber *Vorteil* auf Proben zum *Einschüchtern*. |
 |   6    | **Innere Verletzung:** Du hast einen schlecht zusammengewachsenen Rippenbruch oder einen Lungenschaden. Wenn du eine 1 bei einer STR / GES / KON Probe (inkl. Angriff) würfelst, erleidest du vor Schmerz sofort 1d4 Schaden (dies kann dich aber nicht unter 1 TP bringen). |
+
+---
+
+# Tod eines Abenteurers
+
+Stirbt dein Abenteurer, reihe ihn in die Halle der ehrwürdigen Toten des Shadowdark ein und erschaffe einen neuen Abenteurer. Beachte, dass dieser in Level 1 neu erschaffen wird, sollte es keine anderweitige Regelung des SL geben.
+

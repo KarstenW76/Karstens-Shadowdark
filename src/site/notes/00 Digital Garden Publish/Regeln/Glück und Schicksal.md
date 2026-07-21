@@ -24,6 +24,3 @@ Optional kann die Spielergruppe eine kleinere Modifikation der Spielwelt beim SL
 - ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Gegengifttrank in seiner Gürteltasche.*
 
 **Zwei Seiten des Schicksals**: Von den Spielern ausgegebene Token wandern direkt zum SL, der diese bei nächster Gelegenheit als *Vorteil* oder *Nachteil* gegen die Abenteurer einsetzen wird. Nach Einsatz wandert der Token zurück zu den Spielern.
-
----
-

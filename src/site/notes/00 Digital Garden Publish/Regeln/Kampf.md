@@ -69,7 +69,7 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ---
 
-## Optional: Reaktionen (im SL-Zug)
+## Optionale Regel: Reaktionen (im SL-Zug)
 
 **Verteidigung gegen Angriff**: 
 - Kämpfende Monster greifen automatisch an, betroffene Helden würfeln für Verteidigung (statt SL für Angriff)

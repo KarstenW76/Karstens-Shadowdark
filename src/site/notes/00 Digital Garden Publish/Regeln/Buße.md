@@ -26,6 +26,3 @@ Unzureichende oder hinterlistige Buße (wie das Spenden deines Opfers an ein Gru
 |     3      |  40 GM |
 |     4      |  90 GM |
 |     5      | 150 GM |
-
----
-

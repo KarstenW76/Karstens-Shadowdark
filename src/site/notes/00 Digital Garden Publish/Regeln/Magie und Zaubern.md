@@ -65,6 +65,3 @@ Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreib
 - **Misserfolg**: Zauber scheitert, Zauberstab bis nach erfolgreicher Rast nicht nutzbar
 - **Krit**: Verdopplung eines numerischen Zauber-Effekts
 - **Patzer**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
-
----
-

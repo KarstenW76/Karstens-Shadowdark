@@ -10,8 +10,8 @@
 **Klettern**: Halbe Geschwindigkeit; STR- oder GES-Probe auf halber Höhe:
 - **Erfolg**: Ziel erreicht
 - **Misserfolg**: Bei Verfehlen des SG um 4- kein Vorankommen und erneute Probe in Folgerunde; bei Verfehlen um 5+ Punkte Sturz nach unten: 1d6 Schaden pro 3m (2 Grid-Felder) Fallhöhe
-- **NAT-20**: Schneller geklettert
-- **NAT-1**: Wie Misserfolg, aber Schaden verdoppelt
+- **Krit**: Schneller geklettert
+- **Patzer**: Wie Misserfolg, aber Schaden verdoppelt
 
 **Schwimmen**: Halbe Geschwindigkeit (STR-Probe in rauer See); Halte KON-Mod Runden die Luft an; danach lege eine KON-Probe SG 12 jede Runde ab zum weiter Atem anhalten (Misslingen: 1d4 Schaden/Rd. bis Atmen wieder möglich)
 

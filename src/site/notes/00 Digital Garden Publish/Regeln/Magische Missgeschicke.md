@@ -65,6 +65,3 @@
 | 10  | **Ords Gleichgewicht!** Du musst entweder dauerhaft einen magischen Gegenstand opfern oder die Fähigkeit verlieren, einen dir bekannten Zauber des 3. Grades oder höher zu wirken. Wähle weise!                                                                                                                                                                        |
 | 11  | **Ungebremste Kettenreaktion!** Du hast für die nächsten 10 Runden Nachteil beim Wirken aller Zauber                                                                                                                                                                                                                                                                   |
 | 12  | **Zerfetzen!** Du reißt ein großes Loch in das Gefüge des Universums in deiner Nähe; der lichtlose Riss wird mit jeder Runde größer                                                                                                                                                                                                                                    |
-
----
-

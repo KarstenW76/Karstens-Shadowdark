@@ -7,23 +7,26 @@
 
 ## Bewegung
 
-**Im Kampf**: siehe [[00 Digital Garden Publish/Regeln/Regeln für SL/Regelübersicht für SL#Kampf\|#Kampf]] 
+**Im Kampf**: siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]] 
 
-**Außerhalb vom Kampf**: siehe [[00 Digital Garden Publish/Regeln/Regeln für SL/Regelübersicht für SL#Zeit vergeht\|#Zeit vergeht]]
+**Außerhalb vom Kampf**: siehe [[00 Digital Garden Publish/Regeln/Zeit vergeht#Tagesabschnitt\|Zeit vergeht#Tagesabschnitt]] bzw. [[00 Digital Garden Publish/Regeln/Zeit vergeht#Dungeon-Runde\|Zeit vergeht#Dungeon-Runde]]
 
 **Klettern**: Halbe Geschwindigkeit; STR- oder GES-Probe auf halber Höhe:
 - **Erfolg**: Ziel erreicht
 - **Misserfolg**: Bei Verfehlen des SG um 4- kein Vorankommen und erneute Probe in Folgerunde; bei Verfehlen um 5+ Punkte Sturz nach unten: 1d6 Schaden pro 3m (2 Grid-Felder) Fallhöhe
-- **NAT-20**: Schneller geklettert
-- **NAT-1**: Wie Misserfolg, aber Schaden verdoppelt
+- **Krit**: Schneller geklettert
+- **Patzer**: Wie Misserfolg, aber Schaden verdoppelt
 
 **Schwimmen**: Halbe Geschwindigkeit (STR-Probe in rauer See); Halte KON-Mod Runden die Luft an; danach lege eine KON-Probe SG 12 jede Runde ab zum weiter Atem anhalten (Misslingen: 1d4 Schaden/Rd. bis Atmen wieder möglich)
+
+<br>
 
 ### Reisen (Überland/Wildnis)
 
 **Hex-Felder** Maße in der Wildnis: je 6 km
 
-**Fortbewegung**: siehe [[00 Digital Garden Publish/Regeln/Regeln für SL/Regelübersicht für SL#Tagesabschnitt\|#Tagesabschnitt]]
+**Fortbewegung**: siehe [[00 Digital Garden Publish/Regeln/Zeit vergeht#Tagesabschnitt\|Zeit vergeht#Tagesabschnitt]]
+
 
 ---
 
@@ -42,9 +45,9 @@
 
 ## Furcht
 
-Jeder Held legt eine WEI-Probe ab. Der SG entspricht der Monsterfähigkeit, dem Zaubereffekt oder der Tiefe in der Dunkelheit, in der man sich gerade befindet (z.B. SG 9 nahe der Oberfläche oder SG 18 tief jenseits der Reichweite der Sonne).
+Jeder Held legt eine WEI-Probe ab. Der SG entspricht der Monsterfähigkeit, dem Zaubereffekt oder der Tiefe im Shadowdark, in der die Abenteurer sich befinden (z.B. SG 9 nahe der Oberfläche oder SG 18 in tiefer Ebene des Shadowdark).
 
-**Fehlschlag**: Wirf 1W10 auf der folgenden Tabelle.
+**Fehlschlag**: Wirf 1d10 auf der folgenden Tabelle.
 
 | **1d10** | **Effekt**                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,25 +64,27 @@ Jeder Held legt eine WEI-Probe ab. Der SG entspricht der Monsterfähigkeit, dem 
 
 ---
 
-## Glück / Schicksal
+## Karma / Schicksal
 
-### Glück
+### Karma
 
-**Glück erhalten**: Jeder Abenteurer erhält zu Beginn jeder Spielsession, bei einer gewürfelten NAT-20 und nach jeder erfolgreich beendeten *Unsicheren Rast* (oder selten: SL-Vergabe) 1 Glückstoken; Maximum: 3
+**Karma erhalten**: Du beginnst jede Spielsitzung mit 0 Karma. Misslingt dir eine beliebige Probe (nicht bei Patzer), erhältst du einen Karma-Token (ggf. auch vom SL); du kannst max. 5 haben.
 
-**Glückspunkt ausgeben**: Wiederholung beliebiger eigener Wurf (nicht bei NAT-1) oder eines Angriffs-/Schadenswurfes direkt gegen den einzelnen Helden (nicht bei NAT-20); nicht möglich, wenn für den Wurf schon *Schicksal* eingesetzt wurde. Nicht bei Reroll.
+**Karma ausgeben** (nicht bei Wurfwiederholung oder wenn schon *Schicksal* eingesetzt wurde):
+- Alle Attributsproben/Rettungswürfe ausser Zauberwirken: Modifiziere das Ergebnis vor oder nach dem Wurf um +1 je ausgegebenem Karma.
+- Zauberwirken: Modifiziere das Ergebnis vor dem Wurf um +1 je ausgegebenem Karma.
 
 ### Schicksal
 
-**Setup Schicksal**: Die Spieler erhalten zu Beginn jeder Spielsession "Anzahl Abenteurer" Schicksalstoken.
+**Setup Schicksal**: Die Spieler erhalten als Gruppe zu Beginn jeder Spielsession "Anzahl Abenteurer" Schicksalstoken.
 
 **Schicksal anrufen**: Fordert ein Spieler eine Schicksalsgunst ein (jederzeit, frei), erhält sein SC *Vorteil* oder ein NSC/Monster *Nachteil* auf die direkt folgende Probe. Diese Probe darf nicht mit *Glück* neugeworfen werden.
 
-Ebenso ist ggf. (SL-Einzelfallentscheid, Kosten: 1 oder 2 Token) eine Modifikation der Spielwelt möglich, deren Preis die Gruppe vorab erfährt und gemeinsam beschließt.
+Optional kann die Spielergruppe eine kleinere Modifikation der Spielwelt beim SL anfragen. Der SL entscheidet im Einzelfall, ob und welches Angebot er den Spielern macht. Erhält die Gruppe einen Preis (zumeist 1 oder 2 Token) entscheiden die Spieler gemeinsam, ob sie ihn zahlen wollen.
 - ***Bsp. für 1 Token***: *Im Raum findet sich der dringend benötigte Stein in Keilform zum Blockieren der Tür.*
-- ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Heiltrank in seiner Gürteltasche.*
+- ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Gegengifttrank in seiner Gürteltasche.*
 
-**Das Schicksal hat zwei Seiten**: Nach Einsatz wandert der Token direkt zum SL, der diesen ab nächster Aktion ebenso jederzeit für eine beliebige direkt folgende Probe einsetzen kann. Dann wandert der Token zurück zu den Spielern.
+**Zwei Seiten des Schicksals**: Von den Spielern ausgegebene Token wandern direkt zum SL, der diese bei nächster Gelegenheit als *Vorteil* oder *Nachteil* gegen die Abenteurer einsetzen wird. Nach Einsatz wandert der Token zurück zu den Spielern.
 
 ---
 
@@ -492,6 +497,3 @@ Pro Schatzfund sollte jede Gruppe etwa den Wert von 10 GM x ihrem durchschnittli
 | Normal | 12 | Eine klemmende Tür auftreten, ein einfaches Schloss knacken |
 | Schwer | 15 | Gegen eine starke Strömung anschwimmen, Sterbenden Gefährten stabilisieren |
 | Extrem | 18 | Einhändig eine rutschige Klippe erklimmen, einen rasenden Löwen bändigen |
-
----
-
