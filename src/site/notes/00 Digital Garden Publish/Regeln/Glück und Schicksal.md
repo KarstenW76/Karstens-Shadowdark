@@ -15,12 +15,15 @@
 
 # Schicksal
 
-**Setup Schicksal**: Die Spieler erhalten zu Beginn jeder Spielsession "Anzahl Abenteurer" Schicksalstoken.
+**Setup Schicksal**: Die Spieler erhalten als Gruppe zu Beginn jeder Spielsession "Anzahl Abenteurer" Schicksalstoken.
 
 **Schicksal anrufen**: Fordert ein Spieler eine Schicksalsgunst ein (jederzeit, frei), erhält sein SC *Vorteil* oder ein NSC/Monster *Nachteil* auf die direkt folgende Probe. Diese Probe darf nicht mit *Glück* neugeworfen werden.
 
-Ebenso ist ggf. (SL-Einzelfallentscheid, Kosten: 1 oder 2 Token) eine Modifikation der Spielwelt möglich, deren Preis die Gruppe vorab erfährt und gemeinsam beschließt.
+Optional kann die Spielergruppe eine kleinere Modifikation der Spielwelt beim SL anfragen. Der SL entscheidet im Einzelfall, ob und welches Angebot er den Spielern macht. Erhält die Gruppe einen Preis (zumeist 1 oder 2 Token) entscheiden die Spieler gemeinsam, ob sie ihn zahlen wollen.
 - ***Bsp. für 1 Token***: *Im Raum findet sich der dringend benötigte Stein in Keilform zum Blockieren der Tür.*
-- ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Heiltrank in seiner Gürteltasche.*
+- ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Gegengifttrank in seiner Gürteltasche.*
 
-**Das Schicksal hat zwei Seiten**: Nach Einsatz wandert der Token direkt zum SL, der diesen jederzeit (aber nicht für den gleichen Wurf) als *Vorteil oder Nachteil* gegen die Abenteurer einsetzen kann. Dann wandert der Token zurück zu den Spielern.
+**Zwei Seiten des Schicksals**: Von den Spielern ausgegebene Token wandern direkt zum SL, der diese bei nächster Gelegenheit als *Vorteil* oder *Nachteil* gegen die Abenteurer einsetzen wird. Nach Einsatz wandert der Token zurück zu den Spielern.
+
+---
+
