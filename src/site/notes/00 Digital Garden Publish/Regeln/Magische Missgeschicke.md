@@ -4,14 +4,14 @@
 
 
 > [!danger] PATZER:
-> Du hast eine NAT-1 bei einer Zauberwirken-Probe geworfen?
+> Du hast eine NAT-1 bei einer Zauberwirken-Probe geworfen (gilt nicht für Priester -> siehe [[00 Digital Garden Publish/Regeln/Buße\|Buße]]):
 > Dein Zauber scheitert und du kannst ihn erst nach einer erfolgreichen Rast wieder wirken.
 > 
 > Zusätzlich hast du in die Chaos-Stränge der Magie gegriffen. Würfle auf der Tabelle des Grades des Zaubers, den du wirken wolltest, um zu sehen, was geschieht.
 
 <br>
 
-## Magische Missgeschicke Grad 1–2
+## Magische Missgeschicke Zaubergrad 1–2
 
 | d12 | Effekt |
 | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## Magische Missgeschicke Grad 3-4
+## Magische Missgeschicke Zaubergrad 3-4
 
 | d12 | Effekt |
 |:---|:---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Magische Missgeschicke Grad 5
+## Magische Missgeschicke Zaubergrad 5
 
 | d12 | Effekt                                                                                                                                                                                                                                                                                                                                                                 |
 | :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,3 +65,6 @@
 | 10  | **Ords Gleichgewicht!** Du musst entweder dauerhaft einen magischen Gegenstand opfern oder die Fähigkeit verlieren, einen dir bekannten Zauber des 3. Grades oder höher zu wirken. Wähle weise!                                                                                                                                                                        |
 | 11  | **Ungebremste Kettenreaktion!** Du hast für die nächsten 10 Runden Nachteil beim Wirken aller Zauber                                                                                                                                                                                                                                                                   |
 | 12  | **Zerfetzen!** Du reißt ein großes Loch in das Gefüge des Universums in deiner Nähe; der lichtlose Riss wird mit jeder Runde größer                                                                                                                                                                                                                                    |
+
+---
+
