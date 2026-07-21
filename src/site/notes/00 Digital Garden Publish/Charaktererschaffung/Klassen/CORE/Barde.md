@@ -26,14 +26,14 @@ Du bist in Redekunst, Darbietung, Gelehrsamkeit und Diplomatie ausgebildet und h
 
 #### Magie-Dilettant
 
-Du kannst Zauberschriftrollen und Zauberstäbe aktivieren, wobei du CHA als dein Attribut für das Zauberwirken nutzt. Bei einem kritischen Fehlschlag würfelst du auf der *Tabelle für Magier-Missgeschicke* (siehe [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]] (auch bei Priesterzaubern).
+Du kannst Zauberschriftrollen und Zauberstäbe aktivieren, wobei du CHA als dein Attribut für das Zauberwirken nutzt. Bei einem kritischen Fehlschlag würfelst du auf der *Tabelle für [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]] (auch bei Priesterzaubern)*.
 
 #### Ausstrahlung
 
-Lege einen CHA-Wurf gegen SG 12 ab, um einen der folgenden Effekte hervorzurufen. Bei einem Fehlschlag (ausgenommen *Fokus*-Effekte), kannst du diesen spezifischen Effekt bis nach erfolgreicher Rast nicht erneut nutzen.
+Lege eine CHA-Probe gegen SG 12 ab, um einen der folgenden Effekte hervorzurufen. Bei einem Fehlschlag (ausgenommen *Fokus*-Effekte), kannst du diesen spezifischen Effekt bis nach erfolgreicher Rast nicht erneut nutzen.
 
-* **Inspirieren**: Ein Ziel in Reichweite *Nah* erhält einen Glückstoken.
-* **Faszinieren:** Fokus. Du fesselst alle intelligenten gewählten Ziele von Level 4 oder niedriger in Distanz *Nah* mit deiner Darbietung (nicht wenn bereits im Kampf; Abbruch bei aggressiver Handlung).
+* **Inspirieren**: Du vergibst Inspiration an ein Ziel in Reichweite *Nah*. Inspiration kann frei und jederzeit ausgegeben werden, um einen beliebigen Würfelwurf sofort zu wiederholen. Man kann nur 1 Inspiration haben und sie verfällt am Ende der Spielsitzung.
+* **Faszinieren:** Fokus. Du fesselst alle intelligenten gewählten Ziele von Level 4 oder niedriger in Distanz *Nah* mit deiner Darbietung (nicht nach Kampfbeginn; Abbruch bei aggressiver Handlung).
 
 #### Schnelllerner
 

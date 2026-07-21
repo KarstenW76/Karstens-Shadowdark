@@ -58,10 +58,13 @@ Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreib
 
 ---
 
-# Zauberstäbe
+# Zauber von Zauberstab wirken
 
-Zauberwirken von Zauberstab: Nur Zauberwirker; **INT-Probe SG "10 + Zaubergrad"**
+**Zauberwirken Magierzauber von Zauberstab** (nur Magier; INT-Probe SG "10 + Zaubergrad"):
 - **Erfolg**: Dein Zauber ist erfolgreich, Zauberstab bleibt nutzbar
 - **Misserfolg**: Zauber scheitert, Zauberstab bis nach erfolgreicher Rast nicht nutzbar
 - **Krit**: Verdopplung eines numerischen Zauber-Effekts
 - **Patzer**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+
+---
+

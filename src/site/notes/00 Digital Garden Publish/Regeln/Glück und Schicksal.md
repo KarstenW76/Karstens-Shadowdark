@@ -3,11 +3,13 @@
 ---
 
 
-# Glück
+# Karma
 
-**Glück erhalten**: Jeder Abenteurer erhält zu Beginn jeder Spielsession, bei einer gewürfelten NAT-20 und nach jeder erfolgreich beendeten *Unsicheren Rast* (oder selten: SL-Vergabe) 1 Glückstoken; Maximum: 3
+**Karma erhalten**: Du beginnst jede Spielsitzung mit 0 Karma. Misslingt dir eine beliebige Probe (nicht bei Patzer), erhältst du einen Karma-Token (ggf. auch vom SL); du kannst max. 5 haben.
 
-**Glückspunkt ausgeben**: Wiederholung beliebiger eigener Wurf (nicht bei NAT-1) oder eines Angriffs-/Schadenswurfes direkt gegen den einzelnen Helden (nicht bei NAT-20); nicht möglich, wenn für den Wurf schon *Schicksal* eingesetzt wurde. Nicht bei Reroll.
+**Karma ausgeben** (nicht bei Wurfwiederholung oder wenn schon *Schicksal* eingesetzt wurde):
+- Alle Attributsproben/Rettungswürfe ausser Zauberwirken: Modifiziere das Ergebnis vor oder nach dem Wurf um +1 je ausgegebenem Karma.
+- Zauberwirken: Modifiziere das Ergebnis vor dem Wurf um +1 je ausgegebenem Karma.
 
 ---
 
@@ -21,4 +23,4 @@ Ebenso ist ggf. (SL-Einzelfallentscheid, Kosten: 1 oder 2 Token) eine Modifikati
 - ***Bsp. für 1 Token***: *Im Raum findet sich der dringend benötigte Stein in Keilform zum Blockieren der Tür.*
 - ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Heiltrank in seiner Gürteltasche.*
 
-**Das Schicksal hat zwei Seiten**: Nach Einsatz wandert der Token direkt zum SL, der diesen ab nächster Aktion ebenso jederzeit für eine beliebige direkt folgende Probe einsetzen kann. Dann wandert der Token zurück zu den Spielern.
+**Das Schicksal hat zwei Seiten**: Nach Einsatz wandert der Token direkt zum SL, der diesen jederzeit (aber nicht für den gleichen Wurf) als *Vorteil oder Nachteil* gegen die Abenteurer einsetzen kann. Dann wandert der Token zurück zu den Spielern.

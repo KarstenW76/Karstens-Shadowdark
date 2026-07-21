@@ -12,6 +12,8 @@
 - **Phase 2**: Alle Monster agieren
 - **Phase 3**: Alle Helden, die die Ini-Probe nicht geschafft haben, agieren in beliebiger Reihenfolge (**Patzer**: *Nachteil* auf alle Proben in erster Runde)
 
+**Verzögern**: In Phase 1 agierender Spieler sagt an, welche Aktion er ausführen wird, wenn was genau passiert, dann wartet er ab; tritt die Situation ein und ihm gelingt eine [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] GES gegen GES, unterbricht er, scheitert die Probe reagiert er direkt nach dem Zug des Gegners
+
 ---
 
 # Kampfrunde
