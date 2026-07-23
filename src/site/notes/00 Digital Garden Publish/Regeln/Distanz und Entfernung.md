@@ -11,3 +11,5 @@
 | Doppelt-Nah    | Bis zu 18m (12 Grid-Felder)                                                                       |
 | Fern           | Bis zu 36m (24 Grid-Felder)                                                                       |
 | Extrem         | Bis zu 72m (48 Grid-Felder) <br>*nur spezielle Fernkampfwaffen; Angriffe erfolgen mit Nachteil* |
+
+**Spiel ohne Karten/Grid**: *Doppelt-Direkt* wird zur Verienfachung zumeist im Kontext von *Nah* und nicht separat verwendet.

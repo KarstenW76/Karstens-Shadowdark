@@ -7,53 +7,85 @@
 
 **Überraschung**: SL-Entscheid; Freie Angriffsaktion (Angriff mit *Vorteil*) durch Überrascher-Seite vor *INI*
 
-**Initiative**: Jeder Held wirft GES-Probe gegen SG "10+GES des schnellsten Monsters".
-- **Phase 1**: Alle Helden, die die Ini-Probe geschafft haben, agieren in beliebiger Reihenfolge (**Krit**: *Vorteil* auf eine Probe in erster Runde)
+**Initiative**: Jeder Abenteurer wirft GES-Probe gegen SG "10+GES des schnellsten Monsters".
+- **Phase 1**: Alle Abenteurer, die die INI-Probe geschafft haben, agieren in beliebiger Reihenfolge (**Krit**: *Vorteil* auf eine Probe in erster Runde)
 - **Phase 2**: Alle Monster agieren
-- **Phase 3**: Alle Helden, die die Ini-Probe nicht geschafft haben, agieren in beliebiger Reihenfolge (**Patzer**: *Nachteil* auf alle Proben in erster Runde)
+- **Phase 3**: Abenteurer, die die INI-Probe nicht geschafft haben, agieren in beliebiger Reihenfolge (**Patzer**: *Nachteil* auf alle Proben in erster Runde)
 
-**Verzögern**: In Phase 1 agierender Spieler sagt an, welche Aktion er ausführen wird, wenn was genau passiert, dann wartet er ab; tritt die Situation ein und ihm gelingt eine [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] GES gegen GES, unterbricht er, scheitert die Probe reagiert er direkt nach dem Zug des Gegners
+**Verzögern**: In Phase 1 agierender Spieler sagt an, welche Aktion er ausführen wird, wenn was genau passiert, dann wartet er ab. Tritt die Situation ein und ihm gelingt eine [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] GES gegen GES, unterbricht er die Handlung, scheitert die Probe reagiert er direkt nach dem Zug des Gegners
 
 ---
 
 # Kampfrunde
 
-> Helden konzentrieren sich entweder nur auf das Ausweichen oder können 1 Bewegung + 1 Aktion + freie Aktionen ausführen. Zusätzlich können sie Reaktionen im SL-Zug ausführen.
+>  Abenteurer konzentrieren sich entweder nur auf das Ausweichen oder können 1 Bewegung + 1 Aktion + freie Aktionen ausführen. Zusätzlich können sie Reaktionen im SL-Zug ausführen.
+
 
 ## Ausweichen
 
 Wenn du deinen vollständigen Zug zum Ausweichen verwendest (keine Aktion oder Bewegung), erhalten alle Angreifer, die für den Abenteurer sichtbar sind, *Nachteil* auf ihre Angriffe
 
+
 ## Bewegung
 
-Bis zu Distanz **Nah (9m / 6 Grid-Felder)** bewegen oder Aufstehen oder etwas aufheben
-- Du kannst dich frei durch Verbündete bewegen. Um dich durch Feinde zu bewegen, musst du eine STR- oder GES-Vergleichsprobe bestehen und brauchst das höhere Ergebnis.
-- Beim Entfernen aus *Direkt*-Entfernung zu Gegner: GES-Probe SG 12; bei Misserfolg darf Gegner einen Nahkampfangriff ausführen
-- Schwieriges Gelände: Halbe Geschwindigkeit (und ggf. GES-Probe)
+Bewege dich bis zu Distanz **Nah (9m / 6 Grid-Felder)** oder steh von liegend auf, greif etwas vom Boden oder wechsle deine Waffen.
+
+Du kannst dich frei durch Verbündete bewegen. Um dich durch Feinde zu bewegen, musst du eine STR- oder GES-[[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] bestehen und brauchst das höhere Ergebnis.
+
+Beim Entfernen aus *Direkt*-Entfernung zu Gegner: GES-Probe SG 12; bei Misserfolg darf Gegner einen Nahkampfangriff ausführen
+
+Schwieriges Gelände: Halbe Geschwindigkeit (und ggf. GES-Probe)
+
 
 ## Eine Aktion
 
+
 ### Aktion: Bewegen
 
-Erneut bewegen
+Bewege dich erneut.
+
 
 ### Aktion: Angreifen
 
-Angriff im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*); siehe [[00 Digital Garden Publish/Regeln/Distanz und Entfernung\|Distanz und Entfernung]]
-
-- **Nahkampfangriff**: "1d20 + STR-Mod gegen RK" (*Vorteil* wenn Ziel am Boden liegt; *Nachteil* wenn selbst liegend)
+Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch [[00 Digital Garden Publish/Regeln/Distanz und Entfernung\|Distanz und Entfernung]]
+- **Nahkampfangriff**: "1d20 + STR-Mod gegen RK" (*Vorteil* wenn Ziel liegt; *Nachteil* wenn selbst liegend)
 - **Fernkampfangriff**: "1d20 + GES-Mod gegen RK" (*Vorteil* wenn ungesehen & unerwartet oder Höhenvorteil; *Nachteil* wenn im Dunklen oder Ziel >50% in Deckung)
-- **Schaden**: Waffenschaden (kein Attributsbonus!)
-	- **Explodierender Schaden**: Wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis
-	- **Krit**: Schadenswürfel x2
-- **Gnadenstoß**: Automatischer **Krit**-Treffer
+
+- Ergebnis:
+	- **Erfolg**: Verursache den gewürfelten Waffenschaden (ohne Attributsbonus!)
+	- **Misserfolg**: Dein Angriff scheitert, kein Effekt
+	- **Krit**: Wie erfolg aber mit verdoppelten Schadenswürfeln
+	- **Patzer**: Wie Misserfolg und Wurf auf der [[18 DIY/Patzer-Tabelle\|Patzer-Tabelle]]
+
+**Schaden**: Waffenschaden (ohne Attributsbonus!)
+- **Explodierender Schaden**: Zeigen Schadenswürfel das Maximum, wähle von diesen einen aus und wirf ihn neu und addiere das Ergebnis (auch mehrfach)
+- **Krit**: Schadenswürfel x2
+
+**Gnadenstoß**: Gilt ohne Trefferwurf automatisch als **Krit**.
+
 
 ### Aktion: Kampfmanöver (Kreative Aktionen)
 
-Jeder Held kann im Kampf anstelle eines Schadensangriffs ein taktisches Manöver ansagen.
-1. **Angriff**: Der Spieler beschreibt die geplante Handlung. Der SL bestimmt das passende Attribut *(z.B. GES für ein Entwaffnen / Bein stellen / Sand werfen oder STR für Wegstoßen)*. Der Spieler würfelt "1d20 + Attr-Mod"  gegen die RK des Ziels. Bei einem Fehlschlag passiert nichts, bei einem Patzer stolpert der Held und das Monster erhält *Vorteil* auf den Gegenangriff in dessen Folgerunde.
-2. **Gegenwehr**: Trifft der Angriff, erleidet das Monster *keinen* Schaden. Stattdessen muss das Monster sofort einen passenden **Rettungswurf** ablegen. Der SG entspricht exakt dem Wurf-Endergebnis des Helden.
-3. **Ergebnis**: Misslingt dem Monster der Rettungswurf, gelingt das Manöver vollumfänglich. Bei einem *Krit* des Helden gelingt das Manöver automatisch und es erleidet zusätzlichen Schaden gem. SL-Entscheid.
+Führe ein kreatives taktisches Manöver aus: Beschreibe dein geplantes Tun und Ergebnis, dein SL entscheidet über die relevanten Attribute.
+
+**Probe**: 1d20 + Attr-Mod von dir gegen 10 + Doppelter Attr-Mod deines Ziels
+
+- Ergebnis:
+	- **Erfolg**: Manöver-Umsetzung gelingt wie geplant
+	- **Misserfolg**: Manöver scheitert, kein Effekt
+	- **Krit**: Manöver-Umsetzung gelingt besonders gut, ggf. verstärkter Effekt
+	- **Patzer** = Das Manöver scheitert desaströs mit passender Konsequenz
+
+| **Manöver (beispielhaft)**     | **Initiant würfelt mit...**              | **SG = 2x Attr-Mod des Ziels...**            |
+|:------------------------------ | ---------------------------------------- | -------------------------------------------- |
+| **Entwaffnen**                 | **STR** (Wucht) oder **GES** (Präzision) | **STR** (Waffengriff)                        |
+| **Wegstoßen / Bein wegtreten** | **STR** (Kraft)                          | **STR** oder **KON** (Kraft/Standfestigkeit) |
+| **Bein stellen**               | **GES** (Geschick)                       | **GES** (Gleichgewicht)                      |
+| **Sand werfen / Blenden**      | **GES** (Ablenkung/Finte)                | **GES** (Reflexe) oder **WEI** (Wahrnehmung) |
+| **Provozieren / Ablenken**     | **CHA** (Präsenz)                        | **INT** (Verstand)                           |
+| **Einschüchtern**              | **CHA** (Verbal) / **STR** (Körperlich)  | **WEI** (Wille)                              |
+| **Schwachstelle erkennen**     | **WEI** (Instinkt) / **INT** (Analyse)   | **INT** (Taktik)                             |
+
 
 ### Aktion: Zauber wirken
 
@@ -71,10 +103,15 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ## Optionale Regel: Reaktionen (im SL-Zug)
 
+**STANDARD-REGEL (wenn Optional nicht genutzt)**:
+- SL würfelt Angriff und Schaden für Monster, siehe [[00 Digital Garden Publish/Regeln/Kampf#Kampfrunde\|#Kampfrunde]].
+
+**ALTERNATIV-REGELN**:
+
 **Verteidigung gegen Angriff**: 
-- Kämpfende Monster greifen automatisch an, betroffene Helden würfeln für Verteidigung (statt SL für Angriff)
-- Angegriffener Held würfelt mit **"1d20 + RK-10" *(z.B. 1d20+4 bei RK 14)* gegen "SG 11 + Monsterangriffsbonus"** *(z.B. 15 wenn Monster mit +4 angreift)*
-- Held hat *Nachteil* wenn Monster *Vorteil* (z.B. Unsichtbar) hätte und *Vorteil* wenn Monster *Nachteil* hätte
+- Kämpfende Monster greifen automatisch an, betroffene Abenteurer würfeln für Verteidigung (statt SL für Angriff)
+- Der angegriffene Abenteurer würfelt mit "1d20 + RK-10" *(z.B. 1d20+4 bei RK 14)* gegen "SG 11 + Monsterangriffsbonus"** *(z.B. 15 wenn Monster mit +4 angreift)*
+- Der Abenteurer hat *Nachteil* wenn Monster *Vorteil* (z.B. Unsichtbar) hätte und *Vorteil* wenn Monster *Nachteil* hätte
 - Ergebnis:
 	- **Erfolg**: Kein Schaden
 	- **Misserfolg**: Normaler Schaden
@@ -82,14 +119,11 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 	- **Patzer** = Monster-Krit: Treffer mit Schaden verdoppelt
 
 **Verteidigung gegen feindliche Zauber**: 
-- Zaubernde Monster wirken ihre Zauber automatisch. Betroffene Helden würfeln einen Rettungswurf – Attribut je nach Zauber (statt SL für das Zauberwirken).
-- Angegriffener Held würfelt mit **"1d20 + Attr.-Mod." gegen SG "10 + Zaubergrad"** *(z.B. 13 wenn Zaubergrad 3)*.
-- Held hat *Nachteil*, wenn das Monster *Vorteil* hätte, und *Vorteil*, wenn das Monster *Nachteil* hätte.
+- Zaubernde Monster wirken ihre Zauber automatisch. Betroffene Abenteurer würfeln einen Rettungswurf mit Attribut je nach Zauber (statt SL für das Zauberwirken).
+- Der angegriffene Abenteurer würfelt mit **"1d20 + Attr.-Mod." gegen SG "10 + Zaubergrad"** *(z.B. 13 wenn Zaubergrad 3)*.
+- Der Abenteurer hat *Nachteil*, wenn das Monster *Vorteil* hätte, und *Vorteil*, wenn das Monster *Nachteil* hätte.
 - Ergebnis:
 	- **Erfolg**: Einzelangriff: Kein Schaden/Effekt; Flächenzauber: Halber Schaden / Reduzierter Effekt
 	- **Misserfolg**: Normaler Schaden / Effekt
 	- **Krit** = Monster-Patzer: Das Monster strauchelt und offenbart eine Schwachstelle -> du hast *Vorteil* bei Angriff/Zauber gegen ihn in deiner nächsten Runde.
 	- **Patzer** = Monster-Krit: Treffer mit Schadenswürfel x2 oder Verdopplung des Zaubereffekts.
-
-**Standardregel (wenn Optional nicht genutzt)**:
-- SL würfelt regulär Angriff und Schaden für Monster.

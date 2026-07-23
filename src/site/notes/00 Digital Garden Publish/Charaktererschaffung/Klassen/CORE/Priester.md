@@ -64,37 +64,37 @@ Abenteurer können in Dungeons auf spezifische, geweihte Gegenstände stoßen, d
 ### Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
-| 2d6 | Effekt |
-| :--- | :--- |
-| 2 | Erhalte Vorteil beim Wirken eines gewählten Zaubers, den du kennst |
-| 3-6 | +1 auf Nahkampf- oder Fernkampfangriffe |
-| 7-9 | +1 auf Priester-Zauberwirkenproben |
-| 10-11 | +2 auf STR oder WEI |
-| 12 | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute |
+|  2d6  | Effekt                                                             |
+|:-----:|:------------------------------------------------------------------ |
+|   2   | Erhalte Vorteil beim Wirken eines gewählten Zaubers, den du kennst |
+|  3-6  | +1 auf Nahkampf- oder Fernkampfangriffe                            |
+|  7-9  | +1 auf Priester-Zauberwirkenproben                                 |
+| 10-11 | +2 auf STR oder WEI                                                |
+|  12   | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute       |
 
 
 ### Bekannte Zauber nach Zaubergrad
 
-| Level\Grad | 1 | 2 | 3 | 4 | 5 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2 | - | - | - | - |
-| 2 | 3 | - | - | - | - |
-| 3 | 3 | 1 | - | - | - |
-| 4 | 3 | 2 | - | - | - |
-| 5 | 3 | 2 | 1 | - | - |
-| 6 | 3 | 2 | 2 | - | - |
-| 7 | 3 | 3 | 2 | 1 | - |
-| 8 | 3 | 3 | 2 | 2 | - |
-| 9 | 3 | 3 | 2 | 2 | 1 |
-| 10 | 3 | 3 | 3 | 2 | 2 |
+| Level\Grad |  1  |  2  |  3  |  4  |  5  |
+|:----------:|:---:|:---:|:---:|:---:|:---:|
+|     1      |  2  |  -  |  -  |  -  |  -  |
+|     2      |  3  |  -  |  -  |  -  |  -  |
+|     3      |  3  |  1  |  -  |  -  |  -  |
+|     4      |  3  |  2  |  -  |  -  |  -  |
+|     5      |  3  |  2  |  1  |  -  |  -  |
+|     6      |  3  |  2  |  2  |  -  |  -  |
+|     7      |  3  |  3  |  2  |  1  |  -  |
+|     8      |  3  |  3  |  2  |  2  |  -  |
+|     9      |  3  |  3  |  2  |  2  |  1  |
+|     10     |  3  |  3  |  3  |  2  |  2  |
 
 
 ### Titel
 
-| Level | Rechtschaffen | Chaotisch | Neutral |
-| :--- | :--- | :--- | :--- |
-| 1-2 | Akolyth | Initiand | Suchender |
-| 3-4 | Kreuzfahrer | Eiferer | Beschwörer |
-| 5-6 | Templer | Kultist | Haruspex (Opferschauer) |
-| 7-8 | Champion | Geißel | Mystiker |
-| 9-10 | Paladin | Chaosritter | Orakel |
+| Level | Rechtschaffen | Chaotisch   | Neutral                 |
+|:-----:|:------------- |:----------- |:----------------------- |
+|  1-2  | Akolyth       | Initiand    | Suchender               |
+|  3-4  | Kreuzfahrer   | Eiferer     | Beschwörer              |
+|  5-6  | Templer       | Kultist     | Haruspex (Opferschauer) |
+|  7-8  | Champion      | Geißel      | Mystiker                |
+| 9-10  | Paladin       | Chaosritter | Orakel                  |
