@@ -8,15 +8,35 @@
     "Regeln"
   ],
   "/Charaktererschaffung": [
-    "Abstammungen - verbreitet",
-    "Abstammungen - selten",
-    "Klassen - verbreitet",
-    "Klassen - selten",
+    "Abstammungen (Core)",
+    "Abstammungen (selten)",
+    "Klassen",
     "Hintergründe",
     "Gottheiten",
     "Sprachen",
     "Zauberliste Magier",
     "Zauberliste Priester"
+  ],
+  "/Charaktererschaffung/Klassen": [
+    "CORE",
+    "CS1",
+    "DIY"
+  ],
+  "/Charaktererschaffung/Klassen/CORE": [
+    "Barde",
+    "Dieb",
+    "Kämpfer",
+    "Magier",
+    "Priester",
+    "Waldläufer"
+  ],
+  "/Charaktererschaffung/Klassen/CS1": [
+    "Hexe(r)",
+    "Hexenmeister",
+    "Ritter von St. Ydris"
+  ],
+  "/Charaktererschaffung/Klassen/DIY": [
+    "Berserker"
   ],
   "/Ausrüstung": [
     "Ausrüstung",
@@ -24,8 +44,9 @@
     "Rüstungen"
   ],
   "/Regeln": [
-    "Buße",
+    "Angriffspatzer",
     "Bewegung",
+    "Buße",
     "Distanz und Entfernung",
     "Furcht",
     "Glück und Schicksal",
