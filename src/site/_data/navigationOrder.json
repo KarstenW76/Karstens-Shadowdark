@@ -14,7 +14,6 @@
     "Hintergründe",
     "Gottheiten",
     "Sprachen",
-    "Zauberliste Hexen",
     "Zauberliste Magier",
     "Zauberliste Priester",
     "Klassen-Details",
@@ -35,7 +34,10 @@
   ],
   "/Charaktererschaffung/Klassen-Details/CS1": [
     "Hexe(r)",
+    "Zauberliste Hexen",
+    "Diabolische Missgeschicke",
     "Hexenmeister",
+    "Hexenmeister-Patrone",
     "Ritter von St. Ydris"
   ],
   "/Charaktererschaffung/Klassen-Details/DIY": [
@@ -82,7 +84,6 @@
   "/Regeln/Patzer": [
     "Angriffspatzer",
     "Buße",
-    "Diabolische Missgeschicke",
     "Magische Missgeschicke"
   ],
   "/Regeln/Regeln für SL": [
