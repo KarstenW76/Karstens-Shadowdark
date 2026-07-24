@@ -21,7 +21,7 @@
 
 **Stabilisieren**: Berührung, INT-Probe SG 15; bei Erfolg Ziel nicht mehr *Sterbend* und wacht mit 1 TP auf, ist aber *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
-**Rast**: Eine erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Unsichere Rast in Wildnis und Dungeon\|Unsichere Rast in Wildnis und Dungeon]]
+**Rast**: Eine erfolgreich abgeschlossene Rast regeneriert TP und Attributsschaden, siehe [[00 Digital Garden Publish/Regeln/Unsichere Rast\|Unsichere Rast]]
 
 ---
 

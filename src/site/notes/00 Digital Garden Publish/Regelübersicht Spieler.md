@@ -13,7 +13,7 @@
 
 [[00 Digital Garden Publish/Regeln/Furcht\|Furcht]]
 
-[[00 Digital Garden Publish/Regeln/Glück und Schicksal\|Glück und Schicksal]]
+[[00 Digital Garden Publish/Regeln/Karma und Schicksal\|Karma und Schicksal]]
 
 [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]]
 
@@ -27,7 +27,7 @@
 
 [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod\|Schaden, Heilung und Tod]]
 
-[[00 Digital Garden Publish/Regeln/Unsichere Rast in Wildnis und Dungeon\|Unsichere Rast in Wildnis und Dungeon]]
+[[00 Digital Garden Publish/Regeln/Unsichere Rast\|Unsichere Rast]]
 
 [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsproben]]
 
