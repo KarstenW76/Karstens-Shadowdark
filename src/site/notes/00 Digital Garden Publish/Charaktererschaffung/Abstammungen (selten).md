@@ -11,7 +11,7 @@
 
 ---
 
-# Aasimar
+## Aasimar
 
 *Ebenenberührte Sterbliche mit menschlicher und himmlischer Abstammung. Sie fühlen sich oft zu Höherem berufen, als ihr Leben ihnen bietet.*
 
@@ -21,7 +21,7 @@
 
 ---
 
-# Drachenblütiger
+## Drachenblütiger
 
 *Drachengeborene sind Stolze Nachkommen von Drachen, deren Ehre einen höheren Stellenwert besitzt als ihr eigenes Leben.*
 
@@ -31,7 +31,7 @@
 
 ---
 
-# Echsenmensch
+## Echsenmensch
 
 *Krokodilsartige Humanoide mit schuppigen Gesichtern, Klauen und Schwänzen, die in Sumpf- und Flussgebieten leben.*
 
@@ -41,7 +41,7 @@
 
 ---
 
-# Elf (Dunkelelf / Drow)
+## Elf (Dunkelelf / Drow)
 
 *Drow leben tief unter der Erde und interagieren selten mit Bewohnern der Oberfläche. Sie stammen aus einer gewalttätigen und barbarischen Gesellschaft.*
 
@@ -51,7 +51,7 @@
 
 ---
 
-# Elf (Grau-Elf)
+## Elf (Grau-Elf)
 
 *Graue Elfen sind arrogant, hochmütig und zurückgezogen. Sie glauben, die einzig wahre Elfenabstammung zu sein, und zögern nicht, jeden das wissen zu lassen.*
 
@@ -61,7 +61,7 @@
 
 ---
 
-# Elf (Schatten-Elf)
+## Elf (Schatten-Elf)
 
 *Geschmeidige, heimliche Nachkommen der Dunkelelfen/Drow, die die Oberfläche als ihre Heimat angenommen haben.*
 
@@ -71,7 +71,7 @@
 
 ---
 
-# Elf (Schnee-Elf)
+## Elf (Schnee-Elf)
 
 *Schnee-Elfen leben tief in den Wäldern der Tundra. Sie dienen oft als Führer und Späher für arktische Expeditionen.*
 
@@ -81,7 +81,7 @@
 
 ---
 
-# Elf (Wald-Elf)
+## Elf (Wald-Elf)
 
 *Wald-Elfen sind Nachkommen von Gold-Elfen, die tief in den Wald gezogen sind. Sie sind Meister der Waldläuferei, und man kann an einer ihrer Städte vorbeigehen, ohne sie überhaupt zu bemerken.*
 
@@ -91,7 +91,7 @@
 
 ---
 
-# Githyanki
+## Githyanki
 
 *Diese elfenartigen Außerirdischen stammen aus der Astralebene, wo sie als furchtbare Kämpfer mit ausgeprägtem Kampfverstand gelten.*
 
@@ -101,7 +101,7 @@
 
 ---
 
-# Habichtsvolk
+## Habichtsvolk
 
 *Das Habichtsvolk sind Humanoide mit großen Federflügeln, die aus ihren Schultern herausragen. Sie sind nur zu Kurzstreckenflügen fähig.*
 
@@ -111,7 +111,7 @@
 
 ---
 
-# Halb-Elf
+## Halb-Elf
 
 *Nachkommen von Elfen und Menschen, gleichermaßen anmutig und ehrgeizig. Sie streben danach, sich einen Namen zu machen.*
 
@@ -121,7 +121,7 @@
 
 ---
 
-# Halbling (Tapferherz-Halbling)
+## Halbling (Tapferherz-Halbling)
 
 *Tapferherz-Halblinge sind abenteuerlustige Reisende, die nach der Jugend das Haus verlassen und erst zurückkehren, wenn sie ein kleines Vermögen gemacht haben.*
 
@@ -131,7 +131,7 @@
 
 ---
 
-# Hobgoblin
+## Hobgoblin
 
 *Hobgoblins sind ein größerer und zivilisierterer Nachkomme der Goblins. Sie sind hochmilitaristische und disziplinierte Kämpfer.*
 
@@ -141,7 +141,7 @@
 
 ---
 
-# Gnoll
+## Gnoll
 
 *Matriarchales, nomadisches Hyänenvolk, das durch offenes Land zieht und entweder kämpft oder sein dämonisches Erbe annimmt.*
 
@@ -151,7 +151,7 @@
 
 ---
 
-# Gnom (Erd-Gnom)
+## Gnom (Erd-Gnom)
 
 *Kleine Vettern der Zwerge, die unterirdisch in engen Erdhöhlen leben und stets nach Edelsteinen und magischen Geheimnissen graben.*
 
@@ -161,7 +161,7 @@
 
 ---
 
-# Gnom (Fels-Gnom)
+## Gnom (Fels-Gnom)
 
 *Fels-Gnome sind die häufigsten Gnomischen Folk. Sie sind bekannt für ihre feine Nase und ihr Talent für Mechanikerarbeiten und alchemistische Zubereitungen.*
 
@@ -171,7 +171,7 @@
 
 ---
 
-# Gnom (Svirfneblin-Gnom)
+## Gnom (Svirfneblin-Gnom)
 
 *Kleine graue Gnome, die die unterirdische Natur schätzen — besonders alles Glänzende und Bunte.*
 
@@ -181,7 +181,7 @@
 
 ---
 
-# Gnom (Tiefen-Gnom)
+## Gnom (Tiefen-Gnom)
 
 *Tiefen-Gnome leben in den dunklen Tiefen unter der Erde. Sie können ihre Hauttöne verändern, um sich leicht an Felsen zu tarnen.*
 
@@ -191,7 +191,7 @@
 
 ---
 
-# Gnom (Wald-Gnom)
+## Gnom (Wald-Gnom)
 
 *Halblingsgroße Wesen, die die Bäume und Tiere des Waldes lieben und beschützen.*
 
@@ -201,7 +201,7 @@
 
 ---
 
-# Goliath
+## Goliath
 
 *Wuchtige Menschen aus gebirgigen Weilern. Robuste Leute, die an ein hartes Klima und eine entbehrungsreiche Lebensweise gewöhnt sind.*
 
@@ -211,7 +211,7 @@
 
 ---
 
-# Kobold
+## Kobold
 
 *Kleine, humanoide Hunde-Echsen mit einem Hang zum Tüfteln und Fallenbau und für Drachen.*
 
@@ -221,7 +221,7 @@
 
 ---
 
-# Ork (Berg-Ork)
+## Ork (Berg-Ork)
 
 *Berg-Orks sind barbarische Räuber, die zivilisierte Völker überfallen. Sie produzieren kaum eigene Waren, abgesehen von Waffen- und Rüstungsschmiedearbeiten.*
 
@@ -231,7 +231,7 @@
 
 ---
 
-# Ork (Grau-Orks)
+## Ork (Grau-Orks)
 
 *Graue Orks sind die am häufigsten anzutreffenden Orks. Sie sind aggressive Grenzräuber und leiden infolgedessen unter einem schlechten Ruf.*
 
@@ -241,7 +241,7 @@
 
 ---
 
-# Satyr
+## Satyr
 
 *Verspielte und oft ausgelassene Feenwesen — Satyren haben einen menschlichen Oberkörper mit den Hörnern, Schwänzen und Hinterbeinen von Ziegen.*
 
@@ -251,7 +251,7 @@
 
 ---
 
-# Schildkrötenvolk (Chelonian)
+## Schildkrötenvolk (Chelonian)
 
 *Beschauliche, weise Schildkrötenwesen, die mit Bedacht handeln und ihr Zuhause auf dem Rücken tragen.*
 
@@ -261,7 +261,7 @@
 
 ---
 
-# Tabaxi
+## Tabaxi
 
 *Weitäugige, wandernde Tabaxi sind katzenartige Humanoide, die von Neugier angetrieben werden und die Wunder der Welt mit Augen und Pfoten erkunden möchten.*
 
@@ -271,7 +271,7 @@
 
 ---
 
-# Halb-Troll
+## Halb-Troll
 
 *Hässliche, stämmige Bestien, die leicht zu erzürnen sind und darum kämpfen, ihren Platz in der humanoiden Gesellschaft zu finden.*
 
@@ -281,7 +281,7 @@
 
 ---
 
-# Tiefling
+## Tiefling
 
 *Auf sich selbst gestellte Außenseiter mit diabolischen Vorfahren und dämonischen Hörnern.*
 
@@ -291,7 +291,7 @@
 
 ---
 
-# Wechselbalg
+## Wechselbalg
 
 *Wechselbälger sind humanide Nachkommen von Doppelgängern und Menschen, die einen Teil ihrer Gestaltwandelfähigkeiten behalten haben.*
 
@@ -301,7 +301,7 @@
 
 ---
 
-# Zwerg (Berg-Zwerg)
+## Zwerg (Berg-Zwerg)
 
 *Berg-Zwerge leben in wilden Gebirgsregionen, wo andere Gruppen sich nicht hinwagen. Sie führen häufig Kriege gegen die Bewohner der Tiefe und haben eine natürliche Resistenz gegen Gift entwickelt.*
 
@@ -311,7 +311,7 @@
 
 ---
 
-# Zwerg (Duergar)
+## Zwerg (Duergar)
 
 *Grauäutige Zwerge, die von den gierigen, in der Tiefe lebenden Bergleuten und Sklavenhaltern des Unterdunkels abstammen.*
 
@@ -321,7 +321,7 @@
 
 ---
 
-# Zwerg (Gold-Zwerg))
+## Zwerg (Gold-Zwerg))
 
 *Gold-Zwerge sind gerissene Händler und Kaufleute. Man findet sie oft in umherziehenden Karawanen, die exotische Länder durchqueren.*
 
@@ -331,13 +331,10 @@
 
 ---
 
-# Zwerg (Tiefen-Zwerg)
+## Zwerg (Tiefen-Zwerg)
 
 *Tiefen-Zwerge leben tief unter der Erde und interagieren selten mit Oberflächenwesen. Sie sind an lange Reisen durch weitläufige Höhlenkomplexe gewöhnt.*
 
 **Sprachen**: Zwergisch
 
 **Träger:** Du hast 3 zusätzliche Ausrüstungsslots.
-
----
-

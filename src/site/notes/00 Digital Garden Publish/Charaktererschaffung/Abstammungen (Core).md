@@ -10,7 +10,7 @@
 
 ---
 
-### Elf (Gold-Elf)
+## Elf (Gold-Elf)
 
 > Anmutige Wesen, die Wissen und Schönheit verehren. Elfen haben gute Augen, ein Gespür für Magie und leben lange.
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Goblin
+## Goblin
 
 *Grüne, schlaue Wesen, die an dunklen, engen Orten leben. So fies und grimmig wie sie klein sind.*
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Halb-Ork
+## Halb-Ork
 
 *Hünenhafte Krieger mit Hauern, die so wagemutig wie Menschen und so unerbittlich wie Orks sind.*
 
@@ -40,7 +40,7 @@
 
 ---
 
-### Halbling (Stolzfuß-Halbling)
+## Halbling (Stolzfuß-Halbling)
 
 *Kleine, fröhliche Landleute mit einem Hang zum Schabernack. Sie genießen die einfachen Freuden des Lebens. Stolzfuß-Halblinge sind die häufigsten Kleinstfolk. Sie sind fröhliche und charmante Menschen mit einer positiven Einstellung, selbst unter düsteren Umständen.*
 
@@ -53,7 +53,7 @@ Wähle *Flink* oder *Heimlich*:
 
 ---
 
-### Mensch
+## Mensch
 
 *Kühne, anpassungsfähige und vielfältige Leute, die schnell lernen und gewaltige Taten vollbringen.*
 
@@ -63,11 +63,10 @@ Wähle *Flink* oder *Heimlich*:
 
 ---
 
-### Zwerg (Hügel-Zwerg)
+## Zwerg (Hügel-Zwerg)
 
 *Tapfere, standhafte Leute, so robust wie die Steinkönigreiche, die sie in die Berge schlagen.*
 
 **Sprachen**: Gemeinsprache und Zwergisch
 
 **Stämmig**: Starte mit +2 TP. Würfle deine Trefferpunkte beim *Level-Up* mit Vorteil.
-

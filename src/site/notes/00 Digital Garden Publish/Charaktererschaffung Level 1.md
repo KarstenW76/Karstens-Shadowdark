@@ -42,6 +42,7 @@ Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen (
 Wähle deine Klasse.
 
 Wähle unter den Kern-Klassen (diese sind ohne SL-Genehmigung erlaubt):
+
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Barde\|Barde]]
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Dieb\|Dieb]]
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Kämpfer\|Kämpfer]]
@@ -49,7 +50,7 @@ Wähle unter den Kern-Klassen (diese sind ohne SL-Genehmigung erlaubt):
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Priester\|Priester]]
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Waldläufer\|Waldläufer]]
 
-Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
+Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Klassen/Seltene Klassen\|seltenen Klassen]] wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
 
 ---
 
