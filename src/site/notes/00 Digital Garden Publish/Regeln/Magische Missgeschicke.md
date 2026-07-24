@@ -11,7 +11,7 @@
 
 <br>
 
-## Magische Missgeschicke Zaubergrad 1–2
+## Magische Missgeschicke Zaubergrad 1–2  <!-- collapse -->
 
 | d12 | Effekt |
 | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## Magische Missgeschicke Zaubergrad 3-4
+## Magische Missgeschicke Zaubergrad 3-4 <!-- collapse -->
 
 | d12 | Effekt |
 |:---|:---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Magische Missgeschicke Zaubergrad 5
+## Magische Missgeschicke Zaubergrad 5 <!-- collapse -->
 
 | d12 | Effekt                                                                                                                                                                                                                                                                                                                                                                 |
 | :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
