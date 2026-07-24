@@ -3,7 +3,7 @@
 ---
 
 
-# Zauberwirken Magier
+## Zauberwirken Magier
 
 **INT-Probe SG "10 + Zaubergrad"**:
 - **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
@@ -13,7 +13,7 @@
 
 ---
 
-# Zauberwirken Priester
+## Zauberwirken Priester
 
 **WEI-Probe SG "10 + Zaubergrad"**:
 - **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
@@ -23,13 +23,13 @@
 
 ---
 
-# Explodierender Zauberschaden
+## Explodierender Zauberschaden
 
 Wenn Schadenswürfel das Maximum zeigen, wähle hiervon einen und wirf diesen neu (auch mehrfach wenn erneut Max) und addiere das Ergebnis.
 
 ---
 
-# Fokus-Zauber
+## Fokus-Zauber
 
 Du kannst immer nur einen Fokus-Zauber gleichzeitig aufrechterhalten; hierfür machst du jeweils zu Beginn deines Zuges eine Zauberprobe: Bei Erfolg bleibt der Zauber eine weitere Runde aktiv; bei Fehlschlag endet der Zauber (bleibt aber vorbereitet).
 
@@ -37,13 +37,13 @@ Erleidest du eine **Ablenkung oder Schaden** mache eine sofortige zusätzliche Z
 
 ---
 
-# Ritual-Magie
+## Ritual-Magie
 
 Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreibe, wie du ihn rituell vorbereitest und wirkst. Für den zeitlichen Aufwand gewinnst du zwei Vorteile: Du darfst für diese Probe deinen Attributsmodifikator verdoppeln und verlierst bei einem Fehlschlag nicht die Vorbereitung des Zaubers. Die Konsequenz eines Patzers bleibt unverändert.
 
 ---
 
-# Zauber von Schriftrolle wirken
+## Zauber von Schriftrolle wirken
 
 **Zauberwirken Magierzauber von Schriftrolle** (nur Magier; INT-Probe SG "10 + Zaubergrad"):
 - **Erfolg**: Die Schriftrolle verbrennt; du wirkst den Zauber erfolgreich
@@ -58,7 +58,7 @@ Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreib
 
 ---
 
-# Zauber von Zauberstab wirken
+## Zauber von Zauberstab wirken
 
 **Zauberwirken Magierzauber von Zauberstab** (nur Magier; INT-Probe SG "10 + Zaubergrad"):
 - **Erfolg**: Dein Zauber ist erfolgreich, Zauberstab bleibt nutzbar

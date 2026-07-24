@@ -3,7 +3,7 @@
 ---
 
 
-# Karma
+## Karma
 
 **Karma erhalten**: Du beginnst jede Spielsitzung mit 0 Karma. Misslingt dir eine beliebige Probe (nicht bei Patzer), erhältst du einen Karma-Token (ggf. auch vom SL); du kannst max. 5 haben.
 
@@ -13,7 +13,7 @@
 
 ---
 
-# Schicksal
+## Schicksal
 
 **Setup Schicksal**: Die Spieler erhalten als Gruppe zu Beginn jeder Spielsession "Anzahl Abenteurer" Schicksalstoken.
 

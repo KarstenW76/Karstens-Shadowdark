@@ -3,7 +3,7 @@
 ---
 
 
-# Tagesabschnitt
+## Tagesabschnitt
 
 Ein Tag besteht aus 6 Abschnitten mit je 4 Stunden; *Reihenfolge: Spieler (nach Bedarf in fester Reihenfolge oder individuell) beschreiben ihr Tun -> SL reagiert*
 - **Vorsichtig weiter (2 Abschnitte / 1 Hex-Feld)**: Das nächste Hex-Feld erkunden und dabei nach Gefahren Ausschau halten -> meist keine Würfe erforderlich
@@ -14,7 +14,7 @@ Ein Tag besteht aus 6 Abschnitten mit je 4 Stunden; *Reihenfolge: Spieler (nach 
 
 ---
 
-# Dungeon-Runde
+## Dungeon-Runde
 
 Entspricht 6 Minuten der Erkundung in unbekanntem Terrain; Reihenfolge *Spieler & SL abwechselnd*
 - **Vorsichtig weiter**: Bis zu *Nah (9m / 6 Grid-Felder)* bewegen bzw. kleinen Raum (bis zu 12 Grid-Felder) erkunden und dabei nach Gefahren suchen -> geringe Laustärke, meist Gefahrankündigung ohne Wurf

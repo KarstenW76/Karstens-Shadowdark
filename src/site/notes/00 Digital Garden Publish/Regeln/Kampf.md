@@ -3,7 +3,7 @@
 ---
 
 
-# Überraschung & Initiative
+## Überraschung & Initiative
 
 **Überraschung**: SL-Entscheid; Freie Angriffsaktion (Angriff mit *Vorteil*) durch Überrascher-Seite vor *INI*
 
@@ -16,17 +16,17 @@
 
 ---
 
-# Kampfrunde
+## Kampfrunde
 
 >  Abenteurer konzentrieren sich entweder nur auf das Ausweichen oder können 1 Bewegung + 1 Aktion + freie Aktionen ausführen. Zusätzlich können sie Reaktionen im SL-Zug ausführen.
 
 
-## Ausweichen
+### Ausweichen
 
 Wenn du deinen vollständigen Zug zum Ausweichen verwendest (keine Aktion oder Bewegung), erhalten alle Angreifer, die für den Abenteurer sichtbar sind, *Nachteil* auf ihre Angriffe
 
 
-## Bewegung
+### Bewegung
 
 Bewege dich bis zu Distanz **Nah (9m / 6 Grid-Felder)** oder steh von liegend auf, greif etwas vom Boden oder wechsle deine Waffen.
 
@@ -37,15 +37,15 @@ Beim Entfernen aus *Direkt*-Entfernung zu Gegner: GES-Probe SG 12; bei Misserfol
 Schwieriges Gelände: Halbe Geschwindigkeit (und ggf. GES-Probe)
 
 
-## Eine Aktion
+### Eine Aktion
 
 
-### Aktion: Bewegen
+#### Aktion: Bewegen
 
 Bewege dich erneut.
 
 
-### Aktion: Angreifen
+#### Aktion: Angreifen
 
 Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch [[00 Digital Garden Publish/Regeln/Distanz und Entfernung\|Distanz und Entfernung]]
 - **Nahkampfangriff**: "1d20 + STR-Mod gegen RK" (*Vorteil* wenn Ziel liegt; *Nachteil* wenn selbst liegend)
@@ -64,7 +64,7 @@ Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch 
 **Gnadenstoß**: Gilt ohne Trefferwurf automatisch als **Krit**.
 
 
-### Aktion: Kampfmanöver
+#### Aktion: Kampfmanöver
 
 Führe ein kreatives taktisches Manöver aus: Beschreibe dein geplantes Tun und Ergebnis, dein SL entscheidet über die relevanten Attribute.
 
@@ -87,13 +87,13 @@ Führe ein kreatives taktisches Manöver aus: Beschreibe dein geplantes Tun und 
 | **Schwachstelle erkennen**     | **WEI** (Instinkt) / **INT** (Analyse)   | **INT** (Taktik)                             |
 
 
-### Aktion: Zauber wirken
+#### Aktion: Zauber wirken
 
 siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ---
 
-## Multitasking (Freie Aktionen)
+### Multitasking (Freie Aktionen)
 
 - Etwas fallen lassen (aus der Hand)
 - Etwas Rufen
@@ -101,7 +101,7 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ---
 
-## Angriffe von Monstern
+### Angriffe von Monstern
 
 **STANDARD-REGEL (wenn Optional nicht genutzt)**:
 - SL würfelt Angriff und Schaden für Monster, siehe [[00 Digital Garden Publish/Regeln/Kampf#Kampfrunde\|#Kampfrunde]].

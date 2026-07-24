@@ -8,7 +8,7 @@
 
 ---
 
-# Fackeln
+## Fackeln
 
 **Entzünden**: Bei Licht ohne Probe; im Dunkeln INT- oder GES-Probe SG 12 mit *Nachteil* (Dieb ohne *Nachteil*).
 
@@ -26,7 +26,7 @@
 
 ---
 
-# Laternen
+## Laternen
 
 **Entzünden**: Bei Licht ohne Probe; im Dunkeln INT- oder GES-Probe SG 12 mit *Nachteil* (Dieb ohne *Nachteil*).
 
@@ -43,7 +43,7 @@
 
 ---
 
-# Ölflaschen
+## Ölflaschen
 
 **Werfen einer *Brennenden Ölflasche***: Entzünde eine Ölflasche mit einem lumpenstoffartigen Docht und wirf sie mit STR oder GES auf ein *nahes* Ziel:
 - **Erfolg**: Ein direkter Treffer verursacht **1d6 Feuerschaden** und versetzt das Ziel in den Zustand **Brennend**. Ziele angrenzend in *Direkt* erhalten 1 Punkt Schaden.

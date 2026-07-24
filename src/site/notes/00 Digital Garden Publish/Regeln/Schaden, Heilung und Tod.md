@@ -3,7 +3,7 @@
 ---
 
 
-# Schaden erleiden
+## Schaden erleiden
 
 **Angriff**: Erfolgreicher Treffer verursachen Waffenschaden (siehe [[00 Digital Garden Publish/Regeln/Kampf\|Kampf]]) bzw. Zauberschaden (siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]). 
 
@@ -17,7 +17,7 @@
 
 ---
 
-# Heilung
+## Heilung
 
 **Stabilisieren**: Berührung, INT-Probe SG 15; bei Erfolg Ziel nicht mehr *Sterbend* und wacht mit 1 TP auf, ist aber *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
@@ -25,7 +25,7 @@
 
 ---
 
-# Sterben (Todestimer)
+## Sterben (Todestimer)
 
 **Wenn TP = 0**: Held wird *bewusstlos* und ist *Sterbend*; Start *Todes-Timer*.
 
@@ -70,7 +70,7 @@
 
 ---
 
-# Tod eines Abenteurers
+## Tod eines Abenteurers
 
 Stirbt dein Abenteurer, reihe ihn in die Halle der ehrwürdigen Toten des Shadowdark ein und erschaffe einen neuen Abenteurer. Beachte, dass dieser in Level 1 neu erschaffen wird, sollte es keine anderweitige Regelung des SL geben.
 
