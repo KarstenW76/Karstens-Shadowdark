@@ -33,7 +33,7 @@ Wähle deine Abstammung.
 
 Wähle unter den [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen (Core)\|Abstammungen (Core)]] (diese sind ohne SL-Genehmigung erlaubt).
 
-Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen (selten)\|Abstammungen (selten)]] wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt).
+Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Abstammungen (selten)\|Abstammungen (selten)]] wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
 
 ---
 
