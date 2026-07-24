@@ -55,7 +55,7 @@ Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch 
 	- **Erfolg**: Verursache den gewürfelten Waffenschaden (ohne Attributsbonus!)
 	- **Misserfolg**: Dein Angriff scheitert, kein Effekt
 	- **Krit**: Wie erfolg aber mit verdoppelten Schadenswürfeln
-	- **Patzer**: Wie Misserfolg und Wurf auf der [[18 DIY/Patzer-Tabelle\|Patzer-Tabelle]]
+	- **Patzer**: Wie Misserfolg und Wurf auf der [[00 Digital Garden Publish/Regeln/Angriffspatzer\|Angriffspatzer-Tabelle]]
 
 **Schaden**: Waffenschaden (ohne Attributsbonus!)
 - **Explodierender Schaden**: Zeigen Schadenswürfel das Maximum, wähle von diesen einen aus und wirf ihn neu und addiere das Ergebnis (auch mehrfach)
@@ -101,29 +101,29 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
 ---
 
-## Optionale Regel: Reaktionen (im SL-Zug)
+## Angriffe von Monstern
 
 **STANDARD-REGEL (wenn Optional nicht genutzt)**:
 - SL würfelt Angriff und Schaden für Monster, siehe [[00 Digital Garden Publish/Regeln/Kampf#Kampfrunde\|#Kampfrunde]].
 
-**ALTERNATIV-REGELN**:
-
-**Verteidigung gegen Angriff**: 
-- Kämpfende Monster greifen automatisch an, betroffene Abenteurer würfeln für Verteidigung (statt SL für Angriff)
-- Der angegriffene Abenteurer würfelt mit "1d20 + RK-10" *(z.B. 1d20+4 bei RK 14)* gegen "SG 11 + Monsterangriffsbonus"** *(z.B. 15 wenn Monster mit +4 angreift)*
-- Der Abenteurer hat *Nachteil* wenn Monster *Vorteil* (z.B. Unsichtbar) hätte und *Vorteil* wenn Monster *Nachteil* hätte
-- Ergebnis:
-	- **Erfolg**: Kein Schaden
-	- **Misserfolg**: Normaler Schaden
-	- **Krit** = Monster-Patzer: Das Monster strauchelt und offenbart eine Schwachstelle -> du hast *Vorteil* bei Angriff gegen ihn in deiner nächsten Runde
-	- **Patzer** = Monster-Krit: Treffer mit Schaden verdoppelt
-
-**Verteidigung gegen feindliche Zauber**: 
-- Zaubernde Monster wirken ihre Zauber automatisch. Betroffene Abenteurer würfeln einen Rettungswurf mit Attribut je nach Zauber (statt SL für das Zauberwirken).
-- Der angegriffene Abenteurer würfelt mit **"1d20 + Attr.-Mod." gegen SG "10 + Zaubergrad"** *(z.B. 13 wenn Zaubergrad 3)*.
-- Der Abenteurer hat *Nachteil*, wenn das Monster *Vorteil* hätte, und *Vorteil*, wenn das Monster *Nachteil* hätte.
-- Ergebnis:
-	- **Erfolg**: Einzelangriff: Kein Schaden/Effekt; Flächenzauber: Halber Schaden / Reduzierter Effekt
-	- **Misserfolg**: Normaler Schaden / Effekt
-	- **Krit** = Monster-Patzer: Das Monster strauchelt und offenbart eine Schwachstelle -> du hast *Vorteil* bei Angriff/Zauber gegen ihn in deiner nächsten Runde.
-	- **Patzer** = Monster-Krit: Treffer mit Schadenswürfel x2 oder Verdopplung des Zaubereffekts.
+> [!option]- Optionale Alternativregel: Reaktionen (im SL-Zug)
+>
+> **Verteidigung gegen Angriff**: 
+> - Kämpfende Monster greifen automatisch an, betroffene Abenteurer würfeln für Verteidigung (statt SL für Angriff)
+> - Der angegriffene Abenteurer würfelt mit "1d20 + RK-10" *(z.B. 1d20+4 bei RK 14)* gegen "SG 11 + Monsterangriffsbonus"** *(z.B. 15 wenn Monster mit +4 angreift)*
+> - Der Abenteurer hat *Nachteil* wenn Monster *Vorteil* (z.B. Unsichtbar) hätte und *Vorteil* wenn Monster *Nachteil* hätte
+> - Ergebnis:
+> 	- **Erfolg**: Kein Schaden
+> 	- **Misserfolg**: Normaler Schaden
+> 	- **Krit** = Monster-Patzer: Das Monster strauchelt und offenbart eine Schwachstelle -> du hast *Vorteil* bei Angriff gegen ihn in deiner nächsten Runde
+> 	- **Patzer** = Monster-Krit: Treffer mit Schaden verdoppelt
+>
+> **Verteidigung gegen feindliche Zauber**: 
+> - Zaubernde Monster wirken ihre Zauber automatisch. Betroffene Abenteurer würfeln einen Rettungswurf mit Attribut je nach Zauber (statt SL für das Zauberwirken).
+> - Der angegriffene Abenteurer würfelt mit **"1d20 + Attr.-Mod." gegen SG "10 + Zaubergrad"** *(z.B. 13 wenn Zaubergrad 3)*.
+> - Der Abenteurer hat *Nachteil*, wenn das Monster *Vorteil* hätte, und *Vorteil*, wenn das Monster *Nachteil* hätte.
+> - Ergebnis:
+> 	- **Erfolg**: Einzelangriff: Kein Schaden/Effekt; Flächenzauber: Halber Schaden / Reduzierter Effekt
+> 	- **Misserfolg**: Normaler Schaden / Effekt
+> 	- **Krit** = Monster-Patzer: Das Monster strauchelt und offenbart eine Schwachstelle -> du hast *Vorteil* bei Angriff/Zauber gegen ihn in deiner nächsten Runde.
+> 	- **Patzer** = Monster-Krit: Treffer mit Schadenswürfel x2 oder Verdopplung des Zaubereffekts.
