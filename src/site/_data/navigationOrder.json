@@ -2,10 +2,10 @@
   "/": [
     "Willkommen",
     "Charaktererschaffung Level 1",
+    "Regelübersicht",
     "Charaktererschaffung",
     "Ausrüstung",
-    "Regeln",
-    "Regelübersicht"
+    "Regeln"
   ],
   "/Charaktererschaffung": [
     "Abstammungen (Core)",
@@ -58,7 +58,6 @@
     "Schaden, Heilung und Tod",
     "Schwierigkeitsgrade & Vergleichsproben",
     "Unsichere Rast",
-    "Vergleichsproben",
     "Zeit vergeht",
     "Regeln für SL"
   ],
