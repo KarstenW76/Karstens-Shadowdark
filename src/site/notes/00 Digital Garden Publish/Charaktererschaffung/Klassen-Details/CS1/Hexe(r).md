@@ -22,17 +22,17 @@
 
 ### Vertrauter
 
-Du besitzt ein kleines Tier wie einen Raben, eine Ratte oder einen Frosch, das dir loyal dient. Es kann die Gemeinsprache sprechen.
+Du besitzt ein kleines Tier wie einen Raben, eine Ratte oder einen Frosch, das dir loyal dient. Es kann die Gemeinsprache (bzw. deine Hauptsprache) sprechen.
 
 Dein Vertrauter kann die Quelle von Zaubern sein, die du wirkst. Behandle ihn so, als wäre er du selbst, wenn du die Reichweite von Zaubern bestimmst.
 
-Wenn dein Vertrauter stirbt, kannst du ihn wieder zum Leben erwecken, indem du dauerhaft 1d4 Trefferpunkte (TP) opferst.
+Wenn dein Vertrauter stirbt, kannst du ihn wieder zum Leben erwecken, indem du dauerhaft 1d4 Trefferpunkte opferst.
 
 ### Zauberwirken
 
 Du kannst dir bekannte **Hexenzauber** wirken, die du kennst. Dein relevantes Attribut ist **CHA**.
 
-Du kennst drei Zauber des 1. Grades deiner Wahl aus der [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Hexen\|Zauberliste Hexen]].
+Du kennst drei Zauber des 1. Grades deiner Wahl aus der [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Zauberliste Hexen\|Zauberliste Hexen]].
 Wenn du ein Level aufsteigst, wählst du neue Hexenzauber gemäß der Tabelle [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexe(r)#Bekannte Zauber nach Zaubergrad\|#Bekannte Zauber nach Zaubergrad]] aus. 
 
 Du kannst dir bekannte und vorbereitete Hexenzauber wirken. Würfle 1d20 + CHA-Mod gegen 10 + Zaubergrad:
@@ -40,7 +40,7 @@ Du kannst dir bekannte und vorbereitete Hexenzauber wirken. Würfle 1d20 + CHA-M
 - **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
 - **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
 - **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
-- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Patzer/Diabolische Missgeschicke\|Diabolische Missgeschicke]]
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Diabolische Missgeschicke\|Diabolische Missgeschicke]]
 
 
 ## Talente

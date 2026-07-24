@@ -22,13 +22,13 @@
 
 ### Patron
 
-Wähle einen Patron, dem du dienst (siehe S. 17). Dein Patron ist die Quelle deiner übernatürlichen Gaben.
+Wähle einen [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexenmeister-Patrone\|Patron]], dem du dienst. Dein Patron ist die Quelle deiner übernatürlichen Gaben.
 
-Dein Patron kann entscheiden, dir seine Gaben jederzeit zu gewähren oder vorzuenthalten. Als Folge davon kannst du neue Patronssegen/Talente erlangen (oder verlieren).
+Dein Patron kann entscheiden, dir seine Gaben jederzeit zu gewähren oder vorzuenthalten. Folgedessen kannst du neue Patronssegen/Talente erlangen (oder verlieren).
 
 ### Patronssegen
 
-Auf Level 1 erhältst du einen zufälligen Patronssegen von der Tabelle deines gewählten Patrons (siehe [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexenmeister#Patrone\|#Patrone]]).
+Auf Level 1 erhältst du einen zufälligen Patronssegen von der Tabelle deines gewählten [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexenmeister-Patrone#Patronssegen\|Patrons]].
 
 Wann immer du beim Stufenaufstieg ein neues Talent auswürfelst, kannst du dich entscheiden, auf deiner Patronssegen-Tabelle anstelle der regulären Talenttabelle des Hexers zu würfeln.
 
