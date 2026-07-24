@@ -20,6 +20,7 @@
 **Schicksal anrufen**: Fordert ein Spieler eine Schicksalsgunst ein (jederzeit, frei), erhält sein SC *Vorteil* oder ein NSC/Monster *Nachteil* auf die direkt folgende Probe. Diese Probe darf nicht mit *Glück* neugeworfen werden.
 
 Optional kann die Spielergruppe eine kleinere Modifikation der Spielwelt beim SL anfragen. Der SL entscheidet im Einzelfall, ob und welches Angebot er den Spielern macht. Erhält die Gruppe einen Preis (zumeist 1 oder 2 Token) entscheiden die Spieler gemeinsam, ob sie ihn zahlen wollen.
+
 - ***Bsp. für 1 Token***: *Im Raum findet sich der dringend benötigte Stein in Keilform zum Blockieren der Tür.*
 - ***Bsp. für 2 Token***: *Ein soeben erschlagener Goblin hat einen dringend benötigten Gegengifttrank in seiner Gürteltasche.*
 

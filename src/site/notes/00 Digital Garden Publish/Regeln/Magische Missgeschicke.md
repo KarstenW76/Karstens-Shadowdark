@@ -13,9 +13,9 @@
 
 ## Magische Missgeschicke Zaubergrad 1–2
 
-> [!attention]- Tabelle
+> [!attention]- Wirf 1d12 und trage die Konsequenzen!
 > 
-> | d12 | Effekt |
+> | **d12** | **Effekt** |
 > | :--- | :--- |
 > | 1 | **Verwüstung!** Würfle zweimal und kombiniere beide Effekte (würfle weitere 1en neu) |
 > | 2 | **Explosion!** Du erleidest 1d8 Schaden |
@@ -32,7 +32,7 @@
 
 ## Magische Missgeschicke Zaubergrad 3-4
 
-> [!attention]- Tabelle
+> [!attention]- Wirf 1d12 und trage die Konsequenzen!
 > 
 > | d12 | Effekt |
 > |:---|:---|
@@ -51,7 +51,7 @@
 
 ## Magische Missgeschicke Zaubergrad 5
 
-> [!attention]- Tabelle
+> [!attention]- Wirf 1d12 und trage die Konsequenzen!
 > 
 > | d12 | Effekt                                                                                                                                                                                                                                                                                                                                                                 |
 | :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

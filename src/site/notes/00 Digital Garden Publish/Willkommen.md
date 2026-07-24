@@ -15,7 +15,7 @@ Hier findest du die Schritt-für-Schritt Anleitung zur Erschaffung deines Abente
 
 Hier findest du alle relevanten Regeln für unser Spiel: [[00 Digital Garden Publish/Regelübersicht Spieler\|Regelübersicht Spieler]]
 
-Kaufst in einer Siedlung ein, findest du hier relevante Ausrüstung:
+Kaufst in einer Siedlung ein, findest du dort zumeist die folgende Ausrüstung:
 - [[00 Digital Garden Publish/Ausrüstung/Ausrüstung\|Ausrüstung]]
 - [[00 Digital Garden Publish/Ausrüstung/Waffen\|Waffen]]
 - [[00 Digital Garden Publish/Ausrüstung/Rüstungen\|Rüstungen]]

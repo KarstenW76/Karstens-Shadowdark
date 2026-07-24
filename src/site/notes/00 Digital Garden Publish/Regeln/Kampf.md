@@ -106,7 +106,7 @@ siehe [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 **STANDARD-REGEL (wenn Optional nicht genutzt)**:
 - SL würfelt Angriff und Schaden für Monster, siehe [[00 Digital Garden Publish/Regeln/Kampf#Kampfrunde\|#Kampfrunde]].
 
-> [!option]- Optionale Alternativregel: Reaktionen (im SL-Zug)
+> [!attention]- Optionale Alternativregel: Reaktionen (im SL-Zug)
 >
 > **Verteidigung gegen Angriff**: 
 > - Kämpfende Monster greifen automatisch an, betroffene Abenteurer würfeln für Verteidigung (statt SL für Angriff)

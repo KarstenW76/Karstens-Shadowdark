@@ -3,6 +3,8 @@
 ---
 
 
+[[00 Digital Garden Publish/Regeln/Angriffspatzer\|Angriffspatzer]]
+
 [[00 Digital Garden Publish/Regeln/Bewegung\|Bewegung]]
 
 [[00 Digital Garden Publish/Regeln/Buße\|Buße]]

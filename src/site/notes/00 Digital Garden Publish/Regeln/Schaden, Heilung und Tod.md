@@ -37,7 +37,7 @@
 
 </br>
 
-> [!attention]- Optionale Regel: Vom Tod gezeichnet
+> [!attention]- Optionale zusätzliche Regel: Vom Tod gezeichnet
 >
 > **Voraussetzung**: Zusatzwert im Char-Bogen "Dem Tod entkommen:" emit 2x Checkbox erforderlich. 
 > 

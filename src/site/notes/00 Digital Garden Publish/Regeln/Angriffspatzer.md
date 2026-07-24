@@ -9,7 +9,9 @@
 
 <br>
 
-|**1d20**|**Auswirkung**|
+> [!attention]- Wirf 1d20 und trage die Konsequenzen!
+> 
+> |**1d20**|**Effekt**|
 |---|---|
 |**1**|**Verhängnisvoller Fehltritt:** Du stolperst mit aller Kraft in die Waffe deines Gegners und erleidest 1d4 + STR-Mod Schaden.|
 |**2**|**Miserabler Tag:** Dein desaströser Fehlschlag bringt dich komplett aus der Fassung. Alle Angriffe gegen dich erfolgen bis zum Kampfende mit _Vorteil_.|
