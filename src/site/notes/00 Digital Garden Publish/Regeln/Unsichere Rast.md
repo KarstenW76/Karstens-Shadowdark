@@ -3,7 +3,7 @@
 ---
 
 
-## Unsichere Rast in Wildnis oder Dungeon 
+## Unsichere Rast (Wildnis oder Dungeon )
 
 Führe eine Rast in einem unsicheren Gebiet durch:
 
