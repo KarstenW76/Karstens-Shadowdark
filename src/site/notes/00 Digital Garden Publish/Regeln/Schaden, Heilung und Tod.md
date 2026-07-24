@@ -44,23 +44,27 @@ Zusatzwert im Char-Bogen: "Dem Tod entkommen:" mit 2x Checkbox. Wenn Du auf 0 TP
 2. Nur wenn 0 TP durch Angriffshandlung: Springe dem Tod von der Schippe und markiere eine Checkbox (du kannst dies zwei mal im Leben tun), regeneriere Trefferwürfel deiner Klasse in Höhe deines halben Levels (abgerundet) zurück und bleibe aktiv im Kampf. Wirf auf der Tabelle *Heldenfähigkeiten* (du hast innewohnende Kräfte geweckt), aber auch auf der Tabelle *Verstümmelung* (alles hat seinen Preis).
 3. Führe eine letzte heldenhafte Aktion mit automatisch kritischem Erfolg aus und stirb als Held.
 
-| **d6** | **Heldenfähigkeit** |
-|:---:|---|
-| 1 | **Abhärtung**: Deine KON steigt um +2 (Wenn bereits 18: Neuwurf)  |
-| 2 | **Schlächter**: +1 auf alle Schadenswürfe im Nah- und Fernkampf |
-| 3 | **Robust**: +1 auf deine RK |
-| 4 | **Blutrache**: Erleidest du direkten Schaden durch einen Feind, hast du in deinem folgenden Zug bei deinem Angriffswurf gegen diesen Gegner *Vorteil*. |
-| 5 | **Zäh wie Leder**: 1x pro Rast. Wirst du von einem kritischen Treffer getroffen, wandle diesen in einen normalen Treffer um. Wiederholter Wurf: +1 Nutzung pro Rast. |
-| 6 | **Glückskind**: Du erhältst zu Beginn jeder Spielsitzung 1 zusätzlichen Glückstoken. |
+> [!example]- Tabelle Heldenfähigkeit
+> 
+> | **d6** | **Heldenfähigkeit** |
+> |:---:|---|
+> | 1 | **Abhärtung**: Deine KON steigt um +2 (Wenn bereits 18: Neuwurf)  |
+> | 2 | **Schlächter**: +1 auf alle Schadenswürfe im Nah- und Fernkampf |
+> | 3 | **Robust**: +1 auf deine RK |
+> | 4 | **Blutrache**: Erleidest du direkten Schaden durch einen Feind, hast du in deinem folgenden Zug bei deinem Angriffswurf gegen diesen Gegner *Vorteil*. |
+> | 5 | **Zäh wie Leder**: 1x pro Rast. Wirst du von einem kritischen Treffer getroffen, wandle diesen in einen normalen Treffer um. Wiederholter Wurf: +1 Nutzung pro Rast. |
+> | 6 | **Glückskind**: Du erhältst zu Beginn jeder Spielsitzung 1 zusätzlichen Glückstoken. |
 
-| **d6** | **Verstümmelung** |
-| :----: | ---- |
-|   1    | **Zerschmettertes Bein**: Du hinkst stark. Deine normale Bewegung sinkt von *Nah* auf *Doppelt-Direkt*. Mit zweiter Bewegungsaktion kannst du dich um *Nah* bewegen. |
-|   2    | **Verlorenes/Blindes Auge**: Dein räumliches Sehen ist hinüber. Du hast *Nachteil* auf alle WEI-Proben, die mit *Sehen* zu tun haben und im Kampf *Nachteil* auf Fernkampf-Angriffe in Distanz *Fern*. |
-|   3    | **Verstümmelter Arm**: Ein Arm ist unbrauchbar oder abgetrennt. Du hast *Nachteil* auf *Klettern* und *Schwimmen* und kannst keine zweihändigen Waffen oder Schilde mehr nutzen. |
-|   4    | **Schwere Schädelfraktur**: Du hast einen heftigen Schlag gegen den Kopf kassiert. Du hast ein permanentes Pfeifen im Ohr und bekommst manchmal Migräne. Du hast *Nachteil* auf alle WEI-Proben, die mit *Hören* und deiner *Balance* zu tun haben und auf *Initiative*-Proben. |
-|   5    | **Grausig entstelltes Gesicht:** Du hast eine tiefe, hässliche Narbe quer durchs Gesicht, eine zertrümmerte Nase oder verbrannte Haut. Du hast *Nachteil* auf CHA-Proben bei nichtfeindlichen sozialen Interaktionen, aber *Vorteil* auf Proben zum *Einschüchtern*. |
-|   6    | **Innere Verletzung:** Du hast einen schlecht zusammengewachsenen Rippenbruch oder einen Lungenschaden. Wenn du eine 1 bei einer STR / GES / KON Probe (inkl. Angriff) würfelst, erleidest du vor Schmerz sofort 1d4 Schaden (dies kann dich aber nicht unter 1 TP bringen). |
+> [!example]- Tabelle Verstümmelung
+> 
+> | **d6** | **Verstümmelung** |
+> | :----: | ---- |
+> |   1    | **Zerschmettertes Bein**: Du hinkst stark. Deine normale Bewegung sinkt von *Nah* auf *Doppelt-Direkt*. Mit zweiter Bewegungsaktion kannst du dich um *Nah* bewegen. |
+> |   2    | **Verlorenes/Blindes Auge**: Dein räumliches Sehen ist hinüber. Du hast *Nachteil* auf alle WEI-Proben, die mit *Sehen* zu tun haben und im Kampf *Nachteil* auf Fernkampf-Angriffe in Distanz *Fern*. |
+> |   3    | **Verstümmelter Arm**: Ein Arm ist unbrauchbar oder abgetrennt. Du hast *Nachteil* auf *Klettern* und *Schwimmen* und kannst keine zweihändigen Waffen oder Schilde mehr nutzen. |
+> |   4    | **Schwere Schädelfraktur**: Du hast einen heftigen Schlag gegen den Kopf kassiert. Du hast ein permanentes Pfeifen im Ohr und bekommst manchmal Migräne. Du hast *Nachteil* auf alle WEI-Proben, die mit *Hören* und deiner *Balance* zu tun haben und auf *Initiative*-Proben. |
+> |   5    | **Grausig entstelltes Gesicht:** Du hast eine tiefe, hässliche Narbe quer durchs Gesicht, eine zertrümmerte Nase oder verbrannte Haut. Du hast *Nachteil* auf CHA-Proben bei nichtfeindlichen sozialen Interaktionen, aber *Vorteil* auf Proben zum *Einschüchtern*. |
+> |   6    | **Innere Verletzung:** Du hast einen schlecht zusammengewachsenen Rippenbruch oder einen Lungenschaden. Wenn du eine 1 bei einer STR / GES / KON Probe (inkl. Angriff) würfelst, erleidest du vor Schmerz sofort 1d4 Schaden (dies kann dich aber nicht unter 1 TP bringen). |
 
 ---
 

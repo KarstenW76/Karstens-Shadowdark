@@ -4,7 +4,7 @@
 
 
 Sobald du "aktuelles Level x10" EP gesammelt hast, steigst du in das nächste Level auf:
-- Erhöhe dein Level um 1 (bis Max. 10).
+- Erhöhe dein Level um 1 (bis Höchstlevel 10).
 - Setze deine EP auf 0 zurück (evtl. Überschuss bleibt erhalten)
 - Erhalte ggf. neue Zauber gem. Tabelle "Bekannte Zauber" deiner Klasse. 
 - Erreichst du Level 1, 3, 5, 7 oder 9, würfel auf der Talentetabelle deiner Klasse und notiere deinen neuen Titel.

@@ -64,7 +64,7 @@ Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch 
 **Gnadenstoß**: Gilt ohne Trefferwurf automatisch als **Krit**.
 
 
-### Aktion: Kampfmanöver (Kreative Aktionen)
+### Aktion: Kampfmanöver
 
 Führe ein kreatives taktisches Manöver aus: Beschreibe dein geplantes Tun und Ergebnis, dein SL entscheidet über die relevanten Attribute.
 
