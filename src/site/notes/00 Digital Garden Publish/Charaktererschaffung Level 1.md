@@ -50,7 +50,7 @@ Wähle unter den Kern-Klassen (diese sind ohne SL-Genehmigung erlaubt):
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Priester\|Priester]]
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Waldläufer\|Waldläufer]]
 
-Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Klassen/Seltene Klassen\|seltenen Klassen]] wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
+Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Klassen\|seltenen Klassen]] wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
 
 ---
 
