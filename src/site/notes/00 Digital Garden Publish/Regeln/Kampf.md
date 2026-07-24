@@ -55,7 +55,7 @@ Greife im Nahkampf (*Direkt*) oder Fernkampf (*Nah* oder *Fern*) an; siehe auch 
 	- **Erfolg**: Verursache den gewürfelten Waffenschaden (ohne Attributsbonus!)
 	- **Misserfolg**: Dein Angriff scheitert, kein Effekt
 	- **Krit**: Wie erfolg aber mit verdoppelten Schadenswürfeln
-	- **Patzer**: Wie Misserfolg und Wurf auf der [[00 Digital Garden Publish/Regeln/Angriffspatzer\|Angriffspatzer-Tabelle]]
+	- **Patzer**: Wie Misserfolg und Wurf auf der [[00 Digital Garden Publish/Regeln/Patzer/Angriffspatzer\|Angriffspatzer-Tabelle]]
 
 **Schaden**: Waffenschaden (ohne Attributsbonus!)
 - **Explodierender Schaden**: Zeigen Schadenswürfel das Maximum, wähle von diesen einen aus und wirf ihn neu und addiere das Ergebnis (auch mehrfach)

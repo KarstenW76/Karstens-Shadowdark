@@ -9,7 +9,7 @@
 - **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
 - **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
 - **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
-- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Patzer/Magische Missgeschicke\|Magische Missgeschicke]]
 
 ---
 
@@ -19,7 +19,7 @@
 - **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
 - **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
 - **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
-- **Patzer**: Wie Misserfolg, aber die Regeneration erfordert zusätzlich eine angemessene [[00 Digital Garden Publish/Regeln/Buße\|Buße]] zur Versöhnung deiner Gottheit
+- **Patzer**: Wie Misserfolg, aber die Regeneration erfordert zusätzlich eine angemessene [[00 Digital Garden Publish/Regeln/Patzer/Buße\|Buße]] zur Versöhnung deiner Gottheit
 
 ---
 
@@ -49,7 +49,7 @@ Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreib
 - **Erfolg**: Die Schriftrolle verbrennt; du wirkst den Zauber erfolgreich
 - **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
 - **Misserfolg**: Die Schriftrolle verbrennt und der Zauber scheitert
-- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Patzer/Magische Missgeschicke\|Magische Missgeschicke]]
 
 **Zauberwirken Priesterzauber von Schriftrolle** (nur Priester; WEI-Probe SG "10 + Zaubergrad"):
 - **Erfolg**: Die Schriftrolle verbrennt; du wirkst den Zauber erfolgreich
@@ -64,4 +64,4 @@ Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreib
 - **Erfolg**: Dein Zauber ist erfolgreich, Zauberstab bleibt nutzbar
 - **Misserfolg**: Zauber scheitert, Zauberstab bis nach erfolgreicher Rast nicht nutzbar
 - **Krit**: Verdopplung eines numerischen Zauber-Effekts
-- **Patzer**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+- **Patzer**: Zauberstab zerbricht, zusätzlich Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Patzer/Magische Missgeschicke\|Magische Missgeschicke]]

@@ -43,12 +43,12 @@ Wähle deine Klasse.
 
 Wähle unter den Kern-Klassen (diese sind ohne SL-Genehmigung erlaubt):
 
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Barde\|Barde]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Dieb\|Dieb]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Kämpfer\|Kämpfer]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Magier\|Magier]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Priester\|Priester]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Waldläufer\|Waldläufer]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Barde\|Barde]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Dieb\|Dieb]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Kämpfer\|Kämpfer]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Magier\|Magier]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Priester\|Priester]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Waldläufer\|Waldläufer]]
 
 Wenn du eine der [[00 Digital Garden Publish/Charaktererschaffung/Klassen\|seltenen Klassen]] wählen möchtest, sprich vorher mit deinem SL (zumeist sind diese nicht erlaubt).
 

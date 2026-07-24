@@ -3,11 +3,11 @@
 ---
 
 
-[[00 Digital Garden Publish/Regeln/Angriffspatzer\|Angriffspatzer]]
+[[00 Digital Garden Publish/Regeln/Patzer/Angriffspatzer\|Angriffspatzer]]
 
 [[00 Digital Garden Publish/Regeln/Bewegung\|Bewegung]]
 
-[[00 Digital Garden Publish/Regeln/Buße\|Buße]]
+[[00 Digital Garden Publish/Regeln/Patzer/Buße\|Buße]]
 
 [[00 Digital Garden Publish/Regeln/Distanz und Entfernung\|Distanz und Entfernung]]
 
@@ -23,7 +23,7 @@
 
 [[00 Digital Garden Publish/Regeln/Magie und Zaubern\|Magie und Zaubern]]
 
-[[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
+[[00 Digital Garden Publish/Regeln/Patzer/Magische Missgeschicke\|Magische Missgeschicke]]
 
 [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod\|Schaden, Heilung und Tod]]
 

@@ -8,12 +8,12 @@
 
 ## Kern-Klassen (diese sind immer erlaubt)
 
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Barde\|Barde]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Dieb\|Dieb]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Kämpfer\|Kämpfer]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Magier\|Magier]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Priester\|Priester]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Waldläufer\|Waldläufer]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Barde\|Barde]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Dieb\|Dieb]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Kämpfer\|Kämpfer]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Magier\|Magier]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Priester\|Priester]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CORE/Waldläufer\|Waldläufer]]
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## Klassen aus Cursed Scrolls 1
 
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CS1/Hexe(r)\|Hexe(r)]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CS1/Hexenmeister\|Hexenmeister]]
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CS1/Ritter von St. Ydris\|Ritter von St. Ydris]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexe(r)\|Hexe(r)]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Hexenmeister\|Hexenmeister]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/CS1/Ritter von St. Ydris\|Ritter von St. Ydris]]
 
 ## Klassen aus Cursed Scrolls 2
 
@@ -49,4 +49,4 @@
 
 ## Selbst erstellte Klassen
 
-- [[00 Digital Garden Publish/Charaktererschaffung/Klassen/DIY/Berserker\|Berserker]]
+- [[00 Digital Garden Publish/Charaktererschaffung/Klassen-Details/DIY/Berserker\|Berserker]]

@@ -16,7 +16,7 @@ Führe eine Rast in einem unsicheren Gebiet durch:
 **Wenn Rast erfolgreich abgeschlossen**: 
 - Würfel deine Trefferwürfel und regeneriere die gewürfelten TP
 - Regeneriere 1d4 Attributsschaden (teile selbst auf)
-- Als Zauberwirker bereite deine verlorenen Zauber wieder vor (beachte, das als Priester ggf. zusätzlich [[00 Digital Garden Publish/Regeln/Buße\|Buße]]erforderlich ist)
+- Als Zauberwirker bereite deine verlorenen Zauber wieder vor (beachte, das als Priester ggf. zusätzlich [[00 Digital Garden Publish/Regeln/Patzer/Buße\|Buße]]erforderlich ist)
 - Verbrauchte Zauberstäbe sind wieder aufgeladen und einsatzbereit
 
 ---
