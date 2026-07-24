@@ -17,30 +17,30 @@
 **Sprachen:** Vier zusätzliche gewöhnliche Sprachen und eine seltene Sprache
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
-#### Bardische Künste
+### Bardische Künste
 
 Du bist in Redekunst, Darbietung, Gelehrsamkeit und Diplomatie ausgebildet und hast *Vorteil* auf entsprechende Proben.
 
-#### Magie-Dilettant
+### Magie-Dilettant
 
 Du kannst Zauberschriftrollen und Zauberstäbe aktivieren, wobei du CHA als dein Attribut für das Zauberwirken nutzt. Bei einem kritischen Fehlschlag würfelst du auf der *Tabelle für [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]] (auch bei Priesterzaubern)*.
 
-#### Ausstrahlung
+### Ausstrahlung
 
 Lege eine CHA-Probe gegen SG 12 ab, um einen der folgenden Effekte hervorzurufen. Bei einem Fehlschlag (ausgenommen *Fokus*-Effekte), kannst du diesen spezifischen Effekt bis nach erfolgreicher Rast nicht erneut nutzen.
 
 * **Inspirieren**: Du vergibst Inspiration an ein Ziel in Reichweite *Nah*. Inspiration kann frei und jederzeit ausgegeben werden, um einen beliebigen Würfelwurf sofort zu wiederholen. Man kann nur 1 Inspiration haben und sie verfällt am Ende der Spielsitzung.
 * **Faszinieren:** Fokus. Du fesselst alle intelligenten gewählten Ziele von Level 4 oder niedriger in Distanz *Nah* mit deiner Darbietung (nicht nach Kampfbeginn; Abbruch bei aggressiver Handlung).
 
-#### Schnelllerner
+### Schnelllerner
 
 Addiere 1d6 auf deine Proben, um etwas neues zu Erlernen. Gruppen, die in Begleitung von 1 oder mehr Barden *Feiern* gehen, addieren 1d6 auf ihre Feiern-Würfe.
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -52,7 +52,7 @@ Addiere 1d6 auf deine Proben, um etwas neues zu Erlernen. Gruppen, die in Beglei
 | 12 | Wähle ein Talent aus. |
 
 
-### Zauberstab-Fund
+## Zauberstab-Fund
 
 Der Grad des gefundenen Zauberstabs richtet sich nach deinem aktuellen Level. Würfle **1d6**:
 * **Level 1–3**: Bei 1–4 von Grad 1, bei 5–6 von Grad 2.
@@ -61,7 +61,7 @@ Der Grad des gefundenen Zauberstabs richtet sich nach deinem aktuellen Level. W�
 * **Level 10+**: Bei 1–4 von Grad 4, bei 5–6 von Grad 5.
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen (R) | Chaotisch (C) | Neutral (N) |
 | :--- | :--- | :--- | :--- |

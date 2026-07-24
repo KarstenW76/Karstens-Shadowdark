@@ -15,22 +15,22 @@
 **Trefferpunkte**: 1d8 pro Level
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Packesel
+### Packesel
 
 Addiere deinen KON-Mod.,sofern positiv, zu deinen Ausrüstungsplätzen hinzu.
 
-#### Waffenmeisterschaft
+### Waffenmeisterschaft
 
 Wähle eine *Waffenmeisterschafts-Gruppe* (Klingenwaffen, Schlagwaffen, Stichwaffen, Stangenwaffen oder Fernkampf). Du erhältst +1 auf Angriffs- und Schadenswürfe mit allen Waffen dieser Gruppe. Addiere zusätzlich dein halbes Level (abgerundet) zu diesen Würfen hinzu.
 
-#### Mutig
+### Mutig
 
 Wähle STR oder GES. Du hast Vorteil bei Vergleichsproben dieses Typs.
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -42,7 +42,7 @@ Wähle STR oder GES. Du hast Vorteil bei Vergleichsproben dieses Typs.
 | 12 | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch | Neutral |
 | :--- | :--- | :--- | :--- |

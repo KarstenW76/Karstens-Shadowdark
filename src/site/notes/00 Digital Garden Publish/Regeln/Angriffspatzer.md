@@ -4,8 +4,8 @@
 
 
 > [!danger] PATZER:
-> Du hast eine NAT-1 bei einer Waffenangriffs-Probe geworfen:
-> Dein Angriff scheitert. Würfle auf der Angriffspatzer-Tabelle, um zu sehen, was geschieht.
+> Du hast einen Patzer bei einer Waffenangriffs-Probe gewürfelt:
+> Dein Angriff scheitert. Würfle zusätzlich auf der Angriffspatzer-Tabelle, um zu erfahren, was geschieht.
 
 <br>
 

@@ -16,22 +16,22 @@
 
 **Sprachen**: Celestisch, Diabolisch oder Urzeitlich
 
-**Gottheit**: Wähle eine Gottheit, der du dienst und die deiner Gesinnung entspricht (siehe [[00 Digital Garden Publish/Charaktererschaffung Level 1#Deine Gottheit\|Charaktererschaffung Level 1#Deine Gottheit]]). Du besitzt ein heiliges Symbol deines Gottes (dieses verbraucht keinen Ausrüstungsslot).
+**Gottheit**: Wähle eine Gottheit, der du dienst und die deiner Gesinnung entspricht (siehe [[00 Digital Garden Publish/Charaktererschaffung Level 1#Deine Gottheit\|Deine Gottheit]]). Du besitzt ein heiliges Symbol deines Gottes (dieses verbraucht keinen Ausrüstungsslot).
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Machtdomäne
+### Machtdomäne
 
 Deine Gottheit gewährt dir einen Zauber, die mit der gewählten Machtdomäne zusammenhängt. Dieser Zauber zählt nicht gegen deine Anzahl bekannter Zauber. Du kannst ihn 1x pro Rast mit *Vorteil* wirken.
 
-- **Heilig**: Du kennst den Zauber *Untote vertreiben*.
-- **Heilung**: Du kennst den Zauber *Wunden heilen*.
-- **Magie**: Du kennst den Zauber *Magie entdecken*.
-- **Sonne**: Du kennst den Zauber *Licht*.
-- **Krieg**: Du kennst den Zauber *Heilige Waffe*.
+- **Heilig**: Du kennst den Zauber [[00 Digital Garden Publish/Charaktererschaffung/Zauber/Priesterzauber Grad 1#Untote vertreiben\|Untote vertreiben]].
+- **Heilung**: Du kennst den Zauber [[00 Digital Garden Publish/Charaktererschaffung/Zauber/Priesterzauber Grad 1#Wunden heilen\|Wunden heilen]].
+- **Schutz**: Du kennst den Zauber [[00 Digital Garden Publish/Charaktererschaffung/Zauber/Priesterzauber Grad 1#Schild des Glaubens\|Schild des Glaubens]].
+- **Sonne**: Du kennst den Zauber [[00 Digital Garden Publish/Charaktererschaffung/Zauber/Priesterzauber Grad 1#Licht\|Licht]].
+- **Krieg**: Du kennst den Zauber [[00 Digital Garden Publish/Charaktererschaffung/Zauber/Priesterzauber Grad 1#Heilige Waffe\|Heilige Waffe]].
 
-#### Zauberwirken
+### Zauberwirken
 
 Du kannst **Priesterzauber** wirken, die du kennst. Dein relevantes Attribut ist **WEI**.
 
@@ -45,7 +45,7 @@ Du kannst dir bekannte und vorbereitete Priesterzauber wirken. Würfle 1d20 + WE
 - **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
 - **Patzer**: Wie Misserfolg, aber die Regeneration erfordert zusätzlich eine angemessene [[00 Digital Garden Publish/Regeln/Buße\|Buße]] zur Versöhnung deiner Gottheit
 
-#### Zauberschriftrollen verwenden
+### Zauberschriftrollen verwenden
 
 Du kannst einen Priesterzauber von einer Zauberschriftrolle wirken. Würfle 1d20 + WEI-Mod gegen 10 + Zaubergrad:
 
@@ -53,7 +53,7 @@ Du kannst einen Priesterzauber von einer Zauberschriftrolle wirken. Würfle 1d20
 - **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
 - **Misserfolg / Patzer**: Die Schriftrolle verbrennt und der Zauber scheitert
 
-#### Gesegnete Ikonen & Heilige Reliquien
+### Gesegnete Ikonen & Heilige Reliquien
 
 Abenteurer können in Dungeons auf spezifische, geweihte Gegenstände stoßen, die exklusiv für Priester nutzbar sind.
 
@@ -61,7 +61,7 @@ Abenteurer können in Dungeons auf spezifische, geweihte Gegenstände stoßen, d
 - **Heilige Reliquie**: Erlaubt dir, einen beliebigen verlorenen Zauber (nicht nach einem Patzer, der Buße erfordert) sofort wiederherzustellen. Muss nach einmaliger Nutzung im Tempel für eine Spende von **"Aktuelles Level x 10 GM"** neu geweiht werden.
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 |  2d6  | Effekt                                                             |
@@ -73,7 +73,7 @@ Abenteurer können in Dungeons auf spezifische, geweihte Gegenstände stoßen, d
 |  12   | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute       |
 
 
-### Bekannte Zauber nach Zaubergrad
+## Bekannte Zauber nach Zaubergrad
 
 | Level\Grad |  1  |  2  |  3  |  4  |  5  |
 |:----------:|:---:|:---:|:---:|:---:|:---:|
@@ -89,7 +89,7 @@ Abenteurer können in Dungeons auf spezifische, geweihte Gegenstände stoßen, d
 |     10     |  3  |  3  |  3  |  2  |  2  |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch   | Neutral                 |
 |:-----:|:------------- |:----------- |:----------------------- |

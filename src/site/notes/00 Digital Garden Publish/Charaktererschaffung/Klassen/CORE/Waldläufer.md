@@ -15,9 +15,9 @@
 **Trefferpunkte:** 1d8 pro Level
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Pfadfinder
+### Pfadfinder
 
 Du hast *Vorteil* auf Attributswürfe im Zusammenhang mit:
 
@@ -27,7 +27,7 @@ Du hast *Vorteil* auf Attributswürfe im Zusammenhang mit:
 * Heimlichkeit (schleiche und verstecke dich)
 * Wilden Tieren (Wisse was du jagst oder was dich jagt)
 
-#### Kräuterkunde
+### Kräuterkunde
 
 Lege eine **INT-Probe** ab, um ein Heilmittel deiner Wahl zuzubereiten. Bei einem Fehlschlag, kannst du dieses spezifische Heilmittel bis nach einer erfolgreichen Rast nicht erneut herstellen. Die Herstellung für eine Anwendung dauert 1 Dungeon-Runde (6 Minuten) und sie bleibt 5 Dungeon-Runden (30 Minuten) frisch, bevor sie ihre Wirkung verliert. Kann nicht im Kampf hergestellt oder angewendet werden.
 
@@ -42,7 +42,7 @@ Lege eine **INT-Probe** ab, um ein Heilmittel deiner Wahl zuzubereiten. Bei eine
 | 15 | **Heilmittel:** Der Konsument erhält Trefferpunkte basierend auf seinem Level zurück (0-3: 1d6 / 4-6: 2d8 / 7-9: 3d10 / 10: 4d12) |
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -54,7 +54,7 @@ Lege eine **INT-Probe** ab, um ein Heilmittel deiner Wahl zuzubereiten. Bei eine
 | 12 | Wähle ein Talent oder erhalte +2 Punkte zum Verteilen auf deine Attribute. |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen (R) | Chaotisch (C) | Neutral (N) |
 | :--- | :--- | :--- | :--- |

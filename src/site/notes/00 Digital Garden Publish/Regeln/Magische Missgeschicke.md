@@ -4,10 +4,10 @@
 
 
 > [!danger] PATZER:
-> Du hast eine NAT-1 bei einer Zauberwirken-Probe geworfen (gilt nicht für Priester -> siehe [[00 Digital Garden Publish/Regeln/Buße\|Buße]]):
+> Du hast einen Patzer bei einer Zauberwirken-Probe gewürfelt (gilt nicht für Priester -> siehe [[00 Digital Garden Publish/Regeln/Buße\|Buße]]):
 > Dein Zauber scheitert und du kannst ihn erst nach einer erfolgreichen Rast wieder wirken.
 > 
-> Zusätzlich hast du in die Chaos-Stränge der Magie gegriffen. Würfle auf der Tabelle des Grades des Zaubers, den du wirken wolltest, um zu sehen, was geschieht.
+> Zusätzlich hast du die Chaos-Stränge der Magie verwirbelt. Würfle auf der Tabelle des Grades des Zaubers, den du wirken wolltest, um zu erfahren, was geschieht.
 
 <br>
 

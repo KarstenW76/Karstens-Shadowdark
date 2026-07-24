@@ -15,13 +15,13 @@
 **Trefferpunkte**: 1d4 pro Level
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Hinterhalt
+### Hinterhalt
 
 Wenn dein Angriff eine Kreatur trifft, die sich diesem nicht bewusst ist, verursachst du einen zusätzlichen Waffenschadenswürfel an Schaden. Addiere weitere Waffenschadenswürfel in Höhe deines halben Levels (abgerundet) hinzu.
 
-#### Diebeskunst
+### Diebeskunst
 
 Du bist versiert in Diebesfertigkeiten und trägst das notwendige **Handwerkszeug** verborgen an deiner Person (verbraucht keinen Ausrüstungsplatz). 
 
@@ -34,7 +34,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 - Präzisionsaufgaben wie Taschendiebstahl und Schlossknacken
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -46,7 +46,7 @@ Du bist in den folgenden Aufgaben geschult und hast *Vorteil* bei allen damit ve
 | 12 | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch | Neutral |
 | :--- | :--- | :--- | :--- |

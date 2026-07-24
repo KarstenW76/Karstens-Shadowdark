@@ -4,7 +4,7 @@
 
 
 > [!danger] PATZER:
-> Du hast als Priester eine NAT-1 bei einer Zauberwirken-Probe geworfen (als Magier siehe [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]):
+> Du hast als Priester einen Patzer bei einer Zauberwirken-Probe geworfen (als Magier siehe [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]):
 > Dein Zauber scheitert und du kannst ihn erst nach einer erfolgreichen Rast und einer Buße wieder wirken.
 
 <br>

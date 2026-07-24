@@ -3,7 +3,9 @@
 ---
 
 
-Jeder Held legt eine **WEI-Probe** ab. Der SG entspricht der Monsterfähigkeit, dem Zaubereffekt oder der Tiefe im Shadowdark, in der die Abenteurer sich befinden (z.B. SG 9 nahe der Oberfläche oder SG 18 in tiefer Ebene des Shadowdark).
+Wenn das Shadowdark versucht, den Abenteurern das Fürchten zu lehren, legt jeder Abenteurer eine **WEI-Furcht-Probe** ab. 
+
+Der SG entspricht der Monsterfähigkeit, dem Zaubereffekt oder der Tiefe im Shadowdark, in der die Abenteurer sich befinden (z.B. SG 9 nahe der Oberfläche oder SG 18 an einem weit weit weit von der Sonne entfernten Ort).
 
 > [!attention]- **Fehlschlag**: Wirf 1d10 und trage die Konsequenzen!
 > 

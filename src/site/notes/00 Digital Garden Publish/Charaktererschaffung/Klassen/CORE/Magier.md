@@ -17,9 +17,9 @@
 **Sprachen**: Zwei zusätzliche verbreitete Sprachen und zwei seltene Sprachen.
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Zauberwirken
+### Zauberwirken
 
 Du kannst **Magierzauber** wirken, die du kennst. Dein relevantes Attribut ist **INT**.
 
@@ -33,14 +33,14 @@ Du kannst dir bekannte und vorbereitete Magierzauber wirken. Würfle 1d20 + INT-
 - **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
 - **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
-#### Blutmagie
+### Blutmagie
 
 Opfere dein Blut und zwinge die ureigenste Macht in den von dir gewirkten Zauber. Erleide **Zauberrang x 2 TP** Schaden (nicht reduzierbar). Zwei Optionen:
 
 - **Vor der Probe**: Entscheide dich *vor* deiner Zauberwirkenprobe und zahle den Preis, um den Zauber mit *Vorteil* zu wirken.
 - **Nach der Probe**: Misslingt deine Zauberwirkenprobe (nicht bei *Patzer*), versuche, den Fehlschlag zu verhindern. Zahle den Preis und wiederhole die Probe. Bist du erneut nicht erfolgreich, bist du zusätzlich *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
-#### Metamagie
+### Metamagie
 
 Greife in das Gewebe der Wirklichkeit und stärke den von dir gewirkten Zauber mit einem der folgenden Effekte. Erhöhe den SG des Zaubers und gleichzeitig die Schwelle für einen Patzerwurf um den entsprechenden Wert (z.B. SG 11 wird zu 13 und Patzer bei 1-3 statt 1).
 
@@ -50,11 +50,11 @@ Greife in das Gewebe der Wirklichkeit und stärke den von dir gewirkten Zauber m
 - **Verlängern (+3)**: Verdoppele die Dauer des Zaubers
 - **Verdoppeln (+3)**: Füge einem Zauber, der nur ein Ziel betrifft, ein weiteres Ziel hinzu (nicht bei *Selbst*-Zaubern)
 
-#### Ritual-Magie
+### Ritual-Magie
 
 Nimm dir für das Wirken deines Zaubers eine komplette Stunde Zeit und beschreibe, wie du ihn rituell vorbereitest und wirkst. Für den zeitlichen Aufwand gewinnst du zwei Vorteile: Du darfst für diese Probe deinen Attributsmodifikator verdoppeln und verlierst bei einem Fehlschlag nicht die Vorbereitung des Zaubers. Die Konsequenz eines Patzers bleibt unverändert.
 
-#### Zauberstäbe verwenden
+### Zauberstäbe verwenden
 
 Du kannst einen Zauber von einem Zauberstab wirken. Würfle 1d20 + INT-Mod gegen 10 + Zaubergrad:
 
@@ -63,7 +63,7 @@ Du kannst einen Zauber von einem Zauberstab wirken. Würfle 1d20 + INT-Mod gegen
 - **Misserfolg**: Dein Zauber scheitert und der Zauberstab ist bis nach Abschluss einer erfolgreichen *Rast* nicht mehr einsetzbar
 - **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
-#### Zauberschriftrollen verwenden
+### Zauberschriftrollen verwenden
 
 Du kannst einen Magierzauber von einer Zauberschriftrolle wirken. Würfle 1d20 + INT-Mod gegen 10 + Zaubergrad:
 
@@ -72,18 +72,18 @@ Du kannst einen Magierzauber von einer Zauberschriftrolle wirken. Würfle 1d20 +
 - **Misserfolg**: Die Schriftrolle verbrennt und der Zauber scheitert
 - **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Magische Missgeschicke\|Magische Missgeschicke]]
 
-#### Zauber lernen
+### Zauber lernen
 
-Du kannst einen Magierzauber dauerhaft von einer Zauberschriftrolle lernen, indem du sie studierst und eine INT-Probe gegen SG 13 + Zaubergrad bestehst. Unabhängig vom Erfolgt verbrauchst du dabei die Zauberspruchrolle. Zauber, die du auf diese Weise lernst, zählen nicht gegen deine Anzahl bekannter Zauber.
+Du kannst einen Magierzauber dauerhaft von einer Zauberschriftrolle lernen, indem du sie studierst und eine INT-Probe gegen SG 13 + Zaubergrad bestehst. Unabhängig vom Erfolg verbrauchst du dabei die Zauberspruchrolle. Zauber, die du auf diese Weise lernst, zählen nicht gegen deine Anzahl bekannter Zauber.
 
 Für das Lernen hast du 3 Optionen:
 
-- Zum Abschluss einer erfolgreichen *Wildnis-Rast*: INT-Probe mit Nachteil
+- Zum Abschluss einer erfolgreichen *Unsicheren Rast*: INT-Probe mit Nachteil
 - Als Zweitaktivität neben dem *Feiern*: INT-Probe normal
 - Als ausschließliche Auszeit-Aktivität (ohne Feiern): INT-Probe mit Vorteil
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -95,7 +95,7 @@ Für das Lernen hast du 3 Optionen:
 | 12 | Wähle ein Talent oder verteile +2 Punkte auf deine Attribute |
 
 
-### Bekannte Zauber nach Zaubergrad
+## Bekannte Zauber nach Zaubergrad
 
 | Level\Grad | 1 | 2 | 3 | 4 | 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -111,7 +111,7 @@ Für das Lernen hast du 3 Optionen:
 | 10 | 4 | 4 | 4 | 2 | 2 |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch | Neutral |
 | :--- | :--- | :--- | :--- |
