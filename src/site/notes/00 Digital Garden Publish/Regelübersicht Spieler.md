@@ -35,4 +35,14 @@
 
 ---
 
-Für SL: [[00 Digital Garden Publish/Regeln/Regeln für SL/Regelübersicht für SL\|Regelübersicht für SL]]
+### Nur für SL
+
+[[00 Digital Garden Publish/Regeln/Regeln für SL/Boss-Monster\|Boss-Monster]]
+
+[[00 Digital Garden Publish/Regeln/Regeln für SL/Moral\|Moral]]
+
+[[00 Digital Garden Publish/Regeln/Regeln für SL/Orte volatiler Magie\|Orte volatiler Magie]]
+
+[[00 Digital Garden Publish/Regeln/Regeln für SL/Schätze\|Schätze]]
+
+[[00 Digital Garden Publish/Regeln/Regeln für SL/Zufallsbegegnungen\|Zufallsbegegnungen]]
