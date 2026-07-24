@@ -6,7 +6,7 @@
 # Hexenmeister
 *(Warlock)*
 
-*Heulende Krieger mit geschärften Zähnen, wildäugige Verkünder des Jüngsten Gerichts, welche die Auflösung predigen, und in Mäntel gehüllte Wissensjäger, die das verborgene Mal von Shune tragen.*
+> *Heulende Krieger mit geschärften Zähnen, wildäugige Verkünder des Jüngsten Gerichts, welche die Auflösung predigen, und in Mäntel gehüllte Wissensjäger, die das verborgene Mal von Shune tragen.*
 
 
 **Waffen:** Knüppel, Armbrust, Dolch, Streitkolben, Langschwert

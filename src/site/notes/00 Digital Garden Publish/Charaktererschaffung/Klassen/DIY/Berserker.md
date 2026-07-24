@@ -5,7 +5,7 @@
 
 ## Berserker
 
-*Berserker lieben den Rausch des Kampfes. Sie zehren von der Adrenalin und Energie der Schlacht. Für einen Berserker gibt es nur einen guten Tod: Mit der Waffe in der Hand auf dem Schlachtfeld.*
+> *Berserker lieben den Rausch des Kampfes. Sie zehren von der Adrenalin und Energie der Schlacht. Für einen Berserker gibt es nur einen guten Tod: Mit der Waffe in der Hand auf dem Schlachtfeld.*
 
 **Waffen:** Alle Nahkampfwaffen (keine Finesse-Waffen)
 
@@ -13,21 +13,24 @@
 
 **Trefferwürfel:** 1d8
 
-<br>
+## Fähigkeiten
 
-**FÄHIGKEITEN**
+### Barbarenschick
 
-**Barbarenschick**: Wenn du keine Rüstung trägst, darfst du neben deinem GES-Bonus auch deinen halben KON-Modifikator (abgerundet) zu deiner RK addieren.
+Wenn du keine Rüstung trägst, darfst du neben deinem GES-Bonus auch deinen halben KON-Modifikator (abgerundet) zu deiner RK addieren.
 
-**Rasende Wut**: Wenn dich ein Feind im Nahkampf mit mind. 1 TP Schaden verwundet, verfällst du in einen Rausch der Raserei, der anhält, bis sich nichts feindliches mehr rührt oder du auf 0 TP fällst. Während deiner Raserei würfelst du deine Nahkampfwaffenangriffe und deinen Schaden mit *Vorteil*, aber alle Gegner greifen dich ebenso mit *Vorteil* an. Außerdem kannst du nur noch angreifen oder dich in Richtung deiner Feinde bewegen. Andere Aktionen auszuführen erfordert je Handlung eine erfolgreiche WEI-Probe gegen SG 15.
+### Rasende Wut
 
-**Schwer zu töten.** Du ignorierst 1 Punkt Schaden aus jeglichen physischen Angriffen. Wenn du durch einen Nahkampfangriff auf 0 TP fällst, wähle:
-- *Todestimer*:  Würfel deinen Todestimer mit *Vorteil* und steh bei einem Ergebnis von 19-20 mit 1 Trefferpunkt wieder auf; du bist nicht *Erschöpft* und verfällst sofort in *Rasende Wut*, wenn dir keine WEI-Probe WEI gegen SG 15 gelingt (freiwillig)
-- *Vom Tod gezeichnet*: Regeneriere 1 zusätzlichen Trefferwürfel TP und verfalle sofort in *Rasende Wut*
+Wenn dich ein Feind im Nahkampf mit mind. 1 TP Schaden verwundet, verfällst du in einen Rausch der Raserei, der anhält, bis sich nichts feindliches mehr rührt oder du auf 0 TP fällst. Während deiner Raserei würfelst du deine Nahkampfwaffenangriffe und deinen Schaden mit *Vorteil*, aber alle Gegner greifen dich ebenso mit *Vorteil* an. Außerdem kannst du nur noch angreifen oder dich in Richtung deiner Feinde bewegen. Andere Aktionen auszuführen erfordert je Handlung eine erfolgreiche WEI-Probe gegen SG 15.
 
-<br>
+### Schwer zu töten
 
-**TALENTE**
+Du ignorierst 1 Punkt Schaden aus jeglichen physischen Angriffen. Wenn du durch einen Nahkampfangriff auf 0 TP fällst, wähle:
+
+- [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Sterben (Todestimer)\|Todestimer]]:  Würfel deinen Todestimer mit *Vorteil* und steh bei einem Ergebnis von 19-20 mit 1 Trefferpunkt wieder auf; du bist nicht *Erschöpft* und verfällst sofort in *Rasende Wut*, wenn dir keine WEI-Probe WEI gegen SG 15 gelingt (freiwillig)
+- [[00 Digital Garden Publish/Regeln/Schaden, Heilung und Tod#Optionale zusätzliche Regel Vom Tod gezeichnet\|Vom Tod gezeichnet]]: Regeneriere 1 zusätzlichen Trefferwürfel TP und verfalle sofort in *Rasende Wut*
+
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 |2d6|Effekt|

@@ -35,7 +35,7 @@
 
 **Nahtoderfahrung**: Kehrst du von *Sterbend* zurück (durch Nat. 20 oder weil stabilisiert/geheilt), bist du *Erschöpft*: Du hast *Nachteil* auf alle Proben, bis du eine Dungeon-Runde (6 Minuten) durchschnaufen konntest.
 
-</br>
+## Optionale zusätzliche Regel: Vom Tod gezeichnet
 
 > [!attention]- Optionale zusätzliche Regel: Vom Tod gezeichnet
 >
