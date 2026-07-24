@@ -42,10 +42,7 @@
     "Rüstungen"
   ],
   "/Regeln": [
-    "Angriffspatzer",
     "Bewegung",
-    "Buße",
-    "Diabolische Missgeschicke",
     "Distanz und Entfernung",
     "Furcht",
     "Kampf",
@@ -53,12 +50,18 @@
     "Level-Up",
     "Licht und Feuer",
     "Magie und Zaubern",
-    "Magische Missgeschicke",
     "Schaden, Heilung und Tod",
     "Schwierigkeitsgrade & Vergleichsproben",
     "Unsichere Rast",
     "Zeit vergeht",
+    "Patzer",
     "Regeln für SL"
+  ],
+  "/Regeln/Patzer": [
+    "Angriffspatzer",
+    "Buße",
+    "Diabolische Missgeschicke",
+    "Magische Missgeschicke"
   ],
   "/Regeln/Regeln für SL": [
     "Boss-Monster",
