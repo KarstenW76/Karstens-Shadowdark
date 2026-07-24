@@ -56,12 +56,17 @@
     "Magie und Zaubern",
     "Magische Missgeschicke",
     "Schaden, Heilung und Tod",
+    "Schwierigkeitsgrad (SG)",
     "Unsichere Rast",
     "Vergleichsproben",
     "Zeit vergeht",
     "Regeln für SL"
   ],
   "/Regeln/Regeln für SL": [
-    "Regelübersicht für SL"
+    "Boss-Monster",
+    "Moral",
+    "Orte volatiler Magie",
+    "Schätze",
+    "Zufallsbegegnungen"
   ]
 }
