@@ -49,7 +49,7 @@ Wähle unter den Kern-Klassen (diese sind ohne SL-Genehmigung erlaubt):
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Priester\|Priester]]
 - [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CORE/Waldläufer\|Waldläufer]]
 
-Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (diese sind meist nicht erlaubt).
+Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL (diese sind zumeist nicht erlaubt).
 
 ---
 
@@ -57,7 +57,7 @@ Wenn du eine der seltene Klassen wählen möchtest, sprich vorher mit deinem SL 
 
 Dein bisheriges Leben, deine Vergangenheit, dein Beruf. Würfle oder wähle auf der Tabelle [[00 Digital Garden Publish/Charaktererschaffung/Hintergründe\|Hintergründe]], oder schlag dem SL deine eigene Idee vor.
 
-**Nutzen im Spiel:** Erkläre dem SL, warum dein Hintergrund dir in bestimmter Situation helfen könnte. Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre. Möglicherweise erhältst du **ein mal je Sitzung** *Vorteil* auf einen passenden Wurf.
+**Nutzen im Spiel:** Erkläre dem SL, warum dein Hintergrund dir in bestimmter Situation helfen könnte. Vielleicht darfst du eine Probe machen, wo dies eigentlich nicht möglich wäre. Möglicherweise darfst du **ein mal je Spielsitzung** eine passende Probe mit *Vorteil* würfeln.
 
 ---
 
