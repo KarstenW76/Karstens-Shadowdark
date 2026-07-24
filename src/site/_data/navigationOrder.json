@@ -2,10 +2,10 @@
   "/": [
     "Willkommen",
     "Charaktererschaffung Level 1",
-    "Regelübersicht Spieler",
     "Charaktererschaffung",
     "Ausrüstung",
-    "Regeln"
+    "Regeln",
+    "Regelübersicht"
   ],
   "/Charaktererschaffung": [
     "Abstammungen (Core)",
@@ -56,7 +56,7 @@
     "Magie und Zaubern",
     "Magische Missgeschicke",
     "Schaden, Heilung und Tod",
-    "Schwierigkeitsgrad (SG)",
+    "Schwierigkeitsgrade & Vergleichsproben",
     "Unsichere Rast",
     "Vergleichsproben",
     "Zeit vergeht",
