@@ -15,7 +15,8 @@
     "Gottheiten",
     "Sprachen",
     "Zauberliste Magier",
-    "Zauberliste Priester"
+    "Zauberliste Priester",
+    "Zauber"
   ],
   "/Charaktererschaffung/Klassen": [
     "CORE",
@@ -37,6 +38,18 @@
   ],
   "/Charaktererschaffung/Klassen/DIY": [
     "Berserker"
+  ],
+  "/Charaktererschaffung/Zauber": [
+    "Magierzauber Grad 1",
+    "Magierzauber Grad 2",
+    "Magierzauber Grad 3",
+    "Magierzauber Grad 4",
+    "Magierzauber Grad 5",
+    "Priesterzauber Grad 1",
+    "Priesterzauber Grad 2",
+    "Priesterzauber Grad 3",
+    "Priesterzauber Grad 4",
+    "Priesterzauber Grad 5"
   ],
   "/Ausrüstung": [
     "Ausrüstung",
