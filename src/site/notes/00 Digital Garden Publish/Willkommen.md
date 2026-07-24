@@ -13,7 +13,7 @@ Dies ist die Wiki-Website für das Shadowdark Rollenspiel mit allen Informatione
 
 Hier findest du die Schritt-für-Schritt Anleitung zur Erschaffung deines Abenteurers: [[00 Digital Garden Publish/Charaktererschaffung Level 1\|Charaktererschaffung Level 1]]
 
-Hier findest du alle relevanten Regeln für unser Spiel: [[00 Digital Garden Publish/Regelübersicht Spieler\|Regelübersicht Spieler]]
+Hier findest du alle relevanten Regeln für unser Spiel: [[00 Digital Garden Publish/Regelübersicht\|Regelübersicht]]
 
 Kaufst in einer Siedlung ein, findest du dort zumeist die folgende Ausrüstung:
 - [[00 Digital Garden Publish/Ausrüstung/Ausrüstung\|Ausrüstung]]

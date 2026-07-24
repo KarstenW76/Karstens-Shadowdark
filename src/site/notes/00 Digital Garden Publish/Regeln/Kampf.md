@@ -12,7 +12,7 @@
 - **Phase 2**: Alle Monster agieren
 - **Phase 3**: Abenteurer, die die INI-Probe nicht geschafft haben, agieren in beliebiger Reihenfolge (**Patzer**: *Nachteil* auf alle Proben in erster Runde)
 
-**Verzögern**: In Phase 1 agierender Spieler sagt an, welche Aktion er ausführen wird, wenn was genau passiert, dann wartet er ab. Tritt die Situation ein und ihm gelingt eine [[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] GES gegen GES, unterbricht er die Handlung, scheitert die Probe reagiert er direkt nach dem Zug des Gegners
+**Verzögern**: In Phase 1 agierender Spieler sagt an, welche Aktion er ausführen wird, wenn was genau passiert, dann wartet er ab. Tritt die Situation ein und ihm gelingt eine [[00 Digital Garden Publish/Regeln/Schwierigkeitsgrade & Vergleichsproben#Vergleichsproben\|Vergleichsprobe]] GES gegen GES, unterbricht er die Handlung, scheitert die Probe reagiert er direkt nach dem Zug des Gegners
 
 ---
 
@@ -30,7 +30,7 @@ Wenn du deinen vollständigen Zug zum Ausweichen verwendest (keine Aktion oder B
 
 Bewege dich bis zu Distanz **Nah (9m / 6 Grid-Felder)** oder steh von liegend auf, greif etwas vom Boden oder wechsle deine Waffen.
 
-Du kannst dich frei durch Verbündete bewegen. Um dich durch Feinde zu bewegen, musst du eine STR- oder GES-[[00 Digital Garden Publish/Regeln/Vergleichsproben\|Vergleichsprobe]] bestehen und brauchst das höhere Ergebnis.
+Du kannst dich frei durch Verbündete bewegen. Um dich durch Feinde zu bewegen, musst du eine STR- oder GES-[[00 Digital Garden Publish/Regeln/Schwierigkeitsgrade & Vergleichsproben#Vergleichsproben\|Vergleichsprobe]] bestehen und brauchst das höhere Ergebnis.
 
 Beim Entfernen aus *Direkt*-Entfernung zu Gegner: GES-Probe SG 12; bei Misserfolg darf Gegner einen Nahkampfangriff ausführen
 
