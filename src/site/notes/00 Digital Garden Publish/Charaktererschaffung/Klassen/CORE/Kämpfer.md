@@ -4,8 +4,9 @@
 
 
 # Kämpfer
+*(Fighter)*
 
-*Blutüberströmte Gladiatoren in verbeulten Rüstungen, akrobatische Duellanten mit schnellen Klingen oder weitsichtige elfische Bogenschützen.*
+> *In Feindesblut gebasete Gladiatoren in verbeulten Rüstungen, akrobatische Duellanten mit schnellen Klingen oder weitsichtige elfische Bogenschützen.*
 
 
 **Waffen**: Alle Waffen

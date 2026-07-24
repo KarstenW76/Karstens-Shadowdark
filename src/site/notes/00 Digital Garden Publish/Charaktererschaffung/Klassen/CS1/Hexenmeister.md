@@ -3,9 +3,10 @@
 ---
 
 
-## Hexenmeister 
+# Hexenmeister
+*(Warlock)*
 
-*Heulende Krieger mit geschärften Zähnen, wildäugige Verkünder des Jüngsten Gerichts, welche die Auflösung (The Dissolution) predigen, und in Mäntel gehüllte Wissensjäger, die das verborgene Mal von Shune tragen.*
+*Heulende Krieger mit geschärften Zähnen, wildäugige Verkünder des Jüngsten Gerichts, welche die Auflösung predigen, und in Mäntel gehüllte Wissensjäger, die das verborgene Mal von Shune tragen.*
 
 
 **Waffen:** Knüppel, Armbrust, Dolch, Streitkolben, Langschwert
@@ -17,22 +18,22 @@
 **Sprachen:** Wähle eine der folgenden: Celestisch, Diabolisch, Drakonisch, Primordial oder Sylvanisch
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Patron
+### Patron
 
 Wähle einen Patron, dem du dienst (siehe S. 17). Dein Patron ist die Quelle deiner übernatürlichen Gaben.
 
 Dein Patron kann entscheiden, dir seine Gaben jederzeit zu gewähren oder vorzuenthalten. Als Folge davon kannst du neue Patronssegen/Talente erlangen (oder verlieren).
 
-#### Patronssegen
+### Patronssegen
 
 Auf Level 1 erhältst du einen zufälligen Patronssegen von der Tabelle deines gewählten Patrons (siehe [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CS1/Hexenmeister#Patrone\|#Patrone]]).
 
-Wann immer du beim Stufenaufstieg ein neues Talent auswürfelst, kannst du dich entscheiden, auf deiner Patronssegen-Tabelle anstelle der regulären Talenttabelle des Hexenmeisters zu würfeln.
+Wann immer du beim Stufenaufstieg ein neues Talent auswürfelst, kannst du dich entscheiden, auf deiner Patronssegen-Tabelle anstelle der regulären Talenttabelle des Hexers zu würfeln.
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6 | Effekt |
@@ -44,7 +45,7 @@ Wann immer du beim Stufenaufstieg ein neues Talent auswürfelst, kannst du dich 
 | 12 | Wähle unbeschränkt ein Talent aus. |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch | Neutral |
 | :--- | :--- | :--- | :--- |

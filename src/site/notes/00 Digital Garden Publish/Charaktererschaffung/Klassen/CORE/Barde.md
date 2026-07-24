@@ -4,8 +4,9 @@
 
 
 # Barde
+*(Bard)*
 
-*Barden sind willkommene Wanderer und weise Berater; es ist ihre Aufgabe, das über die Zeitalter überlieferte Wissen zu schützen und zu teilen.*
+> *Barden sind willkommene Wanderer und weise Berater; es ist ihre Aufgabe, das über die Zeitalter überlieferte Wissen zu schützen und zu teilen.*
 
 
 **Waffen:** Armbrust, Dolch, Streitkolben, Kurzbogen, Kurzschwert, Speer, Kampfstab

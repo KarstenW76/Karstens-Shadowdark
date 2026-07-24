@@ -4,8 +4,9 @@
 
 
 # Waldläufer
+*(Ranger)*
 
-*Geschickte Fährtenleser, stille Wanderer und unübertroffene Krieger, die die Wildnis ihre Heimat nennen.*
+> *Geschickte Fährtenleser, stille Wanderer und unübertroffene Krieger, die die Wildnis ihre Heimat nennen.*
 
 
 **Waffen:** Dolch, Langbogen, Langschwert, Kurzbogen, Kurzschwert, Speer, Kampfstab

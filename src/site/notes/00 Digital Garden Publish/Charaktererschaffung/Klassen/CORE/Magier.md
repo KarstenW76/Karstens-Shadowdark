@@ -4,8 +4,9 @@
 
 
 # Magier
+*(Wizard)*
 
-*Runentätowierte Adepten, bebrillte Magi und flammenbeschwörende Hexen, die es wagen, die gefürchteten Mächte der Magie zu manipulieren.*
+> *Runentätowierte Adepten, bebrillte Magi und flammenbeschwörende Hexen, die es wagen, die gefürchteten Mächte der Magie zu manipulieren.*
 
 
 **Waffen**: Dolch, Stab

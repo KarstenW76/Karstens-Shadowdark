@@ -4,8 +4,9 @@
 
 
 # Priester
+*(Priest)*
 
-*Templer, prophetische Schamanen oder wahnsinnige Eiferer, welche die Macht ihrer Götter leiten, um das Unheilige zu reinigen.*
+> *Templer, prophetische Schamanen oder wahnsinnige Eiferer, welche die Macht ihrer Götter leiten, um das Unheilige zu reinigen.*
 
 
 **Waffen**: Knüppel, Armbrust, Dolch, Streitkolben, Langschwert, Stab, Kriegshammer

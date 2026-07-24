@@ -4,8 +4,9 @@
 
 
 # Dieb
+*(Thief)*
 
-*Meuchelmörder, grinsende Trickbetrüger oder verhüllte Fassadenkletterer, die einem schlafenden Dämon einen Edelstein aus den Klauen stehlen, um ihn für das Doppelte seines Wertes zu verkaufen.*
+> *Meuchelmörder, grinsende Trickbetrüger oder verhüllte Fassadenkletterer, die einem schlafenden Dämon einen Edelstein aus den Klauen stehlen, um ihn für das Doppelte seines Wertes zu verkaufen.*
 
 
 **Waffen**: Knüppel, Armbrust, Dolch, Kurzbogen, Kurzschwert

@@ -3,7 +3,7 @@
 ---
 
 
-## Hexe 
+# Hexe 
 *(Witch)*
 
 > *Kichernde Alte, die über Kesseln kauern, singende Schamanen, die mit Blut und Lehm verschmiert sind, und ausgestoßene Maiden mit milchigen Augen, die Vorzeichen und Geheimnisse sehen.*
@@ -18,9 +18,9 @@
 **Sprachen (Languages):** Diabolisch, Primordial und Sylvanisch
 
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Vertrauter
+### Vertrauter
 
 Du besitzt ein kleines Tier wie einen Raben, eine Ratte oder einen Frosch, das dir loyal dient. Es kann die Gemeinsprache sprechen.
 
@@ -28,20 +28,22 @@ Dein Vertrauter kann die Quelle von Zaubern sein, die du wirkst. Behandle ihn so
 
 Wenn dein Vertrauter stirbt, kannst du ihn wieder zum Leben erwecken, indem du dauerhaft 1d4 Trefferpunkte (TP) opferst.
 
-#### Zauberwirken
+### Zauberwirken
 
-Du kannst dir bekannte **Hexen-Zauber** wirken.
+Du kannst dir bekannte **Hexenzauber** wirken, die du kennst. Dein relevantes Attribut ist **CHA**.
 
-Du startest auf Level 1 mit drei bekannten Zaubern des 1. Grades deiner Wahl aus der Zauberliste der Hexe (siehe S. 24).
+Du kennst drei Zauber des 1. Grades deiner Wahl aus der [[00 Digital Garden Publish/Charaktererschaffung/Zauberliste Hexen\|Zauberliste Hexen]].
+Wenn du ein Level aufsteigst, wählst du neue Hexenzauber gemäß der Tabelle [[00 Digital Garden Publish/Charaktererschaffung/Klassen/CS1/Hexe(r)#Bekannte Zauber nach Zaubergrad\|#Bekannte Zauber nach Zaubergrad]] aus. 
 
-Jedes Mal, wenn du ein Level aufsteigst, wählst du neue Hexen-Zauber, die du gemäß der Tabelle „Bekannte Hexen-Zauber“ lernst.
+Du kannst dir bekannte und vorbereitete Hexenzauber wirken. Würfle 1d20 + CHA-Mod gegen 10 + Zaubergrad:
 
-Du nutzt **CHA** als Attribut für das Wirken von Hexen-Zaubern. Der SG für das Zauberwirken ist 10 + der Grad des Zaubers.
-Wenn du eine Probe für das Zauberwirken verfehlst, kannst du diesen spezifischen Zauber nicht erneut wirken, bis du eine Rast erfolgreich abgeschlossen hast.
-Wenn du bei einer Probe für das Zauberwirken eine NAT-1 würfelst, musst du zusätzlich auf der entsprechenden Tabelle für *Diabolische Missgeschicke* des jeweiligen Zaubergrades würfeln.
+- **Erfolg**: Dein Zauber ist erfolgreich und er bleibt vorbereitet
+- **Krit**: Wie Erfolg und Verdopplung eines numerischen Zauber-Effekts
+- **Misserfolg**: Dein Zauber scheitert und geht verloren (Vorbereitung nach erfolgreicher *Rast*)
+- **Patzer**: Wie Misserfolg und Wurf auf Tabelle [[00 Digital Garden Publish/Regeln/Diabolische Missgeschicke\|Diabolische Missgeschicke]]
 
 
-### Talente
+## Talente
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | 2d6   | Effekt                                                                                                                                                                          |
@@ -53,7 +55,7 @@ Wenn du bei einer Probe für das Zauberwirken eine NAT-1 würfelst, musst du zus
 | 12    | Wähle unbeschränkt ein Talent aus.                                                                                                                                              |
 
 
-### Bekannte Zauber nach Zaubergrad
+## Bekannte Zauber nach Zaubergrad
 *(Würfel ein neues Talent, wenn du Level 1, 3, 5, 7, 9 erreichst)*
 
 | Level\Grad | 1 | 2 | 3 | 4 | 5 |
@@ -70,7 +72,7 @@ Wenn du bei einer Probe für das Zauberwirken eine NAT-1 würfelst, musst du zus
 | 10 | 4 | 4 | 4 | 2 | 2 |
 
 
-### Titel
+## Titel
 
 | Level | Rechtschaffen | Chaotisch | Neutral |
 | :--- | :--- | :--- | :--- |
