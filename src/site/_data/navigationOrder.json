@@ -17,7 +17,29 @@
     "Zauberliste Hexen",
     "Zauberliste Magier",
     "Zauberliste Priester",
+    "Klassen-Details",
     "Zauber"
+  ],
+  "/Charaktererschaffung/Klassen-Details": [
+    "CORE",
+    "CS1",
+    "DIY"
+  ],
+  "/Charaktererschaffung/Klassen-Details/CORE": [
+    "Barde",
+    "Dieb",
+    "Kämpfer",
+    "Magier",
+    "Priester",
+    "Waldläufer"
+  ],
+  "/Charaktererschaffung/Klassen-Details/CS1": [
+    "Hexe(r)",
+    "Hexenmeister",
+    "Ritter von St. Ydris"
+  ],
+  "/Charaktererschaffung/Klassen-Details/DIY": [
+    "Berserker"
   ],
   "/Charaktererschaffung/Zauber": [
     "Hexenzauber Grad 1",
